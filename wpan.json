@@ -1,0 +1,8 @@
+{"vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
+"drives": [
+{"name": "ali-1","server": "http://192.168.1.111:5244/ali-1"},
+{"name": "ali-2","server": "http://192.168.1.111:5244/ali-2"},
+{"name": "lee","server": "http://192.168.1.111:5244/lee"},
+{"name": "115","server": "http://192.168.1.111:5244/115"},
+{"name": "小丫","server": "http://alist.xiaoya.pro"}
+]}
