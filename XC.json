@@ -116,6 +116,7 @@
 
 "wallpaper":"http://饭太硬.ga/深色壁纸/api.php","lives":[
 {"name":"zytv","type":0,"url":"https://raw.githubusercontent.com/leeqys/xc/main/bc.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"zydx","type":0,"url":"https://raw.githubusercontent.com/leeqys/xc/main/dx.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"51jg","type":0,"url":"https://codeberg.org/jgfx/hbox/raw/branch/main/51.txt","boot":true,"epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"feim","type":0,"url":"http://我不是.肥猫.love:63/TV/tvzb.txt","boot":true,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"lying","type":0,"url":"https://raw.iqiq.io/lmlmi/ooo/master/live.txt","boot":true,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
