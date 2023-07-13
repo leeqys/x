@@ -11,7 +11,7 @@
 //{"key":"UpYun","name":"雲搜","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":0,"ext":"file://xc/sub/t16.txt","jar":"file://xc/fmpg.jar"},
 //{"key":"PanSearch","name":"盤搜索","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"file://xc/sub/t16.txt","jar":"file://xc/fmpg.jar"},
 //{"key":"PanSou","name":"盤搜","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":0,"ext":"file://xc/sub/t16.txt","jar":"file://xc/fmpg.jar"},
-//file://xc/{"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://raw.githubusercontent.com/leeqys/xc/main/s/t.txt"},
+{"key":"YiSo","name":"易搜x","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://raw.githubusercontent.com/leeqys/xc/main/s/t.txt"},
 //{"key":"TuGou","name":"土搜","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://raw.githubusercontent.com/leeqys/xc/main/s/t.txt"},
 {"key":"Dovx","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 
