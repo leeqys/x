@@ -3,7 +3,7 @@
 //"spider":"file://xc/fty.jar;md5;c9f3a84b994becce94ff8389a951d766",
 //"spider":"file://xc/custom_spider.jar;md5;dc64f1fe003adcd9916ee38638684376",
 
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;B998C7DC586E41719BDFE805C2E4779E",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;9C583833C9809E13D924E3A2E27A2ED3",
 "sites":[
 {"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"file://xc/sub/Nmys.json"},
@@ -13,6 +13,7 @@
 //{"key":"PanSou","name":"盤搜","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":0,"ext":"file://xc/sub/t16.txt","jar":"file://xc/fmpg.jar"},
 {"key":"YiSo","name":"易搜x","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://raw.githubusercontent.com/leeqys/xc/main/s/t.txt"},
 //{"key":"TuGou","name":"土搜","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://raw.githubusercontent.com/leeqys/xc/main/s/t.txt"},
+{"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"Dovx","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 
 {"key":"Gitcafe","name":"纸条","type":3,"api":"csp_Gitcafe","searchable":1,"filterable":1,"changeable":0,"ext":"https://raw.githubusercontent.com/leeqys/xc/main/s/t.txt","jar":"file://xc/xyq.jar"},
