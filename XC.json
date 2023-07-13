@@ -5,7 +5,7 @@
 
 	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;9C583833C9809E13D924E3A2E27A2ED3",
 "sites":[
-{"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Czsapp","name":"厂长2","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"file://xc/sub/Nmys.json"},
 //{"key":"zy","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,"ext":"file://xc/sub/t16.txt$$$ytv$$$abcd1234","jar":"file://xc/fmpg.jar"},
 //{"key":"UpYun","name":"雲搜","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":0,"ext":"file://xc/sub/t16.txt","jar":"file://xc/fmpg.jar"},
