@@ -38,7 +38,7 @@
 {"key":"drpy_js_ikanbot2","name":"爱看机器人","type":3,"api":"file://xc/lib/drpy2.min.js","ext":"file://xc/js/ikanbot2.js"},
 {"key":"drpy_js_豆瓣","name":"豆瓣","type":3,"api":"file://xc/lib/drpy2.min.js","ext":"file://xc/js/drpy.js"},
 {"key":"drpy_js_lf_ikanbot","name":"ikanbot","type":3,"api":"file://xc/js/lf_ikanbot2_4_min.js"},
-{"key":"drpy_js_荐片","name":"荐片","type":3,"api":"file://xc/lib/drpy2.min.js","ext":"file://xc/js/荐片.js","playerType":"1"},
+{"key":"drpy_js_荐片","name":"荐片","type":3,"api":"file://xc/lib/drpy2.min.js","ext":"file://xc/js/荐片.js","playerType":"1","jar":"file://xc/f.jar"},
 
 {"key":"csp_Nbys","name":"泥巴","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_Biliych","name":"哔哔","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"file://xc/sub/biliych.json"},
