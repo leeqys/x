@@ -3,7 +3,7 @@
 //"spider":"file://xc/fty.jar;md5;c9f3a84b994becce94ff8389a951d766",
 //"spider":"file://xc/custom_spider.jar;md5;dc64f1fe003adcd9916ee38638684376",
 
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;9C583833C9809E13D924E3A2E27A2ED3",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F17BB5BC83E93945EA737AC673310043",
 "sites":[
 {"key":"csp_Czsapp","name":"厂长66","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"file://xc/sub/Nmys.json"},
@@ -48,7 +48,7 @@
 //{"key":"lf_js直播","name":"mv本地","type":3,"api":"file://xc/sub/lf_live8_min.js","ext":"file://xc/sub/lf_live_min.txt"},
 
 {"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
+{"key":"csp_fantuan","name":"饭团","type":3,"api":"csp_Fantuan","searchable":1,"quic kSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"csp_YQKAPP","name":"一起","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"影探","name":"影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lfytyl.com/api.php/app/"},
 {"key":"狐狸","name":"狐狸","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
