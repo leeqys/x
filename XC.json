@@ -3,8 +3,8 @@
 	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;EC14722944CB094619829A8824876D73",
 "sites":[
 
-{"key": "哔哩","name": "哔哩","type": 3,"api": "csp_Bili","searchable": 1,"changeable": 0,"ext": {"type": "帕梅拉#太极拳#广场舞#演唱会","cookie": ""}},
-{"key": "星星","name": "星星","type": 3,"api": "csp_Star","searchable": 1,"changeable": 1},
+{"key": "哔哩","name": "哔哩","type": 3,"api": "csp_Bili","searchable": 1,"changeable": 0,"ext": {"type": "帕梅拉#太极拳#广场舞#演唱会","cookie": ""},"jar":"file://xc/f.jar"},
+{"key": "星星","name": "星星","type": 3,"api": "csp_Star","searchable": 1,"changeable": 1,"jar":"file://xc/f.jar"},
 
 {"key":"csp_Czsapp","name":"厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"file://xc/sub/Nmys.json"},
