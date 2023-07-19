@@ -18,9 +18,12 @@ http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhA
 #EXTINF:-1 group-title="少儿卡通",广东少儿-谷豆
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=1457_4500
 
-#EXTINF:-1 group-title="少儿卡通",金鹰卡通HD-眉山
+#EXTINF:-1 group-title="少儿卡通",BRTV卡酷少儿[高清]-北京
+http://api01.zhoufan.net:8000/rtp/239.3.1.189:8000
+
+#EXTINF:-1 group-title="少儿卡通",金鹰卡通HD-jsdx
 http://180.116.172.19:4022/udp/239.49.9.23:6000
-#EXTINF:-1 group-title="少儿卡通",优漫卡通HD-眉山
+#EXTINF:-1 group-title="少儿卡通",优漫卡通HD-jsdx
 http://180.116.172.19:4022/udp/239.49.9.39:6000
 
 #EXTINF:-1 group-title="少儿卡通",金鹰卡通高清-移动
@@ -30,32 +33,31 @@ http://183.234.194.165:8888/udp/239.21.0.87:3688
 #EXTINF:-1 group-title="少儿卡通",嘉佳卡通高清-移动
 http://183.234.194.165:8888/udp/239.21.0.94:3716
 
-#EXTINF:-1 group-title="少儿卡通",广东少儿高清-dx
+#EXTINF:-1 group-title="少儿卡通",广东少儿高清-gddx
 http://61.140.125.220:10000/udp/239.77.0.250:5146
-#EXTINF:-1 group-title="少儿卡通",嘉佳卡通高清-dx
+#EXTINF:-1 group-title="少儿卡通",嘉佳卡通高清-gddx
 http://61.140.125.220:10000/udp/239.77.0.179:5146
-#EXTINF:-1 group-title="少儿卡通",金鹰卡通高清-dx
+#EXTINF:-1 group-title="少儿卡通",金鹰卡通高清-gddx
 http://61.140.125.220:10000/udp/239.77.0.164:5146
-#EXTINF:-1 group-title="少儿卡通",嘉佳卡通-dx
+#EXTINF:-1 group-title="少儿卡通",嘉佳卡通-gddx
 http://61.140.125.220:10000/udp/239.77.0.13:5146
-#EXTINF:-1 group-title="少儿卡通",卡酷少儿-dx
+#EXTINF:-1 group-title="少儿卡通",卡酷少儿-gddx
 http://61.140.125.220:10000/udp/239.77.0.79:5146
-#EXTINF:-1 group-title="少儿卡通",哈哈炫动-dx
+#EXTINF:-1 group-title="少儿卡通",哈哈炫动-gddx
 http://61.140.125.220:10000/udp/239.77.0.81:5146
-#EXTINF:-1 group-title="少儿卡通",优漫卡通-dx
+#EXTINF:-1 group-title="少儿卡通",优漫卡通-gddx
 http://61.140.125.220:10000/udp/239.77.0.222:5146
 
-#EXTINF:-1 group-title="少儿卡通",炫动卡通-眉山
+#EXTINF:-1 group-title="少儿卡通",炫动卡通-jsdx
 http://gyj12315.top:4022/udp/239.93.26.173:5140
-#EXTINF:-1 group-title="少儿卡通",嘉佳卡通-眉山
+#EXTINF:-1 group-title="少儿卡通",嘉佳卡通-jsdx
 http://gyj12315.top:4022/udp/239.93.26.246:5140
-#EXTINF:-1 group-title="少儿卡通",卡酷动画-眉山
+#EXTINF:-1 group-title="少儿卡通",卡酷动画-jsdx
 http://gyj12315.top:4022/udp/239.93.26.208:5140
-#EXTINF:-1 group-title="少儿卡通",金鹰卡通-眉山
+#EXTINF:-1 group-title="少儿卡通",金鹰卡通-jsdx
 http://gyj12315.top:4022/udp/239.93.26.108:5140
-#EXTINF:-1 group-title="少儿卡通",优漫卡通-眉山
+#EXTINF:-1 group-title="少儿卡通",优漫卡通-jsdx
 http://gyj12315.top:4022/udp/239.93.26.251:5140
-
 
 #EXTINF:-1 group-title="gudou-net-lxc",广东综艺4K
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18602906577&ptoken=El8Ddz3fhANH3OBzkos2qw%3D%3D&pserialnumber=22702bd68a70cb12&cid=1346&id=GDZYHD4K_38000
@@ -426,7 +428,6 @@ http://www.namewee.xyz/gudou.php?id=364&id=jieyangertao_1500
 http://www.namewee.xyz/gudou.php?id=364&id=qingyuanzonghe_1500
 #EXTINF:-1 group-title="gudou-net2",清远生活
 http://www.namewee.xyz/gudou.php?id=364&id=qingyuangongong_1500
-
 
 #EXTINF:-1 group-title="易视腾",纯享4K
 http://gslbserv.itv.cmvideo.cn:80/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
@@ -1197,3 +1198,4 @@ http://180.116.172.19:4022/udp/239.49.9.12:6000
 http://180.116.172.19:4022/udp/239.49.9.13:6000
 #EXTINF:-1 group-title="zbjsdx",央视台球HD
 http://180.116.172.19:4022/udp/239.49.9.22:6000
+
