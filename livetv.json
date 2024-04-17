@@ -1,0 +1,10 @@
+{
+"lives":[
+{"name":"bc","type":0,"url":"https://agit.ai/leeqys/xc/raw/branch/master/bc.txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"iptv•4h","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"Yoursmile","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"饭太硬","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":2,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"肥猫","type":0,"url":"http://我不是.肥猫.live/TV/tvzb.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"16万•MV","type":0,"url":"https://fongmi.cachefly.net/lystv/short/main/影视/tvb/MTV.txt"},
+{"name":"dx","type":0,"url":"file://xc/dx.m3u","playerType":2,"boot":"true","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}"}
+]}
