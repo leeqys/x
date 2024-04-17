@@ -1,5 +1,8 @@
 {
 "lives":[
+
+{"name":"bc_git","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/leeqys/xc/main/bc.txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+
 {"name":"bc","type":0,"url":"https://agit.ai/leeqys/xc/raw/branch/master/bc.txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"iptv•4h","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"Yoursmile","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
