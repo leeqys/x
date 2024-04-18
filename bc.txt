@@ -22,6 +22,13 @@
 卡酷少儿,http://58.63.64.164:8888/rtp/239.77.0.79:5146$高清
 哈哈炫动,http://58.63.64.164:8888/rtp/239.77.0.81:5146$高清
 
+4GTV,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+靖天日本,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
+
+
 黑龙江PLTV,#genre#
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
