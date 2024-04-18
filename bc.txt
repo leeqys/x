@@ -23,8 +23,36 @@
 哈哈炫动,http://58.63.64.164:8888/rtp/239.77.0.81:5146$高清
 
 4GTV,#genre#
+
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+CHC高清电影,P2p://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
+CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
+CHC高清电影,P2p://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1
+CHC家庭影院,P2p://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4fc2
+CHC动作电影,P2p://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561f
+
+凤凰资讯,https://www.youtube.com/watch?v=a3WZVssKlAI
+凤凰资讯,https://www.youtube.com/watch?v=HFib76ySpbU
+中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+寰宇新聞,https://www.youtube.com/watch?v=UcTIv4ZaE5Y
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
+鏡新聞mnews,https://www.youtube.com/watch?v=5n0y6b0Q25o
+三立新聞,https://www.youtube.com/watch?v=FoBfXvlOR6I
+三立+,https://www.youtube.com/watch?v=oZdzzvxTfUY
+GB News,https://www.youtube.com/watch?v=8WX6YL9JnLw
+公視,https://www.youtube.com/watch?v=quwqlazU-c8
+中天亞洲,https://www.youtube.com/watch?v=PYtGQvNmadg
+大愛一臺,https://www.youtube.com/watch?v=MIqUplvSRWA
+大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+鳥鳴音樂,https://www.youtube.com/watch?v=TAhHaHsDTkk
 
 靖天日本,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
 
@@ -313,12 +341,6 @@ CCTV-8K超高清,http://mtw.so/5xRPVl
 
 
 streamlink,#genre#
-
-CHC高清电影,P2p://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
-CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
-CHC高清电影,P2p://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1
-CHC家庭影院,P2p://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4fc2
-CHC动作电影,P2p://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561f
 
 EPG下載(https://www.stream-link.org/epg/guide.xml),http://www.stream-link.org/epg/guide.xml
 Cartoon Network(測試),https://sc2024.stream-link.org/tv2306.php?id=c01
