@@ -66,7 +66,7 @@
 
 {"key":"Bili","name":"🅱合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"},
 {"key":"Biliych","name":"🅱唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"},
-{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"https://agit.ai/leeqys/xc/raw/branch/master/sub/ali.json"},
+{"key":"AList","name":"AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"file://xc/json/ali.json"},
 {"key":"drpy_js_奇艺","name":"爱奇艺","type":3,"api":"file://xc/JS/lib/drpy2.min.js","ext":"file://xc/JS/js/奇珍异兽.js"},
 {"key":"drpy_js_360影视","name":"360","type":3,"api":"file://xc/JS/lib/drpy2.min.js","ext":"file://xc/JS/js/360影视.js"},
 {"key":"drpy_优酷","name":"优酷","type":3,"api":"file://xc/JS/lib/drpy2.min.js","searchable":0,"ext":"file://xc/JS/js/优酷.js"},
@@ -116,4 +116,3 @@
 {"name":"肥猫","type":0,"url":"http://我不是.肥猫.live/TV/tvzb.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"16万•MV","type":0,"url":"https://fongmi.cachefly.net/lystv/short/main/影视/tvb/MTV.txt"},
 {"name":"dx","type":0,"url":"file://xc/dx.m3u","playerType":2,"boot":"true","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}"}]}
-
