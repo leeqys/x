@@ -1,5 +1,10 @@
 🎗 收藏频道,#genre# 备用代域名: chihomai.top:5678､nas.jdshipin.com:8801､suixiaobin.dsmynas.net:5666
+凤凰卫视,https://tv.iill.top/youtube/phoenixtvhk
 
+凤凰中文,http://115.230.180.180:9999/rtp/233.50.200.191:5140
+凤凰中文,http://hikvision.city:880/fhws.m3u8
+凤凰资讯,http://hikvision.city:880/fhzx.m3u8
+凤凰香港,http://hikvision.city:880/fhxgt.m3u8
 明珠台,http://125.89.163.44:8888/upd/239.12.22.122:10001
 广东珠江,http://125.89.163.44:8888/udp/239.77.0.1:5146$高清
 广东珠江,http://125.89.163.44:8888/udp/239.77.0.3:5146
