@@ -1,14 +1,11 @@
 🎗 收藏频道,#genre# 备用代域名: chihomai.top:5678､nas.jdshipin.com:8801､suixiaobin.dsmynas.net:5666
 
-翡翠台,P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
-民视,p2p://135.148.104.228:19806/7b662823ed634f1fad66ab442b177118
-凤凰卫视,https://tv.iill.top/youtube/phoenixtvhk
+CHC高清电影,P2p://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
+CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
+CHC高清电影,P2p://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1
+CHC家庭影院,P2p://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4fc2
+CHC动作电影,P2p://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561f
 
-凤凰中文,http://115.230.180.180:9999/rtp/233.50.200.191:5140
-凤凰中文,http://hikvision.city:880/fhws.m3u8
-凤凰资讯,http://hikvision.city:880/fhzx.m3u8
-凤凰香港,http://hikvision.city:880/fhxgt.m3u8
-明珠台,http://125.89.163.44:8888/upd/239.12.22.122:10001
 广东珠江,http://125.89.163.44:8888/udp/239.77.0.1:5146$高清
 广东珠江,http://125.89.163.44:8888/udp/239.77.0.3:5146
 广东珠江,http://125.89.163.44:8888/udp/239.77.0.114:5146$超清
@@ -30,20 +27,10 @@
 卡酷少儿,http://125.89.163.44:8888/rtp/239.77.0.79:5146$高清
 哈哈炫动,http://125.89.163.44:8888/rtp/239.77.0.81:5146$高清
 
-4GTV,#genre#
+youtube,#genre#
 
 parse=1
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-CHC高清电影,P2p://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
-CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
-CHC高清电影,P2p://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1
-CHC家庭影院,P2p://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4fc2
-CHC动作电影,P2p://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561f
-
-凤凰中文,http://171.223.215.229:4000/udp/239.93.1.9:2192
-凤凰资讯,http://171.223.215.229:4000/udp/239.93.1.4:2191
-
 凤凰资讯,https://www.youtube.com/watch?v=a3WZVssKlAI
 凤凰资讯,https://www.youtube.com/watch?v=HFib76ySpbU
 中天新聞2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
@@ -64,9 +51,6 @@ GB News,https://www.youtube.com/watch?v=8WX6YL9JnLw
 大愛一臺,https://www.youtube.com/watch?v=MIqUplvSRWA
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 鳥鳴音樂,https://www.youtube.com/watch?v=TAhHaHsDTkk
-
-靖天日本,https://www.4gtv.tv/channel/4gtv-4gtv047?set=1&ch=22
-
 
 黑龙江PLTV,#genre#
 
@@ -583,23 +567,6 @@ CCTV17 高清,http://183.234.194.165:8888/udp/239.20.0.7:3376
 广东少儿高清,http://183.234.194.165:8888/udp/239.21.0.87:3688
 嘉佳卡通高清,http://183.234.194.165:8888/udp/239.21.0.94:3716
 广东新闻高清,http://183.234.194.165:8888/udp/239.21.0.93:3712
-
-深圳旁边台,#genre#
-
-翡翠台,http://bziyunshao.synology.me:8889/bysid/1
-ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96
-ViuTV,http://bziyunshao.synology.me:8889/bysid/99
-明珠台,http://bziyunshao.synology.me:8890/bysid/2
-J2台,http://bziyunshao.synology.me:8890/bysid/82
-無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
-無綫財經,http://bziyunshao.synology.me:8890/bysid/85
-國際財經台,http://bziyunshao.synology.me:8891/bysid/76
-HOY TV,http://bziyunshao.synology.me:8891/bysid/77
-HOY 資訊台,http://bziyunshao.synology.me:8891/bysid/78
-港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
-港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
-CCTV-1綜合,http://bziyunshao.synology.me:8892/bysid/33
-CGTN紀錄頻道,http://bziyunshao.synology.me:8892/bysid/34
 
 🎧MTV,#genre#
 
