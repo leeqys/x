@@ -7,7 +7,7 @@
 "sites":[
 
 {"key":"豆豆","name":"豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"玩偶","name":"哥幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"}},
+{"key":"玩偶","name":"哥幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
 {"key":"YiSo","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
 //{"key": "易搜","name": "易搜","type": 3,"api": "csp_YiSo","searchable": 1,"changeable": 0,"jar":"file://xc/custom_spider.jar"},
 {"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
