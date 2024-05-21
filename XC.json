@@ -113,6 +113,7 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/","lives":[
 {"name":"bc_git","type":0,"url":"https://raw.githubusercontent.com/leeqys/xc/main/bc.txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"tang99","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/zengchaoqun0625/movies/807310c9885d29194ae0ca348ab138a9308c4fd4/ds/ipv4.txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"52sw.top","type":0,"url":"http://www.52sw.top:678/play/oj/159169.php?get=txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"iptv•4h","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"Yoursmile","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"饭太硬","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":2,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
