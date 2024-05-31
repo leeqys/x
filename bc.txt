@@ -542,6 +542,116 @@ TLC旅游生活,http://192.168.1.111:5678/Smartv.php?id=tlc_twn
 翡翠,http://192.168.1.111:5678/Smartv.php?id=jade_twn
 翡翠,http://192.168.1.111:5678/Smartv.php?id=Wlt
 
+Qxtao,#genre#
+
+TVB Magic,http://192.169.1.111:5678/Smartv.php?id=Tvbmagic
+TVB Jade,http://192.169.1.111:5678/Smartv.php?id=Tvbjade
+TVB Asia,http://192.169.1.111:5678/Smartv.php?id=Tvbasia
+TVB Entertainment,http://192.169.1.111:5678/Smartv.php?id=Tvbentertainment
+TVB Classic,http://192.169.1.111:5678/Smartv.php?id=Tvbclassic
+TVBJ2,http://192.169.1.111:5678/Smartv.php?id=j2_twn
+TVB星河,http://192.169.1.111:5678/Smartv.php?id=Xinhe
+TVB珍珠,http://192.169.1.111:5678/Smartv.php?id=pearl_twn
+TVB翡翠,http://192.169.1.111:5678/Smartv.php?id=jade_mike Indian
+HGTV,http://192.169.1.111:5678/Smartv.php?id=HGTV
+RHK31,http://192.169.1.111:5678/Smartv.php?id=rhk31_twn
+RHK32,http://192.169.1.111:5678/Smartv.php?id=rhk32_twn
+VIUTV1,http://192.169.1.111:5678/Smartv.php?id=viu1_twn
+VIUTV6,http://192.169.1.111:5678/Smartv.php?id=viusix_twn
+Viu TV69,http://192.169.1.111:5678/Smartv.php?id=viutv69_hkdavid
+凤凰香港,http://192.169.1.111:5678/Smartv.php?id=hkphoenix_twn
+无线财经,http://192.169.1.111:5678/Smartv.php?id=tvbcaijing_twn
+凤凰卫视,http://192.169.1.111:5678/Smartv.php?id=phoenixtv_hd
+凤凰资讯,http://192.169.1.111:5678/Smartv.php?id=phoenixinfo_hd
+
+珠江台,http://192.169.1.111:5678/Smartv.php?id=zhujiang
+凤凰卫视,http://192.169.1.111:5678/Smartv.php?id=phoenixtv_hd
+
+公视,http://192.169.1.111:5678/Smartv.php?id=ctv_taiwan
+台视HD,http://192.169.1.111:5678/Smartv.php?id=ttv_taiwan
+中视HD,http://192.169.1.111:5678/Smartv.php?id=zhongshihd_twn
+民视HD,http://192.169.1.111:5678/Smartv.php?id=ftvhd_taiwan
+华视HD,http://192.169.1.111:5678/Smartv.php?id=ctshd_twn
+大爱2台,http://192.169.1.111:5678/Smartv.php?id=catchplay_twn
+TVBS HD,http://192.169.1.111:5678/Smartv.php?id=tvbs
+TVBS新闻,http://192.169.1.111:5678/Smartv.php?id=tvbs_n
+TVBS欢乐,http://192.169.1.111:5678/Smartv.php?id=tvbshuanle_twn
+年代新闻,http://192.169.1.111:5678/Smartv.php?id=niandainews_twn
+中天新闻HD,http://192.169.1.111:5678/Smartv.php?id=ctinews
+中天娱乐 ,http://192.169.1.111:5678/Smartv.php?id=ctient
+中天综合,http://192.169.1.111:5678/Smartv.php?id=ctizhonghe
+中天亚洲,http://192.169.1.111:5678/Smartv.php?id=ctiasia_twn
+台视新闻,http://192.169.1.111:5678/Smartv.php?id=ttvnews_twn
+台视综合,http://192.169.1.111:5678/Smartv.php?id=ttvzhonghe_twn
+中视经典,http://http://192.169.1.111:5678/Smartv.php?id=zhongshi_twn
+中视新闻,http://192.169.1.111:5678/Smartv.php?id=zhongshinews_twn
+非凡新闻,http://http://192.169.1.111:5678/Smartv.php?id=feifannews_twn
+民视新闻,http://192.169.1.111:5678/Smartv.php?id=ftvnew_taiwan
+民视台湾,http://192.169.1.111:5678/Smartv.php?id=ftvtaiwan_twn
+八大第一,http://192.169.1.111:5678/Smartv.php?id=badafirst
+八大综合,http://192.169.1.111:5678/Smartv.php?id=badazhonghe
+八大戏剧,http://192.169.1.111:5678/Smartv.php?id=badadrama
+八大娱乐,http://192.169.1.111:5678/Smartv.php?id=badaentertain
+三立台湾,http://192.169.1.111:5678/Smartv.php?id=sanlitaiwan
+三立综合,http://192.169.1.111:5678/Smartv.php?id=sanlizhonghe
+三立戏剧,http://192.169.1.111:5678/Smartv.php?id=sanlixiju_twn
+三立新闻,http://192.169.1.111:5678/Smartv.php?id=inews_twn
+东森综合,http://192.169.1.111:5678/Smartv.php?id=ettvzhonghe
+东森超视,http://192.169.1.111:5678/Smartv.php?id=ettvsuper
+东森戏剧,http://192.169.1.111:5678/Smartv.php?id=ettvdrama
+东森电影,http://192.169.1.111:5678/Smartv.php?id=ettvmovie
+东森洋片,http://192.169.1.111:5678/Smartv.php?id=ettvwestern
+东森幼幼,http://192.169.1.111:5678/Smartv.php?id=yoyo_twn
+龙华洋片,http://192.169.1.111:5678/Smartv.php?id=lunghuawestern_twn
+龙详时代,http://192.169.1.111:5678/Smartv.php?id=lungxiangtime_twn
+龙华戏剧,http://192.169.1.111:5678/Smartv.php?id=lunghuaxiju_twn
+龙华偶像,http://192.169.1.111:5678/Smartv.php?id=lunghuaidol_twn
+龙华卡通,http://192.169.1.111:5678/Smartv.php?id=jingtiancartoon_twn
+靖天卡通,http://192.169.1.111:5678/Smartv.php?id=jingtiancartoon_twn
+靖天国际,http://192.169.1.111:5678/Smartv.php?id=jingtianintl_twn
+探索亚洲,http://192.169.1.111:5678/Smartv.php?id=discoverytwn_twn
+卫视中文,http://192.169.1.111:5678/Smartv.php?id=weishichinese_twn
+卫视电影,http://192.169.1.111:5678/Smartv.php?id=weishimovie_twn
+美亚电影,http://192.169.1.111:5678/Smartv.php?id=meiyamovie_twn
+星卫电影,http://192.169.1.111:5678/Smartv.php?id=xingwei_movie
+亚洲旅游,http://192.169.1.111:5678/Smartv.php?id=asiatravel_twn
+亚洲美食,http://192.169.1.111:5678/Smartv.php?id=afc_twn
+美食星球,http://192.169.1.111:5678/Smartv.php?id=foodplanet_twn
+动物星球,http://192.169.1.111:5678/Smartv.php?id=AnimalPlanet
+动物星球1,http://192.169.1.111:5678/Smartv.php?id=animalplanet_twn
+博斯网球,http://192.169.1.111:5678/Smartv.php?id=bositennis_twn
+博斯运动1,http://192.169.1.111:5678/Smartv.php?id=bosisport1_twn
+博斯高球2,http://192.169.1.111:5678/Smartv.php?id=bosigolf2_twn
+博斯运动2,http://192.169.1.111:5678/Smartv.php?id=bosisport2_twn
+国家地理,http://192.169.1.111:5678/Smartv.php?id=natgeohd_twn
+野生动物,http://192.169.1.111:5678/Smartv.php?id=natgeowild_twn
+好莱坞电影,http://192.169.1.111:5678/Smartv.php?id=hollywoodmovies_twn
+爱尔达体育2,http://192.169.1.111:5678/Smartv.php?id=eltasport2_twn
+爱尔达体育3,http://192.169.1.111:5678/Smartv.php?id=eltasport3_twn
+
+Astro Premier,http://192.169.1.111:5678/Smartv.php?id=Astropremier
+AEC,http://192.169.1.111:5678/Smartv.php?id=AEC
+华丽台 HD,http://192.169.1.111:5678/Smartv.php?id=Wlt
+欢喜台 HD,http://192.169.1.111:5678/Smartv.php?id=Huahee
+欢喜台 backup,192.169.1.111:5678/Smartv.php?id=Huahee_backup
+
+AXN Taiwan,http://192.169.1.111:5678/Smartv.php?id=axn_twn
+Animax,http://192.169.1.111:5678/Smartv.php?id=Animax
+Movies Now HD,http://192.169.1.111:5678/Smartv.php?id=moviesnow_raj
+Star Movies HD,http://192.169.1.111:5678/Smartv.php?id=starmovies_raj
+HBO Family,http://192.169.1.111:5678/Smartv.php?id=Hbofamily
+HBO Hits HD,http://192.169.1.111:5678/Smartv.php?id=Hbohits
+HBO HD,107.http://172.63.16:9630/Smartv.php?id=Hbo
+HBO Signature,http://192.169.1.111:5678/Smartv.php?id=Hbosignature
+
+BBC Earth HD,http://192.169.1.111:5678/Smartv.php?id=bbcearth_twn
+BBC Earth Lifestyle,http://192.169.1.111:5678/Smartv.php?id=bbclifestyle_twn
+MTV Live,http://192.169.1.111:5678/Smartv.php?id=mtvhd_twn
+Star Movies HD,http://192.169.1.111:5678/Smartv.php?id=starmovies_raj
+HBO Hits HD,http://192.169.1.111:5678/Smartv.php?id=Hbohits
+HBO HD,http://192.169.1.111:5678/Smartv.php?id=Hbo NatGeo
+
+
 黑龙江PLTV,#genre#
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
