@@ -17,6 +17,8 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21c
 CHC高清电影,P2p://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1
 CHC家庭影院,P2p://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4fc2
 CHC动作电影,P2p://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561f
+凤凰资讯台,p2p://generationnexxxt.com:19806/9601e432db8346318bc3f53bd6342b77
+凤凰中文台,p2p://generationnexxxt.com:19806/82176df4d34645d29cd3d021ab4fcfb5
 
 广东珠江,http://120.238.99.51:8888/udp/239.77.0.1:5146$高清
 广东珠江,http://120.238.99.51:8888/udp/239.77.0.3:5146
