@@ -1,10 +1,9 @@
 
 Ytb-love,#genre# "udpxy" && country="CN" && city="Meizhou" && header="Linux 5.10.194 i686" 广东电信
 
-22323,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=HFib76ySpbU
 凤凰资讯,https://www.youtube.com/watch?v=HFib76ySpbU
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
-寰宇新聞,https://www.youtube.com/watch?v=UcTIv4ZaE5Y
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
@@ -12,6 +11,17 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 大愛一臺,https://www.youtube.com/watch?v=MIqUplvSRWA
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+
+凤凰资讯,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=HFib76ySpbU
+中天新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+寰宇新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=6IquAgfvYmc
+TVBS新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=2mCSYvcfhtc
+民視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+華視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+台視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
+中視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+大愛一臺,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=MIqUplvSRWA
+大愛二臺,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=DTNkEm6jaqQ
 
 CHC高清电影,P2p://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
 CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
@@ -21,26 +31,26 @@ CHC动作电影,P2p://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561
 凤凰资讯台,p2p://generationnexxxt.com:19806/9601e432db8346318bc3f53bd6342b77
 凤凰中文台,p2p://generationnexxxt.com:19806/82176df4d34645d29cd3d021ab4fcfb5
 
-广东珠江,http://120.238.99.51:8888/udp/239.77.0.1:5146$高清
-广东珠江,http://120.238.99.51:8888/udp/239.77.0.3:5146
-广东珠江,http://120.238.99.51:8888/udp/239.77.0.114:5146$超清
-广东民生,http://120.238.99.51:8888/udp/239.77.0.225:5146$高清
-广东民生,http://120.238.99.51:8888/udp/239.77.0.5:5146
-广东体育,http://120.238.99.51:8888/udp/239.77.0.112:5146$高清-测试
-广东体育,http://120.238.99.51:8888/udp/239.77.0.6:5146
-广东体育,http://120.238.99.51:8888/udp/239.77.0.168:5146$超清
-大湾区卫视,http://120.238.99.51:8888/udp/239.77.0.215:5146$高清
-大湾区卫视,http://120.238.99.51:8888/udp/239.77.0.9:5146
-广东影视,http://120.238.99.51:8888/udp/239.77.0.217:5146$高清
-广东影视,http://120.238.99.51:8888/udp/239.77.0.11:5146
-佛山综合,http://120.238.99.51:8888/udp/239.253.43.57:5146$高清
-佛山综合,http://120.238.99.51:8888/udp/239.253.43.52:5146
-嘉佳卡通,http://120.238.99.51:8888/rtp/239.77.0.179:5146$高清
-广东少儿,http://120.238.99.51:8888/rtp/239.77.0.250:5146$高清
-金鹰卡通,http://120.238.99.51:8888/rtp/239.77.0.164:5146$高清
-优漫卡通,http://120.238.99.51:8888/rtp/239.77.0.222:5146$高清
-卡酷少儿,http://120.238.99.51:8888/rtp/239.77.0.79:5146$高清
-哈哈炫动,http://120.238.99.51:8888/rtp/239.77.0.81:5146$高清
+广东珠江,http://125.89.163.44:8888/udp/239.77.0.1:5146$高清
+广东珠江,http://125.89.163.44:8888/udp/239.77.0.3:5146
+广东珠江,http://125.89.163.44:8888/udp/239.77.0.114:5146$超清
+广东民生,http://125.89.163.44:8888/udp/239.77.0.225:5146$高清
+广东民生,http://125.89.163.44:8888/udp/239.77.0.5:5146
+广东体育,http://125.89.163.44:8888/udp/239.77.0.112:5146$高清-测试
+广东体育,http://125.89.163.44:8888/udp/239.77.0.6:5146
+广东体育,http://125.89.163.44:8888/udp/239.77.0.168:5146$超清
+大湾区卫视,http://125.89.163.44:8888/udp/239.77.0.215:5146$高清
+大湾区卫视,http://125.89.163.44:8888/udp/239.77.0.9:5146
+广东影视,http://125.89.163.44:8888/udp/239.77.0.217:5146$高清
+广东影视,http://125.89.163.44:8888/udp/239.77.0.11:5146
+佛山综合,http://125.89.163.44:8888/udp/239.253.43.57:5146$高清
+佛山综合,http://125.89.163.44:8888/udp/239.253.43.52:5146
+嘉佳卡通,http://125.89.163.44:8888/rtp/239.77.0.179:5146$高清
+广东少儿,http://125.89.163.44:8888/rtp/239.77.0.250:5146$高清
+金鹰卡通,http://125.89.163.44:8888/rtp/239.77.0.164:5146$高清
+优漫卡通,http://125.89.163.44:8888/rtp/239.77.0.222:5146$高清
+卡酷少儿,http://125.89.163.44:8888/rtp/239.77.0.79:5146$高清
+哈哈炫动,http://125.89.163.44:8888/rtp/239.77.0.81:5146$高清
 
 Docker-4GTV,#genre#
 
