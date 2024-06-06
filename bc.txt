@@ -89,9 +89,6 @@ TVBS 台劇台,http://192.168.1.111:5000/4gtv/285
 經典電影台,http://192.168.1.111:5000/4gtv/201
 花系列 經典劇場,http://192.168.1.111:5000/4gtv/279
 采昌影劇台,http://192.168.1.111:5000/litv/4gtv-4gtv049
-金光布袋戲,http://192.168.1.111:5000/4gtv/236
-電影免費看 2台,http://192.168.1.111:5000/4gtv/245
-電影原聲台 CMusic,http://192.168.1.111:5000/4gtv/218
 靖天戲劇台,http://192.168.1.111:5000/litv/4gtv-4gtv058
 靖天電影台,http://192.168.1.111:5000/litv/4gtv-4gtv061
 靖洋戲劇台,http://192.168.1.111:5000/litv/4gtv-4gtv045
@@ -238,7 +235,6 @@ CCTV17農業農村,video://https://www.yangshipin.cn/#/tv/home?pid=600001810
 靖天電影台,http://192.168.1.111:5678/litv.php?id=4gtv-4gtv061
 靖天國際台,http://192.168.1.111:5678/litv.php?id=4gtv-4gtv063
 中視菁采台,http://192.168.1.111:5678/litv.php?id=4gtv-4gtv064
-靖天資訊台,http://192.168.1.111:5678/litv.php?id=4gtv-4gtv065
 TVBS精采台,http://192.168.1.111:5678/litv.php?id=4gtv-4gtv067
 愛爾達娛樂台,http://192.168.1.111:5678/litv.php?id=4gtv-4gtv070
 TVBS新聞,http://192.168.1.111:5678/litv.php?id=4gtv-4gtv072
