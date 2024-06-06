@@ -2,12 +2,22 @@
 Ytb-love,#genre# "udpxy" && country="CN" && city="Meizhou" && header="Linux 5.10.194 i686" 广东电信
 
 
-翡翠台,http://192.168.1.111:5678/mytvsuper.php?id=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
-翡翠台,http://192.168.1.111:5678/mytvsuper.php?id=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
+翡翠台55,http://192.168.1.111:5678/mytvsuper.php?id=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+翡翠台55,http://192.168.1.111:5678/mytvsuper.php?id=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
 
 翡翠台qwqw,http://192.168.1.111:5678/mytvsuper.php?id=J
 翡翠台qwqr,http://192.168.1.111:5678/mytvsuper.php?id=JUHD
 
+翡翠台,http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=d16b6ae422642d2375b451d0176428fc&ext_start_limit=1717641568&int_start_limit=1717641568&ts=1717641568&c=603030737&p=1565&mode=admarker,ticks
+翡翠台 4K,http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=a1d42d4b22503406fd5d6981250d3db3&ext_start_limit=1717641569&int_start_limit=1717641569&ts=1717641569&c=603030737&p=1565&mode=admarker,ticks
+TVBplus,http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=8ef97fc472126043bdc3f155598efc69&ext_start_limit=1717641571&int_start_limit=1717641571&ts=1717641571&c=603030737&p=1565&mode=admarker,ticks
+明珠台,http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=974159b533023c748913db14ccfb7f68&ext_start_limit=1717641572&int_start_limit=1717641572&ts=1717641572&c=603030737&p=1565&mode=admarker,ticks
+黄金翡翠台,http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=6a5d813bb502e28748716055cdba480a&ext_start_limit=1717641574&int_start_limit=1717641574&ts=1717641574&c=603030737&p=1565&mode=admarker,ticks
+无线新闻台,http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=5db8b661ced1b8821ae7ba133c01ee9b&ext_start_limit=1717641574&int_start_limit=1717641574&ts=1717641574&c=603030737&p=1565&mode=admarker,ticks
+娱乐新闻台,http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=90b2f8f90ff41132b9e14ad005b03f4f&ext_start_limit=1717641576&int_start_limit=1717641576&ts=1717641576&c=603030737&p=1565&mode=admarker,ticks
+凤凰卫视中文台,http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=a51871bfc59bb9d066972ab3fd6d5885&ext_start_limit=1717641577&int_start_limit=1717641577&ts=1717641577&c=603030737&p=1565&mode=admarker,ticks
+凤凰卫视资讯台,http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=a288ad0eb1fd253f5aa6bd8d5d77bb03&ext_start_limit=1717641577&int_start_limit=1717641577&ts=1717641577&c=603030737&p=1565&mode=admarker,ticks
+凤凰卫视香港台,http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=552c4c3cf11b321587a6a001ae9c3e30&ext_start_limit=1717641578&int_start_limit=1717641578&ts=1717641578&c=603030737&p=1565&mode=admarker,ticks
 
 凤凰资讯,https://www.youtube.com/watch?v=HFib76ySpbU
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
