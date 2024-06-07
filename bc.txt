@@ -1,7 +1,7 @@
 
 Ytb-love,#genre# "udpxy" && country="CN" && city="Meizhou" && header="Linux 5.10.194 i686" 广东电信
 
-黃金翡翠台,https://mytvsuper.ecword.cloudns.be/TVG&key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480&type=mpd
+黃金翡翠台,https://mytvsuper.ecword.cloudns.be/TVG&type=mpd&type=clearkey=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
 
 
 mytv测试,https://mytvsuper.ecword.cloudns.be/JUHD
