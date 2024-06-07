@@ -1,11 +1,8 @@
 
 Ytb-love,#genre# "udpxy" && country="CN" && city="Meizhou" && header="Linux 5.10.194 i686" 广东电信
 
-#EXTINF:-1 tvg-id="TVG" tvg-logo="",黃金翡翠台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
-https://mytvsuper.ecword.cloudns.be/TVG
+黃金翡翠台,https://mytvsuper.ecword.cloudns.be/TVG&_type=mpd&type=clearkey&key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
+
 
 mytv测试,https://mytvsuper.ecword.cloudns.be/JUHD
 
