@@ -71,6 +71,21 @@ CHC动作电影,P2p://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561
 
 Docker-4GTV,#genre#
 
+AMC 最愛電影,http://192.168.1.111:5000/litv/4gtv-4gtv017
+CatchPlay 電影台,http://192.168.1.111:5000/litv/4gtv-4gtv076
+采昌影劇台,http://192.168.1.111:5000/litv/4gtv-4gtv049
+龍華電影台,http://192.168.1.111:5000/litv/litv-longturn03
+龍華偶像台,http://192.168.1.111:5000/litv/litv-longturn12
+龍華日韓台,http://192.168.1.111:5000/litv/litv-longturn11
+龍華戲劇台,http://192.168.1.111:5000/litv/litv-longturn18
+龍華經典台,http://192.168.1.111:5000/litv/litv-longturn21
+中視經典台,http://192.168.1.111:5000/litv/4gtv-4gtv080
+靖天戲劇台,http://192.168.1.111:5000/litv/4gtv-4gtv058
+靖天電影台,http://192.168.1.111:5000/litv/4gtv-4gtv061
+靖洋戲劇台,http://192.168.1.111:5000/litv/4gtv-4gtv045
+影迷數位電影台,http://192.168.1.111:5000/litv/4gtv-4gtv011
+公視戲劇台,http://192.168.1.111:5000/litv/4gtv-4gtv042
+
 民視,http://192.168.1.111:5000/litv/4gtv-4gtv155
 民視第一台,http://192.168.1.111:5000/litv/4gtv-4gtv003
 民視台灣台,http://192.168.1.111:5000/litv/4gtv-4gtv001
@@ -95,42 +110,14 @@ TVBS 新聞台,http://192.168.1.111:5000/litv/4gtv-4gtv072
 台視新聞台,http://192.168.1.111:5000/litv/4gtv-4gtv051
 東森新聞,http://192.168.1.111:5000/litv/4gtv-4gtv152
 
-民視影劇台,http://192.168.1.111:5000/litv/litv-ftv09
-中視經典台,http://192.168.1.111:5000/litv/4gtv-4gtv080
-靖天戲劇台,http://192.168.1.111:5000/litv/4gtv-4gtv058
-靖天電影台,http://192.168.1.111:5000/litv/4gtv-4gtv061
-龍華戲劇台,http://192.168.1.111:5000/litv/litv-longturn18
-龍華經典台,http://192.168.1.111:5000/litv/litv-longturn21
-龍華電影台,http://192.168.1.111:5000/litv/litv-longturn03
-靖洋戲劇台,http://192.168.1.111:5000/litv/4gtv-4gtv045
-影迷數位電影台,http://192.168.1.111:5000/litv/4gtv-4gtv011
-AMC 最愛電影,http://192.168.1.111:5000/litv/4gtv-4gtv017
-CatchPlay 電影台,http://192.168.1.111:5000/litv/4gtv-4gtv076
-公視戲劇台,http://192.168.1.111:5000/litv/4gtv-4gtv042
-采昌影劇台,http://192.168.1.111:5000/litv/4gtv-4gtv049
-龍華偶像台,http://192.168.1.111:5000/litv/litv-longturn12
-龍華日韓台,http://192.168.1.111:5000/litv/litv-longturn11
-
 靖天育樂台,http://192.168.1.111:5000/litv/4gtv-4gtv062
 靖天歡樂台,http://192.168.1.111:5000/litv/4gtv-4gtv054
-TVBS 綜藝台,http://192.168.1.111:5000/4gtv/284
-TVBS 歡樂台,http://192.168.1.111:5000/litv/4gtv-4gtv068
-TVBS 精采台,http://192.168.1.111:5000/litv/4gtv-4gtv067
-八大精彩台,http://192.168.1.111:5000/litv/4gtv-4gtv034
-八大綜藝台,http://192.168.1.111:5000/litv/4gtv-4gtv039
 ELTA 娛樂台,http://192.168.1.111:5000/litv/4gtv-4gtv070
-Lifetime 娛樂頻道,http://192.168.1.111:5000/4gtv/217
-MTV Live HD 音樂頻道,http://192.168.1.111:5000/4gtv/213
-Mezzo Live,http://192.168.1.111:5000/litv/4gtv-4gtv083
-Trace Urban,http://192.168.1.111:5000/litv/4gtv-4gtv082
 
 靖天映畫台,http://192.168.1.111:5000/litv/4gtv-4gtv055
 靖天卡通台,http://192.168.1.111:5000/litv/4gtv-4gtv044
 龍華卡通台,http://192.168.1.111:5000/litv/litv-longturn01
 靖洋卡通 Nice Bingo,http://192.168.1.111:5000/litv/4gtv-4gtv057
-DreamWorks 夢工廠動畫,http://192.168.1.111:5000/4gtv/282
-Nickelodeon,http://192.168.1.111:5000/4gtv/185
-Nick Jr. 兒童頻道,http://192.168.1.111:5000/4gtv/219
 i-Fun 動漫台,http://192.168.1.111:5000/litv/litv-ftv15
 
 TVBS,http://192.168.1.111:5000/litv/4gtv-4gtv073
@@ -203,8 +190,6 @@ CGTN 外语纪录,http://192.168.1.111:5000/ysp/cgtn-dockmentary
 新疆卫视,http://192.168.1.111:5000/ysp/xinjiang
 兵团卫视,http://192.168.1.111:5000/ysp/bingtuan
 2024世界男排联赛日本站 巴西VS斯洛文尼亚,http://192.168.1.111:5000/ysp/2023783503/600178746
-
-
 
 4gtv-php,#genre#
 
@@ -281,7 +266,6 @@ TVBJ2,http://192.168.1.111:5678/Smartv.php?id=j2_twn
 凤凰资讯,http://192.168.1.111:5678/Smartv.php?id=phoenixinfo_hd
 凤凰卫视,http://192.168.1.111:5678/Smartv.php?id=phoenixtv_hd
 凤凰香港,http://192.168.1.111:5678/Smartv.php?id=hkphoenix_twn
-无线财经资讯,http://192.168.1.111:5678/Smartv.php?id=tvbcaijing_twn
 VIUTV1,http://192.168.1.111:5678/Smartv.php?id=viu1_twn
 珠江台,http://192.168.1.111:5678/Smartv.php?id=zhujiang
 
