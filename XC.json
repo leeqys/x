@@ -128,4 +128,4 @@
 {"name":"肥猫","type":0,"url":"http://我不是.肥猫.live/TV/tvzb.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"16万•MV","type":0,"url":"https://fongmi.cachefly.net/lystv/short/main/影视/tvb/MTV.txt"},
 {"name":"XIUTAN","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"},
-{"name":"dx","type":0,"url":"file://xc/dx.m3u","playerType":2,"boot":"true","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}"}]}
+{"name":"dx","type":0,"url":"https://raw.githubusercontent.com/leeqys/xc/main/dx.m3u","playerType":2,"boot":"true","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}"}]}
