@@ -1,5 +1,4 @@
 mytvsuper
-88,http://epg.doube.eu.org/MyTvSuper.m3u
 翡翠台(超高清),https://mytvsuper.ecword.cloudns.be/JUHD
 翡翠台,https://mytvsuper.ecword.cloudns.be/J
 TVB Plus,https://mytvsuper.ecword.cloudns.be/B
