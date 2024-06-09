@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="88888" tvg-name="88888" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" group-title="SUPER FREE", 翡翠台
-https://mytvsuper.860775.xyz/
+http://epg.doube.eu.org/MyTvSuper.m3u
 #EXTINF:-1 tvg-id="翡翠台55" tvg-name="翡翠台" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true" group-title="SUPER FREE", 翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
