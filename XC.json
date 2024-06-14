@@ -1,7 +1,6 @@
 {
-"spider":"file://xc/fan.txt",
-
-//"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf",
+//"Spider":"file://xc/fan.txt,md5;5ee96d541532306c3acc8c0fc229acbf"
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718274776381/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf",
 
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
@@ -115,9 +114,11 @@
 
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
 "lives":[
+{"name":"bc","type":0,"url":"file://xc/bc.txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"git","type":0,"url":"https://raw.githubusercontent.com/leeqys/xc/main/bc.txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"dx","type":0,"url":"https://raw.githubusercontent.com/leeqys/xc/main/dx.m3u","playerType":2,"boot":"true","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
-{"name":"bc_git","type":0,"url":"https://raw.githubusercontent.com/leeqys/xc/main/169.txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
-{"name":"169","type":0,"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/zengchaoqun0625/movies/807310c9885d29194ae0ca348ab138a9308c4fd4/ds/ipv4.txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"169","type":0,"url":"https://raw.githubusercontent.com/leeqys/xc/main/169.txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"yang","type":0,"url":"https://yang-1989.eu.org/m3u/Adult","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"iptv•4h","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"16万•MV","type":0,"url":"https://fongmi.cachefly.net/lystv/short/main/影视/tvb/MTV.txt"},
 {"name":"XIUTAN","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"}]}
