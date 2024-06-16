@@ -16,12 +16,27 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 民視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
 華視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
 台視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
+
 中視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
 CHC高清电影,P2p://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
 CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
 CHC高清电影,P2p://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1
 CHC家庭影院,P2p://generationnexxxt.com:19806/53491943aa934355b381bc8684bc4fc2
 CHC动作电影,P2p://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561f
+翡翠台,http://154.12.61.132:5556/stream/test/jade/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+明珠台,http://154.12.61.132:5556/stream/test/pear/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+无线新闻,http://154.12.61.132:5556/stream/test/tvbnews/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+TVB PLUS,http://154.12.61.132:5556/stream/test/tvbplus/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+
+翡翠台,http://154.29.149.9:9981/stream/test/jade/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+明珠台,http://154.29.149.9:9981/stream/test/pear/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+tvbplus,http://154.29.149.9:9981/stream/test/tvbplus/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+无线新闻,http://154.29.149.9:9981/stream/test/tvbnews/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+娱乐新闻,http://154.29.149.9:9981/stream/test/tvbylxw/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+凤凰资讯,http://154.29.149.9:9981/stream/test/pin/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+凤凰中文,http://154.29.149.9:9981/stream/test/pcc/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+凤凰香港,http://154.29.149.9:9981/stream/test/phk/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+
 广东珠江,http://120.238.99.51:8888/udp/239.77.0.1:5146$高清
 广东珠江,http://120.238.99.51:8888/udp/239.77.0.3:5146
 广东珠江,http://120.238.99.51:8888/udp/239.77.0.114:5146$超清
@@ -43,12 +58,8 @@ CHC动作电影,P2p://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561
 卡酷少儿,http://120.238.99.51:8888/rtp/239.77.0.79:5146$高清
 哈哈炫动,http://120.238.99.51:8888/rtp/239.77.0.81:5146$高清
 
-翡翠台,http://154.12.61.132:5556/stream/test/jade/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-明珠台,http://154.12.61.132:5556/stream/test/pear/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-无线新闻,http://154.12.61.132:5556/stream/test/tvbnews/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-TVB PLUS,http://154.12.61.132:5556/stream/test/tvbplus/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-
 江苏tptv,#genre#
+
 CCTV 1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?cdn=tptv
 CCTV 2,http://192.168.1.111:5000/tptv/G_CCTV-2-MD?cdn=tptv
 CCTV 3,http://192.168.1.111:5000/tptv/G_CCTV-3-AVS-4K264?cdn=tptv
