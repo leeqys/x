@@ -48,6 +48,77 @@ CHC动作电影,P2p://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561
 无线新闻,http://154.12.61.132:5556/stream/test/tvbnews/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 TVB PLUS,http://154.12.61.132:5556/stream/test/tvbplus/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 
+江苏tptv,#genre#
+CCTV 1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?cdn=tptv
+CCTV 2,http://192.168.1.111:5000/tptv/G_CCTV-2-MD?cdn=tptv
+CCTV 3,http://192.168.1.111:5000/tptv/G_CCTV-3-AVS-4K264?cdn=tptv
+CCTV 4,http://192.168.1.111:5000/tptv/G_CCTV-4-MD?cdn=tptv
+CCTV 5,http://192.168.1.111:5000/tptv/G_CCTV-5-AVS-4K264?cdn=tptv
+CCTV 5+,http://192.168.1.111:5000/tptv/G_CCTV-5PLUS-MD?cdn=tptv
+CCTV 6,http://192.168.1.111:5000/tptv/G_CCTV-6-AVS-4K264?cdn=tptv
+CCTV 7,http://192.168.1.111:5000/tptv/G_CCTV-7-HD-265-8M?cdn=tptv
+CCTV 8,http://192.168.1.111:5000/tptv/G_CCTV-8-AVS-4K264?cdn=tptv
+CCTV 9,http://192.168.1.111:5000/tptv/G_CCTV-9-HD-265-8M?cdn=tptv
+CCTV 10,http://192.168.1.111:5000/tptv/G_CCTV-10-HD-265-8M?cdn=tptv
+CCTV 11,http://192.168.1.111:5000/tptv/H265-5500k-1080P-cctv11?cdn=tptv
+CCTV 12,http://192.168.1.111:5000/tptv/G_CCTV-12-HD-265-8M?cdn=tptv
+CCTV 13,http://192.168.1.111:5000/tptv/G_CCTV-13-HD-265-8M?cdn=tptv
+CCTV 14,http://192.168.1.111:5000/tptv/G_CCTV-14-CQ?cdn=tptv
+CCTV 15,http://192.168.1.111:5000/tptv/H265-5500k-1080P-cctv15?cdn=tptv
+CCTV 16,http://192.168.1.111:5000/tptv/G_CCTV-16-CQ?cdn=tptv
+CCTV 17,http://192.168.1.111:5000/tptv/G_CCTV-17-CQ?cdn=tptv
+CCTV 4K,http://192.168.1.111:5000/tptv/G_CCTV-4K-HD?cdn=tptv
+CCTV 世界地理,http://192.168.1.111:5000/tptv/G_SHIJIEDL-CQ?cdn=tptv
+CCTV 风云剧场,http://192.168.1.111:5000/tptv/G_FENGYUNJC-CQ?cdn=tptv
+CCTV 风云足球,http://192.168.1.111:5000/tptv/G_FENGSHANGZQ-CQ?cdn=tptv
+CCTV 风云音乐,http://192.168.1.111:5000/tptv/G_FENGYUNYY-CQ?cdn=tptv
+CCTV 兵器科技,http://192.168.1.111:5000/tptv/G_BINGQIKJ-CQ?cdn=tptv
+CCTV 央视台球,http://192.168.1.111:5000/tptv/G_TAIQIU-CQ?cdn=tptv
+CCTV 高尔夫网球,http://192.168.1.111:5000/tptv/G_CCTV-GOLF-CQ?cdn=tptv
+CCTV 女性时尚,http://192.168.1.111:5000/tptv/G_NVXINGSS-CQ?cdn=tptv
+CCTV 电视指南,http://192.168.1.111:5000/tptv/G_DIANSHIZN-CQ?cdn=tptv
+CCTV 第一剧场,http://192.168.1.111:5000/tptv/G_DIYIJC-CQ?cdn=tptv
+CCTV 怀旧剧场,http://192.168.1.111:5000/tptv/G_HUAIJIUJC-CQ?cdn=tptv
+CCTV 央视文化精品,http://192.168.1.111:5000/tptv/G_CCTV-WENHUA-CQ?cdn=tptv
+CETV 早期教育,http://192.168.1.111:5000/tptv/G_CETV-ZQJY-CQ?cdn=tptv
+
+江苏卫视,http://192.168.1.111:5000/tptv/G_JIANGSU-MD?cdn=tptv
+东方卫视,http://192.168.1.111:5000/tptv/G_DONGFANG-MD?cdn=tptv
+北京卫视,http://192.168.1.111:5000/tptv/G_BEIJING-MD?cdn=tptv
+广东卫视,http://192.168.1.111:5000/tptv/G_GUANGDONG-MD?cdn=tptv
+山东卫视,http://192.168.1.111:5000/tptv/G_SHANDONG-MD?cdn=tptv
+深圳卫视,http://192.168.1.111:5000/tptv/G_SHENZHEN-MD?cdn=tptv
+湖北卫视,http://192.168.1.111:5000/tptv/G_HUBEI-MD?cdn=tptv
+湖南卫视,http://192.168.1.111:5000/tptv/G_HUNAN-MD?cdn=tptv
+浙江卫视,http://192.168.1.111:5000/tptv/G_ZHEJIANG-MD?cdn=tptv
+黑龙江卫视,http://192.168.1.111:5000/tptv/G_HEILONGJIANG-MD?cdn=tptv
+东南卫视,http://192.168.1.111:5000/tptv/H265-5500k-1080P-dongnanstv?cdn=tptv
+云南卫视,http://192.168.1.111:5000/tptv/G_YUNNAN-HQ?cdn=tptv
+吉林卫视,http://192.168.1.111:5000/tptv/G_JILIN-CQ?cdn=tptv
+四川卫视,http://192.168.1.111:5000/tptv/G_SICHUAN-CQ?cdn=tptv
+天津卫视,http://192.168.1.111:5000/tptv/G_TIANJIN-MD?cdn=tptv
+安徽卫视,http://192.168.1.111:5000/tptv/G_ANHUI-MD?cdn=tptv
+江西卫视,http://192.168.1.111:5000/tptv/G_JIANGXI-CQ?cdn=tptv
+河北卫视,http://192.168.1.111:5000/tptv/G_HEBEI-CQ?cdn=tptv
+河南卫视,http://192.168.1.111:5000/tptv/G_HENAN-CQ?cdn=tptv
+海南卫视,http://192.168.1.111:5000/tptv/HD-8000k-1080P-lvyoustv?cdn=tptv
+贵州卫视,http://192.168.1.111:5000/tptv/G_GUIZHOU-CQ?cdn=tptv
+辽宁卫视,http://192.168.1.111:5000/tptv/G_LIAONING-MD?cdn=tptv
+重庆卫视,http://192.168.1.111:5000/tptv/G_CHONGQING-CQ?cdn=tptv
+三沙卫视,http://192.168.1.111:5000/tptv/G_SANSHA-HQ?cdn=tptv
+凤凰卫视中文,http://192.168.1.111:5000/tptv/HD-10000k-1080P-fhchinese5s?cdn=tptv
+凤凰卫视资讯,http://192.168.1.111:5000/tptv/HD-10000k-1080P-fhzixun5s?cdn=tptv
+凤凰卫视香港,http://192.168.1.111:5000/tptv/HD-10000k-1080P-fhhongkong5s?cdn=tptv
+
+纯享 4K,http://192.168.1.111:5000/tptv/HD-20M-2160P-chunxiang4k?cdn=tptv
+北京纪实科教,http://192.168.1.111:5000/tptv/HD-8000k-1080P-beijingjishi?cdn=tptv
+上海纪实人文,http://192.168.1.111:5000/tptv/HD-8000k-1080P-shanghaijishi?cdn=tptv
+B站番剧,http://192.168.1.111:5000/tptv/GITV-JS-15?cdn=tptv
+咪咕精彩足球,http://192.168.1.111:5000/tptv/HD-8000k-1080P-miguaoyun1?cdn=tptv
+咪咕综合体育,http://192.168.1.111:5000/tptv/HD-8000k-1080P-miguaoyun2?cdn=tptv
+NewTV 炫舞未来,http://192.168.1.111:5000/tptv/HD-4000k-1080P-xwwl?cdn=tptv
+黑莓电影,http://192.168.1.111:5000/tptv/HD-8000k-1080P-Supermovie?cdn=tptv
+
 Docker-4GTV,#genre#
 
 AMC 最愛電影,http://192.168.1.111:5000/litv/4gtv-4gtv017
@@ -142,6 +213,85 @@ CCTV 4K,http://192.168.1.111:5000/ysp/cctv4k
 山东卫视,http://192.168.1.111:5000/ysp/shandong
 新疆卫视,http://192.168.1.111:5000/ysp/xinjiang
 兵团卫视,http://192.168.1.111:5000/ysp/bingtuan
+
+
+beesport,#genre#
+
+TNT SPORTS 1,http://192.168.1.111:5000/beesport/TNT_Sports_1
+TNT SPORTS 2,http://192.168.1.111:5000/beesport/TNT_Sports_2
+TNT SPORTS 3,http://192.168.1.111:5000/beesport/TNT_Sports_3
+TNT SPORTS 4,http://192.168.1.111:5000/beesport/TNT_Sports_4
+SKY SPORTS FOOTBALL,http://192.168.1.111:5000/beesport/Sky_Sports_Football_Live_TV
+SKY SPORTS MAIN EVENT,http://192.168.1.111:5000/beesport/Sky_Sports_Main_Event
+SKY SPORTS PREMIER LEAGUE,http://192.168.1.111:5000/beesport/Sky_Sports_Premier_League
+SKY SPORTS ACTION,http://192.168.1.111:5000/beesport/Sky_Sports_Action_Live_TV
+SKY SPORTS MIX,http://192.168.1.111:5000/beesport/Sky_Sports_Mix_Live_TV
+SKY SPORTS ARENA,http://192.168.1.111:5000/beesport/Sky_Sports_Arena_Live_TV
+SKY SPORTS NEWS,http://192.168.1.111:5000/beesport/Sky_Sports_News_Live_TV
+SKY SPORTS CRICKET,http://192.168.1.111:5000/beesport/Sky_Sports_Cricket_Live_TV
+Sky Sports Tennis,http://192.168.1.111:5000/beesport/Sky_Sports_Tennis
+SKY SPORTS F1,http://192.168.1.111:5000/beesport/Sky_Sports_F1_Live_TV
+SKY SPORTS GOLF,http://192.168.1.111:5000/beesport/Sky_Sports_Golf_Live_TV
+SKY SPORTS RACING,http://192.168.1.111:5000/beesport/Sky_Sports_Racing_Live_TV
+TENNIS CHANNEL,http://192.168.1.111:5000/beesport/Tennis_Channel_Live_TV
+LALIGA TV HD,http://192.168.1.111:5000/beesport/La_Liga_TV_Live_TV
+DAZN,http://192.168.1.111:5000/beesport/DAZN_Live_TV
+BEIN SPORTS USA,http://192.168.1.111:5000/beesport/Bein_Sports_USA_Live_TV
+Bein Sports English 2,http://192.168.1.111:5000/beesport/Bein_Sports_English_2_Live_TV
+SuperSport Premier League,http://192.168.1.111:5000/beesport/SuperSport_Premier_League_Live_TV
+SuperSport LaLiga,http://192.168.1.111:5000/beesport/SuperSport_LaLiga_Live_TV
+SuperSport Action,http://192.168.1.111:5000/beesport/SuperSport_Action_Live_TV
+SuperSport Blitz,http://192.168.1.111:5000/beesport/SuperSport_Blitz_Live_TV
+SuperSport Cricket,http://192.168.1.111:5000/beesport/SuperSport_Cricket_Live_TV
+SuperSport Football,http://192.168.1.111:5000/beesport/SuperSport_Football_Live_TV
+SuperSport Golf,http://192.168.1.111:5000/beesport/SuperSport_Golf_Live_TV
+SuperSport Rugby,http://192.168.1.111:5000/beesport/SuperSport_Rugby_Live_TV
+SuperSport Tennis,http://192.168.1.111:5000/beesport/SuperSport_Tennis_Live_TV
+Variety 1,http://192.168.1.111:5000/beesport/Variety_1_Live_TV
+Variety 2,http://192.168.1.111:5000/beesport/Variety_2_Live_TV
+Variety 3,http://192.168.1.111:5000/beesport/Variety_3_Live_TV
+Variety 4,http://192.168.1.111:5000/beesport/Variety_4_Live_TV
+Eurosport 1,http://192.168.1.111:5000/beesport/Eurosport_1_Live_TV
+Eurosport 2,http://192.168.1.111:5000/beesport/Eurosport_2_Live_TV
+Premier Sports 1,http://192.168.1.111:5000/beesport/Premier_Sports_1_Live_TV
+Premier Sports 2,http://192.168.1.111:5000/beesport/Premier_Sports_2_Live_TV
+Golf Channel,http://192.168.1.111:5000/beesport/Golf_Channel_Live_TV
+MLB Network,http://192.168.1.111:5000/beesport/MLB_Network_Live_TV
+NBA TV,http://192.168.1.111:5000/beesport/NBA_TV_Live_TV
+NFL Network,http://192.168.1.111:5000/beesport/NFL_Network_Live_TV
+NHL Network,http://192.168.1.111:5000/beesport/NHL_Network_Live_TV
+WWE,http://192.168.1.111:5000/beesport/WWE_Live_TV
+Willow Cricket,http://192.168.1.111:5000/beesport/Willow_Cricket_Live_TV
+Willow Extra,http://192.168.1.111:5000/beesport/Willow_Extra_Live_TV
+World Fishing Network,http://192.168.1.111:5000/beesport/World_Fishing_Network_Live_TV
+ESPN,http://192.168.1.111:5000/beesport/ESPN_Live_TV
+ESPN 2,http://192.168.1.111:5000/beesport/ESPN_2_Live_TV
+ESPN News,http://192.168.1.111:5000/beesport/ESPN_News_Live_TV
+ESPN U,http://192.168.1.111:5000/beesport/ESPN_U_Live_TV
+MUTV,http://192.168.1.111:5000/beesport/MUTV_Live_TV
+LFC TV,http://192.168.1.111:5000/beesport/LFC_TV_Live_TV
+ACC Network,http://192.168.1.111:5000/beesport/ACC_Network_Live_TV
+CBS Sports Network,http://192.168.1.111:5000/beesport/CBS_Sports_Network_Live_TV
+Fox Sports 1,http://192.168.1.111:5000/beesport/Fox_Sports_1_Live_TV
+Fox Sports 2,http://192.168.1.111:5000/beesport/Fox_Sports_2_Live_TV
+HBO 1,http://192.168.1.111:5000/beesport/HBO_Live_TV
+HBO 2,http://192.168.1.111:5000/beesport/HBO_2_Live_TV
+Cinemax West,http://192.168.1.111:5000/beesport/Cinemax_West_Live_TV
+Great Movies,http://192.168.1.111:5000/beesport/UK_Great_Movies_Live_TV
+Sky Cinema Comedy,http://192.168.1.111:5000/beesport/UK_Sky_Cinema_Comedy_Live_TV
+Sky Cinema Family,http://192.168.1.111:5000/beesport/UK_Sky_Cinema_Family_Live_TV
+ITV 1,http://192.168.1.111:5000/beesport/ITV_1_Live_TV
+ITV 2,http://192.168.1.111:5000/beesport/ITV_2_Live_TV
+ITV 3,http://192.168.1.111:5000/beesport/ITV_3_Live_TV
+ITV 4,http://192.168.1.111:5000/beesport/ITV_4_Live_TV
+Discovery Channel,http://192.168.1.111:5000/beesport/Discovery_Channel_Live_TV
+Discovery Life,http://192.168.1.111:5000/beesport/Discovery_Life_Live_TV
+Cartoon Network,http://192.168.1.111:5000/beesport/UK_Cartoon_Network_Live_TV
+Virgin 1,http://192.168.1.111:5000/beesport/UK_Virgin_1
+Virgin 2,http://192.168.1.111:5000/beesport/UK_Virgin_2
+Virgin 3,http://192.168.1.111:5000/beesport/UK_Virgin_3
+FOX NEWS,http://192.168.1.111:5000/beesport/FOX_NEWS_Live_TV
+CNBC,http://192.168.1.111:5000/beesport/CNBC_Live_TV
 
 4gtv-php,#genre#
 
