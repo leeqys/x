@@ -1,0 +1,9 @@
+{"vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+"drives": [
+{"name": "ali-1","server": "http://192.168.1.111:5244/ali-1"},
+{"name": "ali-2","server": "http://192.168.1.111:5244/ali-2"},
+{"name": "lee","server": "http://192.168.1.111:5244/lee"},
+{"name": "115","server": "http://192.168.1.111:5244/115"},
+{"name": "丫仙女","server": "http://192.168.1.111:6789/"},
+{"name": "veryssl","server": "https://pan.veryssl.com/阿里云盘"}
+]}
