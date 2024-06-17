@@ -15,12 +15,12 @@
 {"key":"米搜","name":"米搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
 
 {"key":"阿里合集","name":"阿里┃合集","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"indexs":0,"ext":{"token":"file://TV/ali_token.txt","share":"file://TV/阿里集合.json"},
-"style":{"type":"list"},"timeout":30,"jar":"file://xc/json/okpng"},
+"style":{"type":"list"},"timeout":30,"jar":"file://xc/json/okpng.txt"},
 {"key":"团长弹幕版","name":"团长","type":3,"api":"csp_Tzfile","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","danmu":true},
-"timeout":25,"jar":"file://xc/json/okpng"},
+"timeout":25,"jar":"file://xc/json/okpng.txt"},
 {"key":"土豆网盘弹幕","name":"土豆","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":0,"filterable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","site":"https://tudou.lvdoui.top","danmu":true},"timeout":25,"jar":"file://xc/json/okpng"},
 {"key":"影搜","name":"影搜","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","danmu":true},
-"timeout":15,"jar":"file://xc/json/okpng"},
+"timeout":15,"jar":"file://xc/json/okpng.txt"},
 
 {"key":"drpy_js_ikanbot3","name":"爱看","type":3,"api":"file://xc/JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"file://xc/json/ikanbot3.js"},
 {"key":"drpy_js_农民","name":"农民","type":3,"api":"file://xc/JS/lib/drpy2.min.js","ext":"file://xc/JS/js/农民影视.js"},
