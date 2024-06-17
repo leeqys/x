@@ -117,7 +117,6 @@
 "lives":[
 {"name":"bc","type":0,"url":"file://xc/bc.txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"my","type":0,"url":"https://mytvsuper.ecword.cloudns.be/","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
-
 {"name":"git","type":0,"url":"https://raw.githubusercontent.com/leeqys/xc/main/bc.txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"dx","type":0,"url":"https://raw.githubusercontent.com/leeqys/xc/main/dx.m3u","playerType":2,"boot":"true","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"169","type":0,"url":"https://raw.githubusercontent.com/leeqys/xc/main/169.txt","playerType":2,"ua":"okhttp/3.15","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
