@@ -2,21 +2,6 @@
 
 Ytb-love,#genre# "udpxy" && country="CN" && city="Meizhou" && header="Linux 5.10.194 i686" 广东电信
 
-中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-凤凰资讯,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=HFib76ySpbU
-中天新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
-寰宇新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=6IquAgfvYmc
-民視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
-華視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
-台視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
-中視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
-
 CHC高清电影,P2p://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
 CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
 CHC高清电影,P2p://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1
@@ -41,6 +26,136 @@ tvb plus,http://154.29.149.9:9981/stream/test/tvbplus/master.m3u8?u=test&p=8d969
 凤凰中文,http://154.29.149.9:9981/stream/test/pcc/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 凤凰香港,http://154.29.149.9:9981/stream/test/phk/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 
+广东珠江,http://nas147.myds.me:8888/udp/239.77.0.1:5146$高清
+广东珠江,http://nas147.myds.me:8888/udp/239.77.0.3:5146
+广东珠江,http://nas147.myds.me:8888/udp/239.77.0.114:5146$超清
+广东民生,http://nas147.myds.me:8888/udp/239.77.0.225:5146$高清
+广东民生,http://nas147.myds.me:8888/udp/239.77.0.5:5146
+广东体育,http://nas147.myds.me:8888/udp/239.77.0.112:5146$高清-测试
+广东体育,http://nas147.myds.me:8888/udp/239.77.0.6:5146
+广东体育,http://nas147.myds.me:8888/udp/239.77.0.168:5146$超清
+广东影视,http://nas147.myds.me:8888/udp/239.77.0.217:5146$高清
+广东影视,http://nas147.myds.me:8888/udp/239.77.0.11:5146
+广东新闻,http://nas147.myds.me:8888/udp/239.77.0.173:5146
+佛山综合,http://nas147.myds.me:8888/udp/239.253.43.57:5146$高清
+佛山综合,http://nas147.myds.me:8888/udp/239.253.43.52:5146
+广东少儿,http://nas147.myds.me:8888/rtp/239.77.0.250:5146$高清
+嘉佳卡通,http://nas147.myds.me:8888/rtp/239.77.0.179:5146$高清
+金鹰卡通,http://nas147.myds.me:8888/rtp/239.77.0.164:5146$高清
+优漫卡通,http://nas147.myds.me:8888/rtp/239.77.0.222:5146$高清
+卡酷少儿,http://nas147.myds.me:8888/rtp/239.77.0.79:5146$高清
+哈哈炫动,http://nas147.myds.me:8888/rtp/239.77.0.81:5146$高清
+大湾区卫视,http://nas147.myds.me:8888/udp/239.77.0.215:5146$高清
+大湾区卫视,http://nas147.myds.me:8888/udp/239.77.0.9:5146
+清远新闻综合,http://nas147.myds.me:8888/udp/239.253.43.33:5146
+清远公共,http://nas147.myds.me:8888/udp/239.253.43.34:5146
+韶关新闻综合,http://nas147.myds.me:8888/udp/239.77.0.117:5146
+韶关绿色生活,http://nas147.myds.me:8888/udp/239.77.0.119:5146
+
+广东珠江,http://120.238.99.51:8888/udp/239.77.0.1:5146$高清
+广东珠江,http://120.238.99.51:8888/udp/239.77.0.3:5146
+广东珠江,http://120.238.99.51:8888/udp/239.77.0.114:5146$超清
+广东民生,http://120.238.99.51:8888/udp/239.77.0.225:5146$高清
+广东民生,http://120.238.99.51:8888/udp/239.77.0.5:5146
+广东体育,http://120.238.99.51:8888/udp/239.77.0.112:5146$高清-测试
+广东体育,http://120.238.99.51:8888/udp/239.77.0.6:5146
+广东体育,http://120.238.99.51:8888/udp/239.77.0.168:5146$超清
+广东影视,http://120.238.99.51:8888/udp/239.77.0.217:5146$高清
+广东影视,http://120.238.99.51:8888/udp/239.77.0.11:5146
+广东新闻,http://120.238.99.51:8888/udp/239.77.0.173:5146
+佛山综合,http://120.238.99.51:8888/udp/239.253.43.57:5146$高清
+佛山综合,http://120.238.99.51:8888/udp/239.253.43.52:5146
+广东少儿,http://120.238.99.51:8888/rtp/239.77.0.250:5146$高清
+嘉佳卡通,http://120.238.99.51:8888/rtp/239.77.0.179:5146$高清
+金鹰卡通,http://120.238.99.51:8888/rtp/239.77.0.164:5146$高清
+优漫卡通,http://120.238.99.51:8888/rtp/239.77.0.222:5146$高清
+卡酷少儿,http://120.238.99.51:8888/rtp/239.77.0.79:5146$高清
+哈哈炫动,http://120.238.99.51:8888/rtp/239.77.0.81:5146$高清
+大湾区卫视,http://120.238.99.51:8888/udp/239.77.0.215:5146$高清
+大湾区卫视,http://120.238.99.51:8888/udp/239.77.0.9:5146
+清远新闻综合,http://120.238.99.51:8888/udp/239.253.43.33:5146
+清远公共,http://120.238.99.51:8888/udp/239.253.43.34:5146
+韶关新闻综合,http://120.238.99.51:8888/udp/239.77.0.117:5146
+韶关绿色生活,http://120.238.99.51:8888/udp/239.77.0.119:5146
+
+广东珠江,http://113.67.164.93:8888/udp/239.77.0.1:5146$高清
+广东珠江,http://113.67.164.93:8888/udp/239.77.0.3:5146
+广东珠江,http://113.67.164.93:8888/udp/239.77.0.114:5146$超清
+广东民生,http://113.67.164.93:8888/udp/239.77.0.225:5146$高清
+广东民生,http://113.67.164.93:8888/udp/239.77.0.5:5146
+广东体育,http://113.67.164.93:8888/udp/239.77.0.112:5146$高清-测试
+广东体育,http://113.67.164.93:8888/udp/239.77.0.6:5146
+广东体育,http://113.67.164.93:8888/udp/239.77.0.168:5146$超清
+广东影视,http://113.67.164.93:8888/udp/239.77.0.217:5146$高清
+广东影视,http://113.67.164.93:8888/udp/239.77.0.11:5146
+广东新闻,http://113.67.164.93:8888/udp/239.77.0.173:5146
+佛山综合,http://113.67.164.93:8888/udp/239.253.43.57:5146$高清
+佛山综合,http://113.67.164.93:8888/udp/239.253.43.52:5146
+广东少儿,http://113.67.164.93:8888/rtp/239.77.0.250:5146$高清
+嘉佳卡通,http://113.67.164.93:8888/rtp/239.77.0.179:5146$高清
+金鹰卡通,http://113.67.164.93:8888/rtp/239.77.0.164:5146$高清
+优漫卡通,http://113.67.164.93:8888/rtp/239.77.0.222:5146$高清
+卡酷少儿,http://113.67.164.93:8888/rtp/239.77.0.79:5146$高清
+哈哈炫动,http://113.67.164.93:8888/rtp/239.77.0.81:5146$高清
+大湾区卫视,http://113.67.164.93:8888/udp/239.77.0.215:5146$高清
+大湾区卫视,http://113.67.164.93:8888/udp/239.77.0.9:5146
+清远新闻综合,http://113.67.164.93:8888/udp/239.253.43.33:5146
+清远公共,http://113.67.164.93:8888/udp/239.253.43.34:5146
+韶关新闻综合,http://113.67.164.93:8888/udp/239.77.0.117:5146
+韶关绿色生活,http://113.67.164.93:8888/udp/239.77.0.119:5146
+
+广东珠江,http://116.30.196.95:8888/udp/239.77.0.1:5146$高清
+广东珠江,http://116.30.196.95:8888/udp/239.77.0.3:5146
+广东珠江,http://116.30.196.95:8888/udp/239.77.0.114:5146$超清
+广东民生,http://116.30.196.95:8888/udp/239.77.0.225:5146$高清
+广东民生,http://116.30.196.95:8888/udp/239.77.0.5:5146
+广东体育,http://116.30.196.95:8888/udp/239.77.0.112:5146$高清-测试
+广东体育,http://116.30.196.95:8888/udp/239.77.0.6:5146
+广东体育,http://116.30.196.95:8888/udp/239.77.0.168:5146$超清
+广东影视,http://116.30.196.95:8888/udp/239.77.0.217:5146$高清
+广东影视,http://116.30.196.95:8888/udp/239.77.0.11:5146
+广东新闻,http://116.30.196.95:8888/udp/239.77.0.173:5146
+佛山综合,http://116.30.196.95:8888/udp/239.253.43.57:5146$高清
+佛山综合,http://116.30.196.95:8888/udp/239.253.43.52:5146
+广东少儿,http://116.30.196.95:8888/rtp/239.77.0.250:5146$高清
+嘉佳卡通,http://116.30.196.95:8888/rtp/239.77.0.179:5146$高清
+金鹰卡通,http://116.30.196.95:8888/rtp/239.77.0.164:5146$高清
+优漫卡通,http://116.30.196.95:8888/rtp/239.77.0.222:5146$高清
+卡酷少儿,http://116.30.196.95:8888/rtp/239.77.0.79:5146$高清
+哈哈炫动,http://116.30.196.95:8888/rtp/239.77.0.81:5146$高清
+大湾区卫视,http://116.30.196.95:8888/udp/239.77.0.215:5146$高清
+大湾区卫视,http://116.30.196.95:8888/udp/239.77.0.9:5146
+清远新闻综合,http://116.30.196.95:8888/udp/239.253.43.33:5146
+清远公共,http://116.30.196.95:8888/udp/239.253.43.34:5146
+韶关新闻综合,http://116.30.196.95:8888/udp/239.77.0.117:5146
+韶关绿色生活,http://116.30.196.95:8888/udp/239.77.0.119:5146
+
+广东珠江,http://113.71.149.154:5555/udp/239.77.0.1:5146$高清
+广东珠江,http://113.71.149.154:5555/udp/239.77.0.3:5146
+广东珠江,http://113.71.149.154:5555/udp/239.77.0.114:5146$超清
+广东民生,http://113.71.149.154:5555/udp/239.77.0.225:5146$高清
+广东民生,http://113.71.149.154:5555/udp/239.77.0.5:5146
+广东体育,http://113.71.149.154:5555/udp/239.77.0.112:5146$高清-测试
+广东体育,http://113.71.149.154:5555/udp/239.77.0.6:5146
+广东体育,http://113.71.149.154:5555/udp/239.77.0.168:5146$超清
+广东影视,http://113.71.149.154:5555/udp/239.77.0.217:5146$高清
+广东影视,http://113.71.149.154:5555/udp/239.77.0.11:5146
+广东新闻,http://113.71.149.154:5555/udp/239.77.0.173:5146
+佛山综合,http://113.71.149.154:5555/udp/239.253.43.57:5146$高清
+佛山综合,http://113.71.149.154:5555/udp/239.253.43.52:5146
+广东少儿,http://113.71.149.154:5555/rtp/239.77.0.250:5146$高清
+嘉佳卡通,http://113.71.149.154:5555/rtp/239.77.0.179:5146$高清
+金鹰卡通,http://113.71.149.154:5555/rtp/239.77.0.164:5146$高清
+优漫卡通,http://113.71.149.154:5555/rtp/239.77.0.222:5146$高清
+卡酷少儿,http://113.71.149.154:5555/rtp/239.77.0.79:5146$高清
+哈哈炫动,http://113.71.149.154:5555/rtp/239.77.0.81:5146$高清
+大湾区卫视,http://113.71.149.154:5555/udp/239.77.0.215:5146$高清
+大湾区卫视,http://113.71.149.154:5555/udp/239.77.0.9:5146
+清远新闻综合,http://113.71.149.154:5555/udp/239.253.43.33:5146
+清远公共,http://113.71.149.154:5555/udp/239.253.43.34:5146
+韶关新闻综合,http://113.71.149.154:5555/udp/239.77.0.117:5146
+韶关绿色生活,http://113.71.149.154:5555/udp/239.77.0.119:5146
+
 翡翠台,http://172.16.149.176:9090/live/1350_4500.m3u8
 明珠台,http://172.16.149.176:9090/live/1351_4500.m3u8
 CHC高清电影,http://172.16.149.176:9090/live/CHCHD_7000.m3u8
@@ -49,16 +164,17 @@ CHC高清电影,http://172.16.149.176:9090/live/CHCHD_7000.m3u8
 广东珠江,http://172.16.149.44:9090/live/1437.m3u8
 广东珠江,http://172.16.149.176:9090/live/gdzhujiangHD_7500.m3u8
 广东民生,http://172.16.149.176:9090/live/gdpublic_1500.m3u8
+广东民生,http://172.16.149.44:9090/live/1455.m3u8
 广东体育,http://172.16.149.44:9090/live/1413.m3u8
 广东体育,http://172.16.149.176:9090/live/1413.m3u8
 广东新闻,http://172.16.149.176:9090/live/1454.m3u8
 广东新闻,http://172.16.149.176:9090/live/gdnews_1500.m3u8
 广东影视,http://172.16.149.176:9090/live/gdyingshi_1500.m3u8
+嘉佳卡通,http://172.16.149.176:9090/live/gdjiajiacartoon_1500.m3u8
 广东少儿,http://172.16.149.176:9090/live/gdshaoer_1500.m3u8
 广东综艺4K,http://172.16.149.176:9090/live/GDZYHD4K_38000.m3u8
 CCTV4K,http://172.16.149.176:9090/live/4005.m3u8
 CCTV16-4K,http://172.16.149.176:9090/live/4010.m3u8
-嘉佳卡通,http://172.16.149.176:9090/live/gdjiajiacartoon_1500.m3u8
 大湾区卫视,http://172.16.149.176:9090/live/gdnanfang_1500.m3u8
 广州综合,http://172.16.149.176:9090/live/guangzhou_1500.m3u8
 广州新闻,http://172.16.149.176:9090/live/gznews_1500.m3u8
@@ -115,197 +231,191 @@ CGTN,http://172.16.149.176:9090/live/CCTV15news_1500.m3u8
 求索动物.m3u8,http://172.16.149.176:9090/live/QSDWHD_7000.m3u8
 求索生活,http://172.16.149.176:9090/live/QSSHHD_7000.m3u8
 
-广东珠江,http://120.238.99.51:8888/udp/239.77.0.1:5146$高清
-广东珠江,http://120.238.99.51:8888/udp/239.77.0.3:5146
-广东珠江,http://120.238.99.51:8888/udp/239.77.0.114:5146$超清
-广东民生,http://120.238.99.51:8888/udp/239.77.0.225:5146$高清
-广东民生,http://120.238.99.51:8888/udp/239.77.0.5:5146
-广东体育,http://120.238.99.51:8888/udp/239.77.0.112:5146$高清-测试
-广东体育,http://120.238.99.51:8888/udp/239.77.0.6:5146
-广东体育,http://120.238.99.51:8888/udp/239.77.0.168:5146$超清
-广东影视,http://120.238.99.51:8888/udp/239.77.0.217:5146$高清
-广东影视,http://120.238.99.51:8888/udp/239.77.0.11:5146
-佛山综合,http://120.238.99.51:8888/udp/239.253.43.57:5146$高清
-佛山综合,http://120.238.99.51:8888/udp/239.253.43.52:5146
-嘉佳卡通,http://120.238.99.51:8888/rtp/239.77.0.179:5146$高清
-广东少儿,http://120.238.99.51:8888/rtp/239.77.0.250:5146$高清
-金鹰卡通,http://120.238.99.51:8888/rtp/239.77.0.164:5146$高清
-优漫卡通,http://120.238.99.51:8888/rtp/239.77.0.222:5146$高清
-卡酷少儿,http://120.238.99.51:8888/rtp/239.77.0.79:5146$高清
-哈哈炫动,http://120.238.99.51:8888/rtp/239.77.0.81:5146$高清
-大湾区卫视,http://120.238.99.51:8888/udp/239.77.0.215:5146$高清
-大湾区卫视,http://120.238.99.51:8888/udp/239.77.0.9:5146
-
 广东珠江,http://183.236.32.24:9901/hls/1036/index.m3u8
-广东新闻,http://183.236.32.24:9901/hls/1037/index.m3u8
-广东公共,http://183.236.32.24:9901/hls/1038/index.m3u8
+广东民生,http://183.236.32.24:9901/hls/1038/index.m3u8
 广东体育,http://183.236.32.24:9901/hls/1039/index.m3u8
 广东影视,http://183.236.32.24:9901/hls/1045/index.m3u8
+广东新闻,http://183.236.32.24:9901/hls/1037/index.m3u8
 广东少儿,http://183.236.32.24:9901/hls/1046/index.m3u8
 广州综合,http://183.236.32.24:9901/hls/1040/index.m3u8
 广州新闻,http://183.236.32.24:9901/hls/1041/index.m3u8
 广州影视,http://183.236.32.24:9901/hls/1042/index.m3u8
-广州法治,http://183.236.32.24:9901/hls/1043/index.m3u8
+大湾区卫视,http://183.236.32.24:9901/hls/1019/index.m3u8
+
+中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+凤凰资讯,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=HFib76ySpbU
+中天新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=oIgbl7t0S_w
+寰宇新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=6IquAgfvYmc
+民視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
+華視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
+台視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
+中視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+
 
 江苏tptv,#genre#
 
 CCTV 1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?cdn=tptv
 CCTV 1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?cdn=tptv1
-CCTV 1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?cdn=tptv12
+CCTV 1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?cdn=tptv2
+CCTV 2,http://192.168.1.111:5000/tptv/G_CCTV-2-HD-265-8M?cdn=tptv1
+CCTV 3,http://192.168.1.111:5000/tptv/G_CCTV-3-AVS-4K264?cdn=tptv1
+CCTV 4,http://192.168.1.111:5000/tptv/G_CCTV-4-HD-265-8M?cdn=tptv1
+CCTV 5,http://192.168.1.111:5000/tptv/G_CCTV-5-AVS-4K264?cdn=tptv1
+CCTV 5+,http://192.168.1.111:5000/tptv/G_CCTV-5PLUS-HD-265-8M?cdn=tptv1
+CCTV 6,http://192.168.1.111:5000/tptv/G_CCTV-6-AVS-4K264?cdn=tptv1
+CCTV 7,http://192.168.1.111:5000/tptv/G_CCTV-7-HD-265-8M?cdn=tptv1
+CCTV 8,http://192.168.1.111:5000/tptv/G_CCTV-8-AVS-4K264?cdn=tptv1
+CCTV 9,http://192.168.1.111:5000/tptv/G_CCTV-9-HD-265-8M?cdn=tptv1
+CCTV 10,http://192.168.1.111:5000/tptv/G_CCTV-10-HD-265-8M?cdn=tptv1
+CCTV 11,http://192.168.1.111:5000/tptv/H265-5500k-1080P-cctv11?cdn=tptv1
+CCTV 12,http://192.168.1.111:5000/tptv/G_CCTV-12-HD-265-8M?cdn=tptv1
+CCTV 13,http://192.168.1.111:5000/tptv/G_CCTV-13-HD-265-8M?cdn=tptv1
+CCTV 14,http://192.168.1.111:5000/tptv/G_CCTV-14-CQ?cdn=tptv1
+CCTV 15,http://192.168.1.111:5000/tptv/H265-5500k-1080P-cctv15?cdn=tptv1
+CCTV 16,http://192.168.1.111:5000/tptv/G_CCTV-16-CQ?cdn=tptv1
+CCTV 17,http://192.168.1.111:5000/tptv/G_CCTV-17-CQ?cdn=tptv1
+CCTV 4K,http://192.168.1.111:5000/tptv/G_CCTV-4K-HD?cdn=tptv1
+CCTV 世界地理,http://192.168.1.111:5000/tptv/G_SHIJIEDL-CQ?cdn=tptv1
+CCTV 风云剧场,http://192.168.1.111:5000/tptv/G_FENGYUNJC-CQ?cdn=tptv1
+CCTV 风云足球,http://192.168.1.111:5000/tptv/G_FENGSHANGZQ-CQ?cdn=tptv1
+CCTV 风云音乐,http://192.168.1.111:5000/tptv/G_FENGYUNYY-CQ?cdn=tptv1
+CCTV 兵器科技,http://192.168.1.111:5000/tptv/G_BINGQIKJ-CQ?cdn=tptv1
+CCTV 央视台球,http://192.168.1.111:5000/tptv/G_TAIQIU-CQ?cdn=tptv1
+CCTV 高尔夫网球,http://192.168.1.111:5000/tptv/G_CCTV-GOLF-CQ?cdn=tptv1
+CCTV 女性时尚,http://192.168.1.111:5000/tptv/G_NVXINGSS-CQ?cdn=tptv1
+CCTV 电视指南,http://192.168.1.111:5000/tptv/G_DIANSHIZN-CQ?cdn=tptv1
+CCTV 第一剧场,http://192.168.1.111:5000/tptv/G_DIYIJC-CQ?cdn=tptv1
+CCTV 怀旧剧场,http://192.168.1.111:5000/tptv/G_HUAIJIUJC-CQ?cdn=tptv1
+CCTV 央视文化精品,http://192.168.1.111:5000/tptv/G_CCTV-WENHUA-CQ?cdn=tptv1
+CETV 早期教育,http://192.168.1.111:5000/tptv/G_CETV-ZQJY-CQ?cdn=tptv1
 
-CCTV 2,http://192.168.1.111:5000/tptv/G_CCTV-2-HD-265-8M?cdn=tptv
-CCTV 3,http://192.168.1.111:5000/tptv/G_CCTV-3-AVS-4K264?cdn=tptv
-CCTV 4,http://192.168.1.111:5000/tptv/G_CCTV-4-HD-265-8M?cdn=tptv
-CCTV 5,http://192.168.1.111:5000/tptv/G_CCTV-5-AVS-4K264?cdn=tptv
-CCTV 5+,http://192.168.1.111:5000/tptv/G_CCTV-5PLUS-HD-265-8M?cdn=tptv
-CCTV 6,http://192.168.1.111:5000/tptv/G_CCTV-6-AVS-4K264?cdn=tptv
-CCTV 7,http://192.168.1.111:5000/tptv/G_CCTV-7-HD-265-8M?cdn=tptv
-CCTV 8,http://192.168.1.111:5000/tptv/G_CCTV-8-AVS-4K264?cdn=tptv
-CCTV 9,http://192.168.1.111:5000/tptv/G_CCTV-9-HD-265-8M?cdn=tptv
-CCTV 10,http://192.168.1.111:5000/tptv/G_CCTV-10-HD-265-8M?cdn=tptv
-CCTV 11,http://192.168.1.111:5000/tptv/H265-5500k-1080P-cctv11?cdn=tptv
-CCTV 12,http://192.168.1.111:5000/tptv/G_CCTV-12-HD-265-8M?cdn=tptv
-CCTV 13,http://192.168.1.111:5000/tptv/G_CCTV-13-HD-265-8M?cdn=tptv
-CCTV 14,http://192.168.1.111:5000/tptv/G_CCTV-14-CQ?cdn=tptv
-CCTV 15,http://192.168.1.111:5000/tptv/H265-5500k-1080P-cctv15?cdn=tptv
-CCTV 16,http://192.168.1.111:5000/tptv/G_CCTV-16-CQ?cdn=tptv
-CCTV 17,http://192.168.1.111:5000/tptv/G_CCTV-17-CQ?cdn=tptv
-CCTV 4K,http://192.168.1.111:5000/tptv/G_CCTV-4K-HD?cdn=tptv
-CCTV 世界地理,http://192.168.1.111:5000/tptv/G_SHIJIEDL-CQ?cdn=tptv
-CCTV 风云剧场,http://192.168.1.111:5000/tptv/G_FENGYUNJC-CQ?cdn=tptv
-CCTV 风云足球,http://192.168.1.111:5000/tptv/G_FENGSHANGZQ-CQ?cdn=tptv
-CCTV 风云音乐,http://192.168.1.111:5000/tptv/G_FENGYUNYY-CQ?cdn=tptv
-CCTV 兵器科技,http://192.168.1.111:5000/tptv/G_BINGQIKJ-CQ?cdn=tptv
-CCTV 央视台球,http://192.168.1.111:5000/tptv/G_TAIQIU-CQ?cdn=tptv
-CCTV 高尔夫网球,http://192.168.1.111:5000/tptv/G_CCTV-GOLF-CQ?cdn=tptv
-CCTV 女性时尚,http://192.168.1.111:5000/tptv/G_NVXINGSS-CQ?cdn=tptv
-CCTV 电视指南,http://192.168.1.111:5000/tptv/G_DIANSHIZN-CQ?cdn=tptv
-CCTV 第一剧场,http://192.168.1.111:5000/tptv/G_DIYIJC-CQ?cdn=tptv
-CCTV 怀旧剧场,http://192.168.1.111:5000/tptv/G_HUAIJIUJC-CQ?cdn=tptv
-CCTV 央视文化精品,http://192.168.1.111:5000/tptv/G_CCTV-WENHUA-CQ?cdn=tptv
-CETV 早期教育,http://192.168.1.111:5000/tptv/G_CETV-ZQJY-CQ?cdn=tptv
+江苏卫视,http://192.168.1.111:5000/tptv/G_JIANGSU-HD-265-8M?cdn=tptv1
+东方卫视,http://192.168.1.111:5000/tptv/G_DONGFANG-HD-265-8M?cdn=tptv1
+北京卫视,http://192.168.1.111:5000/tptv/G_BEIJING-HD-265-8M?cdn=tptv1
+广东卫视,http://192.168.1.111:5000/tptv/G_GUANGDONG-HD-265-8M?cdn=tptv1
+山东卫视,http://192.168.1.111:5000/tptv/G_SHANDONG-HD-265-8M?cdn=tptv1
+深圳卫视,http://192.168.1.111:5000/tptv/G_SHENZHEN-HD-265-8M?cdn=tptv1
+湖北卫视,http://192.168.1.111:5000/tptv/G_HUBEI-HD-265-8M?cdn=tptv1
+湖南卫视,http://192.168.1.111:5000/tptv/G_HUNAN-HD-265-8M?cdn=tptv1
+浙江卫视,http://192.168.1.111:5000/tptv/G_ZHEJIANG-HD-265-8M?cdn=tptv1
+黑龙江卫视,http://192.168.1.111:5000/tptv/G_HEILONGJIANG-HD-265-8M?cdn=tptv1
+天津卫视,http://192.168.1.111:5000/tptv/G_TIANJIN-HD-265-8M?cdn=tptv1
+安徽卫视,http://192.168.1.111:5000/tptv/G_ANHUI-HD-265-8M?cdn=tptv1
+辽宁卫视,http://192.168.1.111:5000/tptv/G_LIAONING-HD-265-8M?cdn=tptv1
+东南卫视,http://192.168.1.111:5000/tptv/H265-5500k-1080P-dongnanstv?cdn=tptv1
+吉林卫视,http://192.168.1.111:5000/tptv/G_JILIN-CQ?cdn=tptv1
+四川卫视,http://192.168.1.111:5000/tptv/G_SICHUAN-CQ?cdn=tptv1
+江西卫视,http://192.168.1.111:5000/tptv/G_JIANGXI-CQ?cdn=tptv1
+河北卫视,http://192.168.1.111:5000/tptv/G_HEBEI-CQ?cdn=tptv1
+河南卫视,http://192.168.1.111:5000/tptv/G_HENAN-CQ?cdn=tptv1
+贵州卫视,http://192.168.1.111:5000/tptv/G_GUIZHOU-CQ?cdn=tptv1
+重庆卫视,http://192.168.1.111:5000/tptv/G_CHONGQING-CQ?cdn=tptv1
+云南卫视,http://192.168.1.111:5000/tptv/G_YUNNAN-HQ?cdn=tptv1
+三沙卫视,http://192.168.1.111:5000/tptv/G_SANSHA-HQ?cdn=tptv1
+海南卫视,http://192.168.1.111:5000/tptv/HD-8000k-1080P-lvyoustv?cdn=tptv1
+凤凰卫视中文,http://192.168.1.111:5000/tptv/HD-10000k-1080P-fhchinese5s?cdn=tptv1
+凤凰卫视资讯,http://192.168.1.111:5000/tptv/HD-10000k-1080P-fhzixun5s?cdn=tptv1
+凤凰卫视香港,http://192.168.1.111:5000/tptv/HD-10000k-1080P-fhhongkong5s?cdn=tptv1
 
-江苏卫视,http://192.168.1.111:5000/tptv/G_JIANGSU-HD-265-8M?cdn=tptv
-东方卫视,http://192.168.1.111:5000/tptv/G_DONGFANG-HD-265-8M?cdn=tptv
-北京卫视,http://192.168.1.111:5000/tptv/G_BEIJING-HD-265-8M?cdn=tptv
-广东卫视,http://192.168.1.111:5000/tptv/G_GUANGDONG-HD-265-8M?cdn=tptv
-山东卫视,http://192.168.1.111:5000/tptv/G_SHANDONG-HD-265-8M?cdn=tptv
-深圳卫视,http://192.168.1.111:5000/tptv/G_SHENZHEN-HD-265-8M?cdn=tptv
-湖北卫视,http://192.168.1.111:5000/tptv/G_HUBEI-HD-265-8M?cdn=tptv
-湖南卫视,http://192.168.1.111:5000/tptv/G_HUNAN-HD-265-8M?cdn=tptv
-浙江卫视,http://192.168.1.111:5000/tptv/G_ZHEJIANG-HD-265-8M?cdn=tptv
-黑龙江卫视,http://192.168.1.111:5000/tptv/G_HEILONGJIANG-HD-265-8M?cdn=tptv
-天津卫视,http://192.168.1.111:5000/tptv/G_TIANJIN-HD-265-8M?cdn=tptv
-安徽卫视,http://192.168.1.111:5000/tptv/G_ANHUI-HD-265-8M?cdn=tptv
-辽宁卫视,http://192.168.1.111:5000/tptv/G_LIAONING-HD-265-8M?cdn=tptv
-东南卫视,http://192.168.1.111:5000/tptv/H265-5500k-1080P-dongnanstv?cdn=tptv
-吉林卫视,http://192.168.1.111:5000/tptv/G_JILIN-CQ?cdn=tptv
-四川卫视,http://192.168.1.111:5000/tptv/G_SICHUAN-CQ?cdn=tptv
-江西卫视,http://192.168.1.111:5000/tptv/G_JIANGXI-CQ?cdn=tptv
-河北卫视,http://192.168.1.111:5000/tptv/G_HEBEI-CQ?cdn=tptv
-河南卫视,http://192.168.1.111:5000/tptv/G_HENAN-CQ?cdn=tptv
-贵州卫视,http://192.168.1.111:5000/tptv/G_GUIZHOU-CQ?cdn=tptv
-重庆卫视,http://192.168.1.111:5000/tptv/G_CHONGQING-CQ?cdn=tptv
-云南卫视,http://192.168.1.111:5000/tptv/G_YUNNAN-HQ?cdn=tptv
-三沙卫视,http://192.168.1.111:5000/tptv/G_SANSHA-HQ?cdn=tptv
-海南卫视,http://192.168.1.111:5000/tptv/HD-8000k-1080P-lvyoustv?cdn=tptv
-凤凰卫视中文,http://192.168.1.111:5000/tptv/HD-10000k-1080P-fhchinese5s?cdn=tptv
-凤凰卫视资讯,http://192.168.1.111:5000/tptv/HD-10000k-1080P-fhzixun5s?cdn=tptv
-凤凰卫视香港,http://192.168.1.111:5000/tptv/HD-10000k-1080P-fhhongkong5s?cdn=tptv
+纯享 4K,http://192.168.1.111:5000/tptv/HD-20M-2160P-chunxiang4k?cdn=tptv1
+上海纪实人文,http://192.168.1.111:5000/tptv/H265-5500k-1080P-shanghaijishi?cdn=tptv1
+北京纪实科教,http://192.168.1.111:5000/tptv/HD-8000k-1080P-beijingjishi?cdn=tptv1
+咪咕精彩足球,http://192.168.1.111:5000/tptv/HD-8000k-1080P-miguaoyun1?cdn=tptv1
+咪咕综合体育,http://192.168.1.111:5000/tptv/HD-8000k-1080P-miguaoyun2?cdn=tptv1
+全民热练,http://192.168.1.111:5000/tptv/HD-8000k-1080P-quanminrl?cdn=tptv1
+黑莓电影,http://192.168.1.111:5000/tptv/HD-8000k-1080P-Supermovie?cdn=tptv1
+NewTV 炫舞未来,http://192.168.1.111:5000/tptv/HD-4000k-1080P-xwwl?cdn=tptv1
 
-纯享 4K,http://192.168.1.111:5000/tptv/HD-20M-2160P-chunxiang4k?cdn=tptv
-上海纪实人文,http://192.168.1.111:5000/tptv/H265-5500k-1080P-shanghaijishi?cdn=tptv
-北京纪实科教,http://192.168.1.111:5000/tptv/HD-8000k-1080P-beijingjishi?cdn=tptv
-咪咕精彩足球,http://192.168.1.111:5000/tptv/HD-8000k-1080P-miguaoyun1?cdn=tptv
-咪咕综合体育,http://192.168.1.111:5000/tptv/HD-8000k-1080P-miguaoyun2?cdn=tptv
-全民热练,http://192.168.1.111:5000/tptv/HD-8000k-1080P-quanminrl?cdn=tptv
-黑莓电影,http://192.168.1.111:5000/tptv/HD-8000k-1080P-Supermovie?cdn=tptv
-NewTV 炫舞未来,http://192.168.1.111:5000/tptv/HD-4000k-1080P-xwwl?cdn=tptv
+南京新闻综合频道,http://192.168.1.111:5000/tptv/G_NJXW?cdn=tptv1
+南京教科频道,http://192.168.1.111:5000/tptv/G_NJJK?cdn=tptv1
+南京十八频道,http://192.168.1.111:5000/tptv/G_NJSB?cdn=tptv1
+徐州新闻综合,http://192.168.1.111:5000/tptv/xzxwzh?cdn=tptv1
+徐州经济生活,http://192.168.1.111:5000/tptv/xzjjsh?cdn=tptv1
+徐州文艺影视,http://192.168.1.111:5000/tptv/xzwyys?cdn=tptv1
+徐州公共,http://192.168.1.111:5000/tptv/xzgg?cdn=tptv1
+徐州新沂3套,http://192.168.1.111:5000/tptv/G_XZXYTV-3?cdn=tptv1
+徐州沛县新闻综合,http://192.168.1.111:5000/tptv/xzpxxwzh?cdn=tptv1
+徐州沛县综艺,http://192.168.1.111:5000/tptv/xzpxzy?cdn=tptv1
+徐州沛县生活,http://192.168.1.111:5000/tptv/xzpxsh?cdn=tptv1
+常州新闻,http://192.168.1.111:5000/tptv/jsczxinwen?cdn=tptv1
+常州都市,http://192.168.1.111:5000/tptv/jsczdushi?cdn=tptv1
+常州生活,http://192.168.1.111:5000/tptv/jsczshenghuo?cdn=tptv1
+常州公共,http://192.168.1.111:5000/tptv/jsczgonggong?cdn=tptv1
+睢宁综合,http://192.168.1.111:5000/tptv/xzsnzh?cdn=tptv1
+睢宁资讯,http://192.168.1.111:5000/tptv/xzsnzx?cdn=tptv1
+睢宁生活,http://192.168.1.111:5000/tptv/xzsnshjy?cdn=tptv1
+睢宁三农,http://192.168.1.111:5000/tptv/xzsnsn?cdn=tptv1
+南通一套,http://192.168.1.111:5000/tptv/jsntyitao?cdn=tptv1
+南通二套,http://192.168.1.111:5000/tptv/jsntertao?cdn=tptv1
+公共崇川,http://192.168.1.111:5000/tptv/jsntsantao?cdn=tptv1
+镇江一套,http://192.168.1.111:5000/tptv/G_ZHENJIANGTV-1?cdn=tptv1
+镇江二套,http://192.168.1.111:5000/tptv/G_ZHENJIANGTV-2?cdn=tptv1
+镇江三套,http://192.168.1.111:5000/tptv/G_ZHENJIANGTV-3?cdn=tptv1
+宿迁综合,http://192.168.1.111:5000/tptv/G_SQZH?cdn=tptv1
+宿迁公共,http://192.168.1.111:5000/tptv/G_SQGG?cdn=tptv1
+邳州综合,http://192.168.1.111:5000/tptv/pzzonghe?cdn=tptv1
+邳州综艺,http://192.168.1.111:5000/tptv/pzzongyi?cdn=tptv1
+赣榆新闻综合,http://192.168.1.111:5000/tptv/HD-2500k-1080P-ganyutv?cdn=tptv1
 
-南京新闻综合频道,http://192.168.1.111:5000/tptv/G_NJXW?cdn=tptv
-南京教科频道,http://192.168.1.111:5000/tptv/G_NJJK?cdn=tptv
-南京十八频道,http://192.168.1.111:5000/tptv/G_NJSB?cdn=tptv
-徐州新闻综合,http://192.168.1.111:5000/tptv/xzxwzh?cdn=tptv
-徐州经济生活,http://192.168.1.111:5000/tptv/xzjjsh?cdn=tptv
-徐州文艺影视,http://192.168.1.111:5000/tptv/xzwyys?cdn=tptv
-徐州公共,http://192.168.1.111:5000/tptv/xzgg?cdn=tptv
-徐州新沂3套,http://192.168.1.111:5000/tptv/G_XZXYTV-3?cdn=tptv
-徐州沛县新闻综合,http://192.168.1.111:5000/tptv/xzpxxwzh?cdn=tptv
-徐州沛县综艺,http://192.168.1.111:5000/tptv/xzpxzy?cdn=tptv
-徐州沛县生活,http://192.168.1.111:5000/tptv/xzpxsh?cdn=tptv
-常州新闻,http://192.168.1.111:5000/tptv/jsczxinwen?cdn=tptv
-常州都市,http://192.168.1.111:5000/tptv/jsczdushi?cdn=tptv
-常州生活,http://192.168.1.111:5000/tptv/jsczshenghuo?cdn=tptv
-常州公共,http://192.168.1.111:5000/tptv/jsczgonggong?cdn=tptv
-睢宁综合,http://192.168.1.111:5000/tptv/xzsnzh?cdn=tptv
-睢宁资讯,http://192.168.1.111:5000/tptv/xzsnzx?cdn=tptv
-睢宁生活,http://192.168.1.111:5000/tptv/xzsnshjy?cdn=tptv
-睢宁三农,http://192.168.1.111:5000/tptv/xzsnsn?cdn=tptv
-南通一套,http://192.168.1.111:5000/tptv/jsntyitao?cdn=tptv
-南通二套,http://192.168.1.111:5000/tptv/jsntertao?cdn=tptv
-公共崇川,http://192.168.1.111:5000/tptv/jsntsantao?cdn=tptv
-镇江一套,http://192.168.1.111:5000/tptv/G_ZHENJIANGTV-1?cdn=tptv
-镇江二套,http://192.168.1.111:5000/tptv/G_ZHENJIANGTV-2?cdn=tptv
-镇江三套,http://192.168.1.111:5000/tptv/G_ZHENJIANGTV-3?cdn=tptv
-宿迁综合,http://192.168.1.111:5000/tptv/G_SQZH?cdn=tptv
-宿迁公共,http://192.168.1.111:5000/tptv/G_SQGG?cdn=tptv
-邳州综合,http://192.168.1.111:5000/tptv/pzzonghe?cdn=tptv
-邳州综艺,http://192.168.1.111:5000/tptv/pzzongyi?cdn=tptv
-赣榆新闻综合,http://192.168.1.111:5000/tptv/HD-2500k-1080P-ganyutv?cdn=tptv
-
-黑土无言,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-htwy?cdn=tptv
-问心,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-wenxin?cdn=tptv
-父辈的荣耀,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-fbdry?cdn=tptv
-繁城之下,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-fczx?cdn=tptv
-小日子,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-xiaorizi?cdn=tptv
-谢谢你温暖我,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-xxnwnw?cdn=tptv
-当你沉睡时,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-dncss?cdn=tptv
-影视剧场,http://192.168.1.111:5000/tptv/GITV-JS-1?cdn=tptv
-第一院线,http://192.168.1.111:5000/tptv/GITV-JS-2?cdn=tptv
-居家健身,http://192.168.1.111:5000/tptv/GITV-JS-4?cdn=tptv
-未知,http://192.168.1.111:5000/tptv/GITV-JS-6?cdn=tptv
-未知,http://192.168.1.111:5000/tptv/GITV-JS-7?cdn=tptv
-德凯奥特曼,http://192.168.1.111:5000/tptv/GITV-JS-9?cdn=tptv
-熊出没,http://192.168.1.111:5000/tptv/GITV-JS-10?cdn=tptv
-超级飞侠,http://192.168.1.111:5000/tptv/GITV-JS-11?cdn=tptv
-小猪佩奇,http://192.168.1.111:5000/tptv/GITV-JS-12?cdn=tptv
-汪汪队立大功,http://192.168.1.111:5000/tptv/GITV-JS-13?cdn=tptv
-高分电影,http://192.168.1.111:5000/tptv/GITV-JS-14?cdn=tptv
-B站番剧,http://192.168.1.111:5000/tptv/GITV-JS-15?cdn=tptv
-热门综艺,http://192.168.1.111:5000/tptv/GITV-JS-16?cdn=tptv
-美食美味,http://192.168.1.111:5000/tptv/GITV-JS-17?cdn=tptv
-自然风景,http://192.168.1.111:5000/tptv/GITV-JS-18?cdn=tptv
-动物世界,http://192.168.1.111:5000/tptv/GITV-JS-19?cdn=tptv
-书籍解读,http://192.168.1.111:5000/tptv/GITV-JS-20?cdn=tptv
-亲子玩具,http://192.168.1.111:5000/tptv/GITV-JS-21?cdn=tptv
-广场舞,http://192.168.1.111:5000/tptv/GITV-JS-22?cdn=tptv
-戏曲音乐,http://192.168.1.111:5000/tptv/GITV-JS-23?cdn=tptv
-相声联欢,http://192.168.1.111:5000/tptv/GITV-JS-24?cdn=tptv
-动漫星空,http://192.168.1.111:5000/tptv/GITV-JS-25?cdn=tptv
-电视剧,http://192.168.1.111:5000/tptv/GITV-JS-26?cdn=tptv
-电视剧,http://192.168.1.111:5000/tptv/GITV-JS-27?cdn=tptv
-电视剧,http://192.168.1.111:5000/tptv/GITV-JS-28?cdn=tptv
-军事之旅,http://192.168.1.111:5000/tptv/GITV-JS-29?cdn=tptv
-科幻世界,http://192.168.1.111:5000/tptv/GITV-JS-30?cdn=tptv
-儿童天地,http://192.168.1.111:5000/tptv/GITV-JS-31?cdn=tptv
-纪录片,http://192.168.1.111:5000/tptv/GITV-JS-32?cdn=tptv
-音乐心情,http://192.168.1.111:5000/tptv/GITV-JS-33?cdn=tptv
-掼蛋频道,http://192.168.1.111:5000/tptv/GITV-JS-34?cdn=tptv
-体坛同期声,http://192.168.1.111:5000/tptv/GITV-JS-35?cdn=tptv
-臻享推荐,http://192.168.1.111:5000/tptv/GITV-JS-36?cdn=tptv
-怀旧MTV,http://192.168.1.111:5000/tptv/GITV-JS-37?cdn=tptv
-南来北往,http://192.168.1.111:5000/tptv/GITV-JS-39?cdn=tptv
-狗剩快跑,http://192.168.1.111:5000/tptv/GITV-JS-40?cdn=tptv
-狂飙,http://192.168.1.111:5000/tptv/GITV-JS-41?cdn=tptv
-人世间,http://192.168.1.111:5000/tptv/GITV-JS-42?cdn=tptv
-大江大河,http://192.168.1.111:5000/tptv/GITV-JS-43?cdn=tptv
-山海情,http://192.168.1.111:5000/tptv/GITV-JS-44?cdn=tptv
-冰雪竞技场,http://192.168.1.111:5000/tptv/GITV-JS-45?cdn=tptv
-邪恶与疯狂,http://192.168.1.111:5000/tptv/GITV-JS-46?cdn=tptv
-来自星星的你,http://192.168.1.111:5000/tptv/GITV-JS-47?cdn=tptv
-哦我的鬼神大人,http://192.168.1.111:5000/tptv/GITV-JS-48?cdn=tptv
-太阳的后裔,http://192.168.1.111:5000/tptv/GITV-JS-49?cdn=tptv
-请回答1988,http://192.168.1.111:5000/tptv/GITV-JS-50?cdn=tptv
+黑土无言,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-htwy?cdn=tptv1
+问心,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-wenxin?cdn=tptv1
+父辈的荣耀,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-fbdry?cdn=tptv1
+繁城之下,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-fczx?cdn=tptv1
+小日子,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-xiaorizi?cdn=tptv1
+谢谢你温暖我,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-xxnwnw?cdn=tptv1
+当你沉睡时,http://192.168.1.111:5000/tptv/COSHD-4000k-1080P-dncss?cdn=tptv1
+影视剧场,http://192.168.1.111:5000/tptv/GITV-JS-1?cdn=tptv1
+第一院线,http://192.168.1.111:5000/tptv/GITV-JS-2?cdn=tptv1
+居家健身,http://192.168.1.111:5000/tptv/GITV-JS-4?cdn=tptv1
+未知,http://192.168.1.111:5000/tptv/GITV-JS-6?cdn=tptv1
+未知,http://192.168.1.111:5000/tptv/GITV-JS-7?cdn=tptv1
+德凯奥特曼,http://192.168.1.111:5000/tptv/GITV-JS-9?cdn=tptv1
+熊出没,http://192.168.1.111:5000/tptv/GITV-JS-10?cdn=tptv1
+超级飞侠,http://192.168.1.111:5000/tptv/GITV-JS-11?cdn=tptv1
+小猪佩奇,http://192.168.1.111:5000/tptv/GITV-JS-12?cdn=tptv1
+汪汪队立大功,http://192.168.1.111:5000/tptv/GITV-JS-13?cdn=tptv1
+高分电影,http://192.168.1.111:5000/tptv/GITV-JS-14?cdn=tptv1
+B站番剧,http://192.168.1.111:5000/tptv/GITV-JS-15?cdn=tptv1
+热门综艺,http://192.168.1.111:5000/tptv/GITV-JS-16?cdn=tptv1
+美食美味,http://192.168.1.111:5000/tptv/GITV-JS-17?cdn=tptv1
+自然风景,http://192.168.1.111:5000/tptv/GITV-JS-18?cdn=tptv1
+动物世界,http://192.168.1.111:5000/tptv/GITV-JS-19?cdn=tptv1
+书籍解读,http://192.168.1.111:5000/tptv/GITV-JS-20?cdn=tptv1
+亲子玩具,http://192.168.1.111:5000/tptv/GITV-JS-21?cdn=tptv1
+广场舞,http://192.168.1.111:5000/tptv/GITV-JS-22?cdn=tptv1
+戏曲音乐,http://192.168.1.111:5000/tptv/GITV-JS-23?cdn=tptv1
+相声联欢,http://192.168.1.111:5000/tptv/GITV-JS-24?cdn=tptv1
+动漫星空,http://192.168.1.111:5000/tptv/GITV-JS-25?cdn=tptv1
+电视剧,http://192.168.1.111:5000/tptv/GITV-JS-26?cdn=tptv1
+电视剧,http://192.168.1.111:5000/tptv/GITV-JS-27?cdn=tptv1
+电视剧,http://192.168.1.111:5000/tptv/GITV-JS-28?cdn=tptv1
+军事之旅,http://192.168.1.111:5000/tptv/GITV-JS-29?cdn=tptv1
+科幻世界,http://192.168.1.111:5000/tptv/GITV-JS-30?cdn=tptv1
+儿童天地,http://192.168.1.111:5000/tptv/GITV-JS-31?cdn=tptv1
+纪录片,http://192.168.1.111:5000/tptv/GITV-JS-32?cdn=tptv1
+音乐心情,http://192.168.1.111:5000/tptv/GITV-JS-33?cdn=tptv1
+掼蛋频道,http://192.168.1.111:5000/tptv/GITV-JS-34?cdn=tptv1
+体坛同期声,http://192.168.1.111:5000/tptv/GITV-JS-35?cdn=tptv1
+臻享推荐,http://192.168.1.111:5000/tptv/GITV-JS-36?cdn=tptv1
+怀旧MTV,http://192.168.1.111:5000/tptv/GITV-JS-37?cdn=tptv1
+南来北往,http://192.168.1.111:5000/tptv/GITV-JS-39?cdn=tptv1
+狗剩快跑,http://192.168.1.111:5000/tptv/GITV-JS-40?cdn=tptv1
+狂飙,http://192.168.1.111:5000/tptv/GITV-JS-41?cdn=tptv1
+人世间,http://192.168.1.111:5000/tptv/GITV-JS-42?cdn=tptv1
+大江大河,http://192.168.1.111:5000/tptv/GITV-JS-43?cdn=tptv1
+山海情,http://192.168.1.111:5000/tptv/GITV-JS-44?cdn=tptv1
+冰雪竞技场,http://192.168.1.111:5000/tptv/GITV-JS-45?cdn=tptv1
+邪恶与疯狂,http://192.168.1.111:5000/tptv/GITV-JS-46?cdn=tptv1
+来自星星的你,http://192.168.1.111:5000/tptv/GITV-JS-47?cdn=tptv1
+哦我的鬼神大人,http://192.168.1.111:5000/tptv/GITV-JS-48?cdn=tptv1
+太阳的后裔,http://192.168.1.111:5000/tptv/GITV-JS-49?cdn=tptv1
+请回答1988,http://192.168.1.111:5000/tptv/GITV-JS-50?cdn=tptv1
 
 Docker-4GTV,#genre#
 
@@ -556,84 +666,6 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-
-beesport,#genre#
-
-TNT SPORTS 1,http://192.168.1.111:5000/beesport/TNT_Sports_1
-TNT SPORTS 2,http://192.168.1.111:5000/beesport/TNT_Sports_2
-TNT SPORTS 3,http://192.168.1.111:5000/beesport/TNT_Sports_3
-TNT SPORTS 4,http://192.168.1.111:5000/beesport/TNT_Sports_4
-SKY SPORTS FOOTBALL,http://192.168.1.111:5000/beesport/Sky_Sports_Football_Live_TV
-SKY SPORTS MAIN EVENT,http://192.168.1.111:5000/beesport/Sky_Sports_Main_Event
-SKY SPORTS PREMIER LEAGUE,http://192.168.1.111:5000/beesport/Sky_Sports_Premier_League
-SKY SPORTS ACTION,http://192.168.1.111:5000/beesport/Sky_Sports_Action_Live_TV
-SKY SPORTS MIX,http://192.168.1.111:5000/beesport/Sky_Sports_Mix_Live_TV
-SKY SPORTS ARENA,http://192.168.1.111:5000/beesport/Sky_Sports_Arena_Live_TV
-SKY SPORTS NEWS,http://192.168.1.111:5000/beesport/Sky_Sports_News_Live_TV
-SKY SPORTS CRICKET,http://192.168.1.111:5000/beesport/Sky_Sports_Cricket_Live_TV
-Sky Sports Tennis,http://192.168.1.111:5000/beesport/Sky_Sports_Tennis
-SKY SPORTS F1,http://192.168.1.111:5000/beesport/Sky_Sports_F1_Live_TV
-SKY SPORTS GOLF,http://192.168.1.111:5000/beesport/Sky_Sports_Golf_Live_TV
-SKY SPORTS RACING,http://192.168.1.111:5000/beesport/Sky_Sports_Racing_Live_TV
-TENNIS CHANNEL,http://192.168.1.111:5000/beesport/Tennis_Channel_Live_TV
-LALIGA TV HD,http://192.168.1.111:5000/beesport/La_Liga_TV_Live_TV
-DAZN,http://192.168.1.111:5000/beesport/DAZN_Live_TV
-BEIN SPORTS USA,http://192.168.1.111:5000/beesport/Bein_Sports_USA_Live_TV
-Bein Sports English 2,http://192.168.1.111:5000/beesport/Bein_Sports_English_2_Live_TV
-SuperSport Premier League,http://192.168.1.111:5000/beesport/SuperSport_Premier_League_Live_TV
-SuperSport LaLiga,http://192.168.1.111:5000/beesport/SuperSport_LaLiga_Live_TV
-SuperSport Action,http://192.168.1.111:5000/beesport/SuperSport_Action_Live_TV
-SuperSport Blitz,http://192.168.1.111:5000/beesport/SuperSport_Blitz_Live_TV
-SuperSport Cricket,http://192.168.1.111:5000/beesport/SuperSport_Cricket_Live_TV
-SuperSport Football,http://192.168.1.111:5000/beesport/SuperSport_Football_Live_TV
-SuperSport Golf,http://192.168.1.111:5000/beesport/SuperSport_Golf_Live_TV
-SuperSport Rugby,http://192.168.1.111:5000/beesport/SuperSport_Rugby_Live_TV
-SuperSport Tennis,http://192.168.1.111:5000/beesport/SuperSport_Tennis_Live_TV
-Variety 1,http://192.168.1.111:5000/beesport/Variety_1_Live_TV
-Variety 2,http://192.168.1.111:5000/beesport/Variety_2_Live_TV
-Variety 3,http://192.168.1.111:5000/beesport/Variety_3_Live_TV
-Variety 4,http://192.168.1.111:5000/beesport/Variety_4_Live_TV
-Eurosport 1,http://192.168.1.111:5000/beesport/Eurosport_1_Live_TV
-Eurosport 2,http://192.168.1.111:5000/beesport/Eurosport_2_Live_TV
-Premier Sports 1,http://192.168.1.111:5000/beesport/Premier_Sports_1_Live_TV
-Premier Sports 2,http://192.168.1.111:5000/beesport/Premier_Sports_2_Live_TV
-Golf Channel,http://192.168.1.111:5000/beesport/Golf_Channel_Live_TV
-MLB Network,http://192.168.1.111:5000/beesport/MLB_Network_Live_TV
-NBA TV,http://192.168.1.111:5000/beesport/NBA_TV_Live_TV
-NFL Network,http://192.168.1.111:5000/beesport/NFL_Network_Live_TV
-NHL Network,http://192.168.1.111:5000/beesport/NHL_Network_Live_TV
-WWE,http://192.168.1.111:5000/beesport/WWE_Live_TV
-Willow Cricket,http://192.168.1.111:5000/beesport/Willow_Cricket_Live_TV
-Willow Extra,http://192.168.1.111:5000/beesport/Willow_Extra_Live_TV
-World Fishing Network,http://192.168.1.111:5000/beesport/World_Fishing_Network_Live_TV
-ESPN,http://192.168.1.111:5000/beesport/ESPN_Live_TV
-ESPN 2,http://192.168.1.111:5000/beesport/ESPN_2_Live_TV
-ESPN News,http://192.168.1.111:5000/beesport/ESPN_News_Live_TV
-ESPN U,http://192.168.1.111:5000/beesport/ESPN_U_Live_TV
-MUTV,http://192.168.1.111:5000/beesport/MUTV_Live_TV
-LFC TV,http://192.168.1.111:5000/beesport/LFC_TV_Live_TV
-ACC Network,http://192.168.1.111:5000/beesport/ACC_Network_Live_TV
-CBS Sports Network,http://192.168.1.111:5000/beesport/CBS_Sports_Network_Live_TV
-Fox Sports 1,http://192.168.1.111:5000/beesport/Fox_Sports_1_Live_TV
-Fox Sports 2,http://192.168.1.111:5000/beesport/Fox_Sports_2_Live_TV
-HBO 1,http://192.168.1.111:5000/beesport/HBO_Live_TV
-HBO 2,http://192.168.1.111:5000/beesport/HBO_2_Live_TV
-Cinemax West,http://192.168.1.111:5000/beesport/Cinemax_West_Live_TV
-Great Movies,http://192.168.1.111:5000/beesport/UK_Great_Movies_Live_TV
-Sky Cinema Comedy,http://192.168.1.111:5000/beesport/UK_Sky_Cinema_Comedy_Live_TV
-Sky Cinema Family,http://192.168.1.111:5000/beesport/UK_Sky_Cinema_Family_Live_TV
-ITV 1,http://192.168.1.111:5000/beesport/ITV_1_Live_TV
-ITV 2,http://192.168.1.111:5000/beesport/ITV_2_Live_TV
-ITV 3,http://192.168.1.111:5000/beesport/ITV_3_Live_TV
-ITV 4,http://192.168.1.111:5000/beesport/ITV_4_Live_TV
-Discovery Channel,http://192.168.1.111:5000/beesport/Discovery_Channel_Live_TV
-Discovery Life,http://192.168.1.111:5000/beesport/Discovery_Life_Live_TV
-Cartoon Network,http://192.168.1.111:5000/beesport/UK_Cartoon_Network_Live_TV
-Virgin 1,http://192.168.1.111:5000/beesport/UK_Virgin_1
-Virgin 2,http://192.168.1.111:5000/beesport/UK_Virgin_2
-Virgin 3,http://192.168.1.111:5000/beesport/UK_Virgin_3
-FOX NEWS,http://192.168.1.111:5000/beesport/FOX_NEWS_Live_TV
-CNBC,http://192.168.1.111:5000/beesport/CNBC_Live_TV
 
 🎧MTV,#genre#
 
