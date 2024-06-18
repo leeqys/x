@@ -2,7 +2,6 @@
 
 Ytb-love,#genre# "udpxy" && country="CN" && city="Meizhou" && header="Linux 5.10.194 i686" 广东电信
 
-123,http://127.0.0.1:5000/tptv/G_CCTV-1-AVS-4K264?cdn=tptv1凤凰资讯,https://www.youtube.com/watch?v=HFib76ySpbU
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
@@ -16,8 +15,8 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 民視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=ylYJSBUgaMA
 華視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=wM0g8EoUZ_E
 台視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=xL0ch83RAK8
-
 中視新聞,https://ytb.ecword.cloudns.be/live?url=https://www.youtube.com/watch?v=TCnaIE_SAtM
+
 CHC高清电影,P2p://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
 CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
 CHC高清电影,P2p://generationnexxxt.com:19806/bc7bf77f1cb5401389500427f060caa1
@@ -132,8 +131,6 @@ CETV 早期教育,http://192.168.1.111:5000/tptv/G_CETV-ZQJY-CQ?cdn=tptv
 B站番剧,http://192.168.1.111:5000/tptv/GITV-JS-15?cdn=tptv
 咪咕精彩足球,http://192.168.1.111:5000/tptv/HD-8000k-1080P-miguaoyun1?cdn=tptv
 咪咕综合体育,http://192.168.1.111:5000/tptv/HD-8000k-1080P-miguaoyun2?cdn=tptv
-NewTV 炫舞未来,http://192.168.1.111:5000/tptv/HD-4000k-1080P-xwwl?cdn=tptv
-黑莓电影,http://192.168.1.111:5000/tptv/HD-8000k-1080P-Supermovie?cdn=tptv
 
 Docker-4GTV,#genre#
 
@@ -558,7 +555,6 @@ CCTV老故事,http://www.namewee.xyz/gudou.php?id=laogushi_1500$谷豆HD
 风中有朵雨做的云,https://txmov2.a.kwimgs.com/upic/2022/07/03/06/BMjAyMjA3MDMwNjM1MjJfOTU2MzA3MDg4Xzc4MTk4NTM1Mzk2XzJfMw==_b_B4e1045328a86ba67d557d0b5adc35009.mp4?clientCacheKey=3xt2vzxqdz3xzf2_b.mp4&tt=b&di=2471916f&bp=10000
 踏浪,https://vd4.bdstatic.com/mda-nc7ic2p1dcgyewfr/1080p/cae_h264_delogo/1646813622876612103/mda-nc7ic2p1dcgyewfr.mp4
 一路生花,https://txmov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTIzMjZfOTU2MzA3MDg4Xzc0ODAyMzM2MTg0XzJfMw==_b_Be5527eb67c325ba55f9c099f838e34c7.mp4?clientCacheKey=3xuhb64ar55bqv2_b.mp4&tt=b&di=24710a0b&bp=10000
-code=FFD25B82808F4F6F977CE8C52882B029E24B044A5362F7AC20FE6D354906F972&ec=1&bucketName=hcybf04,#genre#
 错位时空。,https://txmov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTQ2MjZfOTU2MzA3MDg4Xzc0ODAyNzU3OTI2XzJfMw==_b_B2368b38ed30292b7dc0c105dbae93ec4.mp4?clientCacheKey=3xhw2z6wgspxgcm_b.mp4&tt=b&di=24710a0b&bp=10000
 天若有情。,https://alimov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTM3MDBfOTU2MzA3MDg4Xzc0ODAyNjAxNjM4XzJfMw==_b_B568661cc6c7d32b4335833707176c7ad.mp4?clientCacheKey=3xudedgg8x694yk_b.mp4&tt=b&di=24710a0b&bp=10000
 舞女泪,https://alimov2.a.kwimgs.com/upic/2022/05/20/05/BMjAyMjA1MjAwNTMwMTBfOTU2MzA3MDg4Xzc0ODAyNDQ0NDgzXzJfMw==_b_Bc661ae05775bdc55d96cf64068caa4e0.mp4?clientCacheKey=3xbapqu7g7emaug_b.mp4&tt=b&di=24710a0b&bp=10000
