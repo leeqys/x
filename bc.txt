@@ -41,6 +41,80 @@ tvb plus,http://154.29.149.9:9981/stream/test/tvbplus/master.m3u8?u=test&p=8d969
 凤凰中文,http://154.29.149.9:9981/stream/test/pcc/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 凤凰香港,http://154.29.149.9:9981/stream/test/phk/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 
+翡翠台,http://172.16.149.176:9090/live/1350_4500.m3u8
+明珠台,http://172.16.149.176:9090/live/1351_4500.m3u8
+CHC高清电影,http://172.16.149.176:9090/live/CHCHD_7000.m3u8
+凤凰中文,http://172.16.149.176:9090/live/fhzw_1500.m3u8
+星空卫视,http://172.16.149.176:9090/live/xingkong_1500.m3u8
+广东珠江,http://172.16.149.44:9090/live/1437.m3u8
+广东珠江,http://172.16.149.176:9090/live/gdzhujiangHD_7500.m3u8
+广东民生,http://172.16.149.176:9090/live/gdpublic_1500.m3u8
+广东体育,http://172.16.149.44:9090/live/1413.m3u8
+广东体育,http://172.16.149.176:9090/live/1413.m3u8
+广东新闻,http://172.16.149.176:9090/live/1454.m3u8
+广东新闻,http://172.16.149.176:9090/live/gdnews_1500.m3u8
+广东影视,http://172.16.149.176:9090/live/gdyingshi_1500.m3u8
+广东少儿,http://172.16.149.176:9090/live/gdshaoer_1500.m3u8
+广东综艺4K,http://172.16.149.176:9090/live/GDZYHD4K_38000.m3u8
+CCTV4K,http://172.16.149.176:9090/live/4005.m3u8
+CCTV16-4K,http://172.16.149.176:9090/live/4010.m3u8
+嘉佳卡通,http://172.16.149.176:9090/live/gdjiajiacartoon_1500.m3u8
+大湾区卫视,http://172.16.149.176:9090/live/gdnanfang_1500.m3u8
+广州综合,http://172.16.149.176:9090/live/guangzhou_1500.m3u8
+广州新闻,http://172.16.149.176:9090/live/gznews_1500.m3u8
+广州影视,http://172.16.149.176:9090/live/gzfilms_1500.m3u8
+佛山综合,http://172.16.149.176:9090/live/foshanzongheHD_4500.m3u8
+佛山公共,http://172.16.149.176:9090/live/foshangonggongHD_4500.m3u8
+佛山影视,http://172.16.149.176:9090/live/foshanyingshiHD_4500.m3u8
+清远新闻综合,http://172.16.149.176:9090/live/qingyuanzonghe_1500.m3u8
+清远文旅生活,http://172.16.149.176:9090/live/qingyuangongong_1500.m3u8
+韶关新闻综合,http://172.16.149.176:9090/live/shaoguanzonghe_1500.m3u8
+韶关绿色生活,http://172.16.149.176:9090/live/shaoguangonggong_1500.m3u8
+CCTV1,http://172.16.149.176:9090/live/CCTV1HD_7000.m3u8
+CCTV2,http://172.16.149.176:9090/live/CCTV2HD_7000.m3u8
+CCTV3,http://172.16.149.176:9090/live/CCTV3HD_7000.m3u8
+CCTV4,http://172.16.149.176:9090/live/CCTV-4HD_7500.m3u8
+CCTV5,http://172.16.149.176:9090/live/1605_4500.m3u8
+CCTV5+,http://172.16.149.176:9090/live/1403_4500.m3u8
+CCTV6,http://172.16.149.176:9090/live/CCTV6HD_7000.m3u8
+CCTV7,http://172.16.149.176:9090/live/CCTV7HD_7000.m3u8
+CCTV8,http://172.16.149.176:9090/live/CCTV8HD_7000.m3u8
+CCTV9,http://172.16.149.176:9090/live/CCTV9HD_7000.m3u8
+CCTV10,http://172.16.149.176:9090/live/CCTV10HD_7000.m3u8
+CCTV11,http://172.16.149.176:9090/live/CCTV-11HD_7500.m3u8
+CCTV12,http://172.16.149.176:9090/live/CCTV12HD_7000.m3u8
+CCTV13,http://172.16.149.176:9090/live/1613.m3u8
+CCTV14,http://172.16.149.176:9090/live/CCTV14HD_7000.m3u8
+CCTV15,http://172.16.149.176:9090/live/CCTV-15HD_7500.m3u8
+CCTV16,http://172.16.149.176:9090/live/1617_4500.m3u8
+CCTV17,http://172.16.149.176:9090/live/CCTV17HD.m3u8
+CGTN,http://172.16.149.176:9090/live/CCTV15news_1500.m3u8
+广东卫视,http://172.16.149.176:9090/live/guangdongHD_7000.m3u8
+深圳卫视,http://172.16.149.176:9090/live/shenzhenHD_7000.m3u8
+东方卫视,http://172.16.149.176:9090/live/dongfangHD_7000.m3u8
+北京卫视,http://172.16.149.176:9090/live/beijingHD_7000.m3u8
+湖南卫视,http://172.16.149.176:9090/live/hunanHD_7000.m3u8
+江西卫视,http://172.16.149.176:9090/live/jiangxiHD_7000.m3u8
+四川卫视,http://172.16.149.176:9090/live/sichuanHD_7000.m3u8
+江苏卫视,http://172.16.149.176:9090/live/jiangsuHD_7000.m3u8
+浙江卫视,http://172.16.149.176:9090/live/zhejiangHD_7000.m3u8
+天津卫视,http://172.16.149.176:9090/live/1415_4500.m3u8
+河北卫视,http://172.16.149.176:9090/live/1426_4500.m3u8
+重庆卫视,http://172.16.149.176:9090/live/chongqingHD_7000.m3u8
+贵州卫视,http://172.16.149.176:9090/live/guizhouHD_7000.m3u8
+辽宁卫视,http://172.16.149.176:9090/live/liaoningHD_7000.m3u8
+湖北卫视,http://172.16.149.176:9090/live/hubeiHD_7000.m3u8
+安徽卫视,http://172.16.149.176:9090/live/anhuiHD_7000.m3u8
+黑龙江卫视,http://172.16.149.176:9090/live/heilongjiangHD_7000.m3u8
+海南卫视,http://172.16.149.176:9090/live/1451_4500.m3u8
+陕西卫视,http://172.16.149.176:9090/live/1452_4500.m3u8
+东南卫视,http://172.16.149.176:9090/live/dongnanweishiHD.m3u8
+三沙卫视,http://172.16.149.176:9090/live/1453.m3u8
+求索纪录.m3u8,http://172.16.149.176:9090/live/QSJLHD_7000.m3u8
+求索科学.m3u8,http://172.16.149.176:9090/live/qiusuokexueHD_7000.m3u8
+求索动物.m3u8,http://172.16.149.176:9090/live/QSDWHD_7000.m3u8
+求索生活,http://172.16.149.176:9090/live/QSSHHD_7000.m3u8
+
 广东珠江,http://120.238.99.51:8888/udp/239.77.0.1:5146$高清
 广东珠江,http://120.238.99.51:8888/udp/239.77.0.3:5146
 广东珠江,http://120.238.99.51:8888/udp/239.77.0.114:5146$超清
@@ -49,8 +123,6 @@ tvb plus,http://154.29.149.9:9981/stream/test/tvbplus/master.m3u8?u=test&p=8d969
 广东体育,http://120.238.99.51:8888/udp/239.77.0.112:5146$高清-测试
 广东体育,http://120.238.99.51:8888/udp/239.77.0.6:5146
 广东体育,http://120.238.99.51:8888/udp/239.77.0.168:5146$超清
-大湾区卫视,http://120.238.99.51:8888/udp/239.77.0.215:5146$高清
-大湾区卫视,http://120.238.99.51:8888/udp/239.77.0.9:5146
 广东影视,http://120.238.99.51:8888/udp/239.77.0.217:5146$高清
 广东影视,http://120.238.99.51:8888/udp/239.77.0.11:5146
 佛山综合,http://120.238.99.51:8888/udp/239.253.43.57:5146$高清
@@ -61,9 +133,26 @@ tvb plus,http://154.29.149.9:9981/stream/test/tvbplus/master.m3u8?u=test&p=8d969
 优漫卡通,http://120.238.99.51:8888/rtp/239.77.0.222:5146$高清
 卡酷少儿,http://120.238.99.51:8888/rtp/239.77.0.79:5146$高清
 哈哈炫动,http://120.238.99.51:8888/rtp/239.77.0.81:5146$高清
+大湾区卫视,http://120.238.99.51:8888/udp/239.77.0.215:5146$高清
+大湾区卫视,http://120.238.99.51:8888/udp/239.77.0.9:5146
+
+广东珠江,http://183.236.32.24:9901/hls/1036/index.m3u8
+广东新闻,http://183.236.32.24:9901/hls/1037/index.m3u8
+广东公共,http://183.236.32.24:9901/hls/1038/index.m3u8
+广东体育,http://183.236.32.24:9901/hls/1039/index.m3u8
+广东影视,http://183.236.32.24:9901/hls/1045/index.m3u8
+广东少儿,http://183.236.32.24:9901/hls/1046/index.m3u8
+广州综合,http://183.236.32.24:9901/hls/1040/index.m3u8
+广州新闻,http://183.236.32.24:9901/hls/1041/index.m3u8
+广州影视,http://183.236.32.24:9901/hls/1042/index.m3u8
+广州法治,http://183.236.32.24:9901/hls/1043/index.m3u8
 
 江苏tptv,#genre#
+
 CCTV 1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?cdn=tptv
+CCTV 1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?cdn=tptv1
+CCTV 1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?cdn=tptv12
+
 CCTV 2,http://192.168.1.111:5000/tptv/G_CCTV-2-HD-265-8M?cdn=tptv
 CCTV 3,http://192.168.1.111:5000/tptv/G_CCTV-3-AVS-4K264?cdn=tptv
 CCTV 4,http://192.168.1.111:5000/tptv/G_CCTV-4-HD-265-8M?cdn=tptv
@@ -313,85 +402,6 @@ CCTV 4K,http://192.168.1.111:5000/ysp/cctv4k
 新疆卫视,http://192.168.1.111:5000/ysp/xinjiang
 兵团卫视,http://192.168.1.111:5000/ysp/bingtuan
 
-
-beesport,#genre#
-
-TNT SPORTS 1,http://192.168.1.111:5000/beesport/TNT_Sports_1
-TNT SPORTS 2,http://192.168.1.111:5000/beesport/TNT_Sports_2
-TNT SPORTS 3,http://192.168.1.111:5000/beesport/TNT_Sports_3
-TNT SPORTS 4,http://192.168.1.111:5000/beesport/TNT_Sports_4
-SKY SPORTS FOOTBALL,http://192.168.1.111:5000/beesport/Sky_Sports_Football_Live_TV
-SKY SPORTS MAIN EVENT,http://192.168.1.111:5000/beesport/Sky_Sports_Main_Event
-SKY SPORTS PREMIER LEAGUE,http://192.168.1.111:5000/beesport/Sky_Sports_Premier_League
-SKY SPORTS ACTION,http://192.168.1.111:5000/beesport/Sky_Sports_Action_Live_TV
-SKY SPORTS MIX,http://192.168.1.111:5000/beesport/Sky_Sports_Mix_Live_TV
-SKY SPORTS ARENA,http://192.168.1.111:5000/beesport/Sky_Sports_Arena_Live_TV
-SKY SPORTS NEWS,http://192.168.1.111:5000/beesport/Sky_Sports_News_Live_TV
-SKY SPORTS CRICKET,http://192.168.1.111:5000/beesport/Sky_Sports_Cricket_Live_TV
-Sky Sports Tennis,http://192.168.1.111:5000/beesport/Sky_Sports_Tennis
-SKY SPORTS F1,http://192.168.1.111:5000/beesport/Sky_Sports_F1_Live_TV
-SKY SPORTS GOLF,http://192.168.1.111:5000/beesport/Sky_Sports_Golf_Live_TV
-SKY SPORTS RACING,http://192.168.1.111:5000/beesport/Sky_Sports_Racing_Live_TV
-TENNIS CHANNEL,http://192.168.1.111:5000/beesport/Tennis_Channel_Live_TV
-LALIGA TV HD,http://192.168.1.111:5000/beesport/La_Liga_TV_Live_TV
-DAZN,http://192.168.1.111:5000/beesport/DAZN_Live_TV
-BEIN SPORTS USA,http://192.168.1.111:5000/beesport/Bein_Sports_USA_Live_TV
-Bein Sports English 2,http://192.168.1.111:5000/beesport/Bein_Sports_English_2_Live_TV
-SuperSport Premier League,http://192.168.1.111:5000/beesport/SuperSport_Premier_League_Live_TV
-SuperSport LaLiga,http://192.168.1.111:5000/beesport/SuperSport_LaLiga_Live_TV
-SuperSport Action,http://192.168.1.111:5000/beesport/SuperSport_Action_Live_TV
-SuperSport Blitz,http://192.168.1.111:5000/beesport/SuperSport_Blitz_Live_TV
-SuperSport Cricket,http://192.168.1.111:5000/beesport/SuperSport_Cricket_Live_TV
-SuperSport Football,http://192.168.1.111:5000/beesport/SuperSport_Football_Live_TV
-SuperSport Golf,http://192.168.1.111:5000/beesport/SuperSport_Golf_Live_TV
-SuperSport Rugby,http://192.168.1.111:5000/beesport/SuperSport_Rugby_Live_TV
-SuperSport Tennis,http://192.168.1.111:5000/beesport/SuperSport_Tennis_Live_TV
-Variety 1,http://192.168.1.111:5000/beesport/Variety_1_Live_TV
-Variety 2,http://192.168.1.111:5000/beesport/Variety_2_Live_TV
-Variety 3,http://192.168.1.111:5000/beesport/Variety_3_Live_TV
-Variety 4,http://192.168.1.111:5000/beesport/Variety_4_Live_TV
-Eurosport 1,http://192.168.1.111:5000/beesport/Eurosport_1_Live_TV
-Eurosport 2,http://192.168.1.111:5000/beesport/Eurosport_2_Live_TV
-Premier Sports 1,http://192.168.1.111:5000/beesport/Premier_Sports_1_Live_TV
-Premier Sports 2,http://192.168.1.111:5000/beesport/Premier_Sports_2_Live_TV
-Golf Channel,http://192.168.1.111:5000/beesport/Golf_Channel_Live_TV
-MLB Network,http://192.168.1.111:5000/beesport/MLB_Network_Live_TV
-NBA TV,http://192.168.1.111:5000/beesport/NBA_TV_Live_TV
-NFL Network,http://192.168.1.111:5000/beesport/NFL_Network_Live_TV
-NHL Network,http://192.168.1.111:5000/beesport/NHL_Network_Live_TV
-WWE,http://192.168.1.111:5000/beesport/WWE_Live_TV
-Willow Cricket,http://192.168.1.111:5000/beesport/Willow_Cricket_Live_TV
-Willow Extra,http://192.168.1.111:5000/beesport/Willow_Extra_Live_TV
-World Fishing Network,http://192.168.1.111:5000/beesport/World_Fishing_Network_Live_TV
-ESPN,http://192.168.1.111:5000/beesport/ESPN_Live_TV
-ESPN 2,http://192.168.1.111:5000/beesport/ESPN_2_Live_TV
-ESPN News,http://192.168.1.111:5000/beesport/ESPN_News_Live_TV
-ESPN U,http://192.168.1.111:5000/beesport/ESPN_U_Live_TV
-MUTV,http://192.168.1.111:5000/beesport/MUTV_Live_TV
-LFC TV,http://192.168.1.111:5000/beesport/LFC_TV_Live_TV
-ACC Network,http://192.168.1.111:5000/beesport/ACC_Network_Live_TV
-CBS Sports Network,http://192.168.1.111:5000/beesport/CBS_Sports_Network_Live_TV
-Fox Sports 1,http://192.168.1.111:5000/beesport/Fox_Sports_1_Live_TV
-Fox Sports 2,http://192.168.1.111:5000/beesport/Fox_Sports_2_Live_TV
-HBO 1,http://192.168.1.111:5000/beesport/HBO_Live_TV
-HBO 2,http://192.168.1.111:5000/beesport/HBO_2_Live_TV
-Cinemax West,http://192.168.1.111:5000/beesport/Cinemax_West_Live_TV
-Great Movies,http://192.168.1.111:5000/beesport/UK_Great_Movies_Live_TV
-Sky Cinema Comedy,http://192.168.1.111:5000/beesport/UK_Sky_Cinema_Comedy_Live_TV
-Sky Cinema Family,http://192.168.1.111:5000/beesport/UK_Sky_Cinema_Family_Live_TV
-ITV 1,http://192.168.1.111:5000/beesport/ITV_1_Live_TV
-ITV 2,http://192.168.1.111:5000/beesport/ITV_2_Live_TV
-ITV 3,http://192.168.1.111:5000/beesport/ITV_3_Live_TV
-ITV 4,http://192.168.1.111:5000/beesport/ITV_4_Live_TV
-Discovery Channel,http://192.168.1.111:5000/beesport/Discovery_Channel_Live_TV
-Discovery Life,http://192.168.1.111:5000/beesport/Discovery_Life_Live_TV
-Cartoon Network,http://192.168.1.111:5000/beesport/UK_Cartoon_Network_Live_TV
-Virgin 1,http://192.168.1.111:5000/beesport/UK_Virgin_1
-Virgin 2,http://192.168.1.111:5000/beesport/UK_Virgin_2
-Virgin 3,http://192.168.1.111:5000/beesport/UK_Virgin_3
-FOX NEWS,http://192.168.1.111:5000/beesport/FOX_NEWS_Live_TV
-CNBC,http://192.168.1.111:5000/beesport/CNBC_Live_TV
-
 4gtv-php,#genre#
 
 民視台灣台,http://192.168.1.111:5678/litv.php?id=4gtv-4gtv001
@@ -546,94 +556,84 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕视频,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-谷豆代理,#genre#
-G导视,http://www.namewee.xyz/gudou.php?id=GHDdaoshi_7500$谷豆HD
-CHC高清电影,http://www.namewee.xyz/gudou.php?id=364&id=CHCHD_7000$谷豆HD
-翡翠台,http://www.namewee.xyz/gudou.php?id=1350_4500$谷豆HD
-明珠台,http://www.namewee.xyz/gudou.php?id=1351_4500$谷豆HD
-广东珠江,http://www.namewee.xyz/gudou.php?id=gdzhujiangHD_7500$谷豆HD
-广东新闻,http://www.namewee.xyz/gudou.php?id=364&id=1454_4500$谷豆HD
-广东民生,http://www.namewee.xyz/gudou.php?id=364&id=1455_4500$谷豆HD
-广东影视,http://www.namewee.xyz/gudou.php?id=364&id=1458_4500$谷豆HD
-嘉佳卡通,http://www.namewee.xyz/gudou.php?id=364&id=1459_4500$谷豆HD
-广东少儿,http://www.namewee.xyz/gudou.php?id=364&id=1457_4500$谷豆HD
-广州综合,http://www.namewee.xyz/gudou.php?id=gzhounewsHD$谷豆HD
-广州新闻,http://www.namewee.xyz/gudou.php?id=gzhouzongheHD$谷豆HD
-广东体育,http://www.namewee.xyz/gudou.php?id=gdsportsHD_3000$谷豆HD
-广东综艺4K,http://www.namewee.xyz/gudou.php?id=GDZYHD4K_38000$谷豆HD
-汕头综合HD,http://www.namewee.xyz/gudou.php?id=shantouyitaogaoqing_4500$谷豆HD
-汕头经济HD,http://www.namewee.xyz/gudou.php?id=shantouertaogaoqing_4500$谷豆HD
-汕头文旅HD,http://www.namewee.xyz/gudou.php?id=2508_4500$谷豆HD
-东莞新闻综合,http://www.namewee.xyz/gudou.php?id=2121$谷豆HD
-东莞生活资讯,http://www.namewee.xyz/gudou.php?id=2122$谷豆HD
-佛山影视 高清,http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500$谷豆HD
-佛山公共 高清,http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500$谷豆HD
-佛山综合 高清,http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500$谷豆HD
-佛山南海 高清,http://www.namewee.xyz/gudou.php?id=nanhaiHD_4500$谷豆HD
-佛山顺德 高清,http://www.namewee.xyz/gudou.php?id=shundeHD_4500$谷豆HD
-大湾区卫视,http://www.namewee.xyz/gudou.php?id=364&id=1456_4500$谷豆HD
-中山公共HD,http://www.namewee.xyz/gudou.php?id=3663_4500$谷豆HD
-中山教育HD,http://www.namewee.xyz/gudou.php?id=3664_4500$谷豆HD
-中山综合HD,http://www.namewee.xyz/gudou.php?id=3665_4500$谷豆HD
-梅州一套HD,http://www.namewee.xyz/gudou.php?id=meizhou1HD_4500$谷豆HD
-梅州二套HD,http://www.namewee.xyz/gudou.php?id=meizhou2HD_4500$谷豆HD
-惠州综合HD,http://www.namewee.xyz/gudou.php?id=2314_4500$谷豆HD
-惠州公共HD,http://www.namewee.xyz/gudou.php?id=2316_4500$谷豆HD
-潮州综合HD,http://www.namewee.xyz/gudou.php?id=3131_4500$谷豆HD
-潮州民生HD,http://www.namewee.xyz/gudou.php?id=3132_4500$谷豆HD
-博罗综合HD,http://www.namewee.xyz/gudou.php?id=2305_4500$谷豆HD
-求索纪录FHD,http://www.namewee.xyz/gudou.php?id=QSJLHD_7000$谷豆HD
-求索科学FHD,http://www.namewee.xyz/gudou.php?id=qiusuokexueHD_7000$谷豆HD
-求索动物FHD,http://www.namewee.xyz/gudou.php?id=QSDWHD_7000$谷豆HD
-求索生活FHD,http://www.namewee.xyz/gudou.php?id=QSSHHD_7000$谷豆HD
-劲爆体育FHD,http://www.namewee.xyz/gudou.php?id=jinbaotiyuHD_7000$谷豆HD
-CCTV-1综合频道,http://www.namewee.xyz/gudou.php?id=CCTV1HD_7000$谷豆HD
-CCTV-2财经频道,http://www.namewee.xyz/gudou.php?id=CCTV2HD_7000$谷豆HD
-CCTV-3综艺频道,http://www.namewee.xyz/gudou.php?id=CCTV3HD_7000$谷豆HD
-CCTV-4中文国际,http://www.namewee.xyz/gudou.php?id=CCTV-4HD_7500$谷豆HD
-CCTV-5体育频道,http://www.namewee.xyz/gudou.php?id=CCTV5HD_7000$谷豆HD
-CCTV-5+体育赛事,http://www.namewee.xyz/gudou.php?id=CCTV5plusHD_7000$谷豆HD
-CCTV-6电影频道,http://www.namewee.xyz/gudou.php?id=CCTV6HD_7000$谷豆HD
-CCTV-7国防军事,http://www.namewee.xyz/gudou.php?id=CCTV7HD_7000$谷豆HD
-CCTV-8电视剧场,http://www.namewee.xyz/gudou.php?id=CCTV8HD_7000$谷豆HD
-CCTV-9纪录频道,http://www.namewee.xyz/gudou.php?id=CCTV9HD_7000$谷豆HD
-CCTV-10科教频道,http://www.namewee.xyz/gudou.php?id=CCTV10HD_7000$谷豆HD
-CCTV-11戏曲频道,http://www.namewee.xyz/gudou.php?id=CCTV-11HD_7500$谷豆HD
-CCTV-12社会与法,http://www.namewee.xyz/gudou.php?id=CCTV12HD_7000$谷豆HD
-CCTV-13新闻频道,http://www.namewee.xyz/gudou.php?id=CCTV13HD_7500$谷豆HD
-CCTV-14少儿频道,http://www.namewee.xyz/gudou.php?id=CCTV14HD_7000$谷豆HD
-CCTV-15音乐频道,http://www.namewee.xyz/gudou.php?id=CCTV-15HD_7500$谷豆HD
-CCTV-16奥林匹克,http://www.namewee.xyz/gudou.php?id=1617_4500$谷豆HD
-CCTV-16奥林匹克4K,http://www.namewee.xyz/gudou.php?id=4010$谷豆HD
-CCTV-17农业农村,http://www.namewee.xyz/gudou.php?id=CCTV17HD_7500$谷豆HD
-CCTV-4K超高清,http://www.namewee.xyz/gudou.php?id=CCTVHHD4K_38000$谷豆HD
-CCTV-4K超高清,http://www.namewee.xyz/gudou.php?id=400$谷豆HD5_4500$谷豆HD
-嘉佳卡通,http://www.namewee.xyz/gudou.php?id=gdjiajiacartoon_1500$谷豆HD
-优漫卡通,http://www.namewee.xyz/gudou.php?id=youmankatong_1500$谷豆HD
-金鹰卡通,http://www.namewee.xyz/gudou.php?id=jinyingkatong_1500$谷豆HD
-广东卫视高清,http://www.namewee.xyz/gudou.php?id=guangdongHD_7000$谷豆HD
-深圳卫视高清,http://www.namewee.xyz/gudou.php?id=shenzhenHD_7000$谷豆HD
-东方卫视高清,http://www.namewee.xyz/gudou.php?id=dongfangHD_7000$谷豆HD
-北京卫视高清,http://www.namewee.xyz/gudou.php?id=beijingHD_7000$谷豆HD
-湖南卫视高清,http://www.namewee.xyz/gudou.php?id=hunanHD_7000$谷豆HD
-浙江卫视高清,http://www.namewee.xyz/gudou.php?id=zhejiangHD_7000$谷豆HD
-四川卫视高清,http://www.namewee.xyz/gudou.php?id=sichuanHD_7000$谷豆HD
-江苏卫视高清,http://www.namewee.xyz/gudou.php?id=jiangsuHD_7000$谷豆HD
-重庆卫视高清,http://www.namewee.xyz/gudou.php?id=chongqingHD_7000$谷豆HD
-贵州卫视高清,http://www.namewee.xyz/gudou.php?id=guizhouHD_7000$谷豆HD
-河北卫视高清,http://www.namewee.xyz/gudou.php?id=hebeiHD_7000$谷豆HD
-辽宁卫视高清,http://www.namewee.xyz/gudou.php?id=liaoningHD_7000$谷豆HD
-天津卫视高清,http://www.namewee.xyz/gudou.php?id=tianjinHD_7000$谷豆HD
-山东卫视高清,http://www.namewee.xyz/gudou.php?id=shandongHD_7000$谷豆HD
-安徽卫视高清,http://www.namewee.xyz/gudou.php?id=anhuiHD_7000$谷豆HD
-湖北卫视高清,http://www.namewee.xyz/gudou.php?id=hubeiHD_7000$谷豆HD
-黑龙江卫视高清,http://www.namewee.xyz/gudou.php?id=heilongjiangHD_7000$谷豆HD
-海南卫视高清,http://www.namewee.xyz/gudou.php?id=1451_4500$谷豆HD
-陕西卫视高清,http://www.namewee.xyz/gudou.php?id=1452_4500$谷豆HD
-中国教育1台,http://www.namewee.xyz/gudou.php?id=CETV-1_1500$谷豆HD
-中国教育4台,http://www.namewee.xyz/gudou.php?id=CETV-4_1500$谷豆HD
-CGTN国际,http://www.namewee.xyz/gudou.php?id=CCTV15news_1500$谷豆HD
-CCTV老故事,http://www.namewee.xyz/gudou.php?id=laogushi_1500$谷豆HD
+
+beesport,#genre#
+
+TNT SPORTS 1,http://192.168.1.111:5000/beesport/TNT_Sports_1
+TNT SPORTS 2,http://192.168.1.111:5000/beesport/TNT_Sports_2
+TNT SPORTS 3,http://192.168.1.111:5000/beesport/TNT_Sports_3
+TNT SPORTS 4,http://192.168.1.111:5000/beesport/TNT_Sports_4
+SKY SPORTS FOOTBALL,http://192.168.1.111:5000/beesport/Sky_Sports_Football_Live_TV
+SKY SPORTS MAIN EVENT,http://192.168.1.111:5000/beesport/Sky_Sports_Main_Event
+SKY SPORTS PREMIER LEAGUE,http://192.168.1.111:5000/beesport/Sky_Sports_Premier_League
+SKY SPORTS ACTION,http://192.168.1.111:5000/beesport/Sky_Sports_Action_Live_TV
+SKY SPORTS MIX,http://192.168.1.111:5000/beesport/Sky_Sports_Mix_Live_TV
+SKY SPORTS ARENA,http://192.168.1.111:5000/beesport/Sky_Sports_Arena_Live_TV
+SKY SPORTS NEWS,http://192.168.1.111:5000/beesport/Sky_Sports_News_Live_TV
+SKY SPORTS CRICKET,http://192.168.1.111:5000/beesport/Sky_Sports_Cricket_Live_TV
+Sky Sports Tennis,http://192.168.1.111:5000/beesport/Sky_Sports_Tennis
+SKY SPORTS F1,http://192.168.1.111:5000/beesport/Sky_Sports_F1_Live_TV
+SKY SPORTS GOLF,http://192.168.1.111:5000/beesport/Sky_Sports_Golf_Live_TV
+SKY SPORTS RACING,http://192.168.1.111:5000/beesport/Sky_Sports_Racing_Live_TV
+TENNIS CHANNEL,http://192.168.1.111:5000/beesport/Tennis_Channel_Live_TV
+LALIGA TV HD,http://192.168.1.111:5000/beesport/La_Liga_TV_Live_TV
+DAZN,http://192.168.1.111:5000/beesport/DAZN_Live_TV
+BEIN SPORTS USA,http://192.168.1.111:5000/beesport/Bein_Sports_USA_Live_TV
+Bein Sports English 2,http://192.168.1.111:5000/beesport/Bein_Sports_English_2_Live_TV
+SuperSport Premier League,http://192.168.1.111:5000/beesport/SuperSport_Premier_League_Live_TV
+SuperSport LaLiga,http://192.168.1.111:5000/beesport/SuperSport_LaLiga_Live_TV
+SuperSport Action,http://192.168.1.111:5000/beesport/SuperSport_Action_Live_TV
+SuperSport Blitz,http://192.168.1.111:5000/beesport/SuperSport_Blitz_Live_TV
+SuperSport Cricket,http://192.168.1.111:5000/beesport/SuperSport_Cricket_Live_TV
+SuperSport Football,http://192.168.1.111:5000/beesport/SuperSport_Football_Live_TV
+SuperSport Golf,http://192.168.1.111:5000/beesport/SuperSport_Golf_Live_TV
+SuperSport Rugby,http://192.168.1.111:5000/beesport/SuperSport_Rugby_Live_TV
+SuperSport Tennis,http://192.168.1.111:5000/beesport/SuperSport_Tennis_Live_TV
+Variety 1,http://192.168.1.111:5000/beesport/Variety_1_Live_TV
+Variety 2,http://192.168.1.111:5000/beesport/Variety_2_Live_TV
+Variety 3,http://192.168.1.111:5000/beesport/Variety_3_Live_TV
+Variety 4,http://192.168.1.111:5000/beesport/Variety_4_Live_TV
+Eurosport 1,http://192.168.1.111:5000/beesport/Eurosport_1_Live_TV
+Eurosport 2,http://192.168.1.111:5000/beesport/Eurosport_2_Live_TV
+Premier Sports 1,http://192.168.1.111:5000/beesport/Premier_Sports_1_Live_TV
+Premier Sports 2,http://192.168.1.111:5000/beesport/Premier_Sports_2_Live_TV
+Golf Channel,http://192.168.1.111:5000/beesport/Golf_Channel_Live_TV
+MLB Network,http://192.168.1.111:5000/beesport/MLB_Network_Live_TV
+NBA TV,http://192.168.1.111:5000/beesport/NBA_TV_Live_TV
+NFL Network,http://192.168.1.111:5000/beesport/NFL_Network_Live_TV
+NHL Network,http://192.168.1.111:5000/beesport/NHL_Network_Live_TV
+WWE,http://192.168.1.111:5000/beesport/WWE_Live_TV
+Willow Cricket,http://192.168.1.111:5000/beesport/Willow_Cricket_Live_TV
+Willow Extra,http://192.168.1.111:5000/beesport/Willow_Extra_Live_TV
+World Fishing Network,http://192.168.1.111:5000/beesport/World_Fishing_Network_Live_TV
+ESPN,http://192.168.1.111:5000/beesport/ESPN_Live_TV
+ESPN 2,http://192.168.1.111:5000/beesport/ESPN_2_Live_TV
+ESPN News,http://192.168.1.111:5000/beesport/ESPN_News_Live_TV
+ESPN U,http://192.168.1.111:5000/beesport/ESPN_U_Live_TV
+MUTV,http://192.168.1.111:5000/beesport/MUTV_Live_TV
+LFC TV,http://192.168.1.111:5000/beesport/LFC_TV_Live_TV
+ACC Network,http://192.168.1.111:5000/beesport/ACC_Network_Live_TV
+CBS Sports Network,http://192.168.1.111:5000/beesport/CBS_Sports_Network_Live_TV
+Fox Sports 1,http://192.168.1.111:5000/beesport/Fox_Sports_1_Live_TV
+Fox Sports 2,http://192.168.1.111:5000/beesport/Fox_Sports_2_Live_TV
+HBO 1,http://192.168.1.111:5000/beesport/HBO_Live_TV
+HBO 2,http://192.168.1.111:5000/beesport/HBO_2_Live_TV
+Cinemax West,http://192.168.1.111:5000/beesport/Cinemax_West_Live_TV
+Great Movies,http://192.168.1.111:5000/beesport/UK_Great_Movies_Live_TV
+Sky Cinema Comedy,http://192.168.1.111:5000/beesport/UK_Sky_Cinema_Comedy_Live_TV
+Sky Cinema Family,http://192.168.1.111:5000/beesport/UK_Sky_Cinema_Family_Live_TV
+ITV 1,http://192.168.1.111:5000/beesport/ITV_1_Live_TV
+ITV 2,http://192.168.1.111:5000/beesport/ITV_2_Live_TV
+ITV 3,http://192.168.1.111:5000/beesport/ITV_3_Live_TV
+ITV 4,http://192.168.1.111:5000/beesport/ITV_4_Live_TV
+Discovery Channel,http://192.168.1.111:5000/beesport/Discovery_Channel_Live_TV
+Discovery Life,http://192.168.1.111:5000/beesport/Discovery_Life_Live_TV
+Cartoon Network,http://192.168.1.111:5000/beesport/UK_Cartoon_Network_Live_TV
+Virgin 1,http://192.168.1.111:5000/beesport/UK_Virgin_1
+Virgin 2,http://192.168.1.111:5000/beesport/UK_Virgin_2
+Virgin 3,http://192.168.1.111:5000/beesport/UK_Virgin_3
+FOX NEWS,http://192.168.1.111:5000/beesport/FOX_NEWS_Live_TV
+CNBC,http://192.168.1.111:5000/beesport/CNBC_Live_TV
 
 🎧MTV,#genre#
 
