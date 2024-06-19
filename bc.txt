@@ -1,7 +1,6 @@
 
 
 Ytb-love,#genre# "udpxy" && country="CN" && city="Meizhou" && header="Linux 5.10.194 i686" 广东电信
-5555,http://154.29.149.9:9981/stream/test/jade/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 
 CHC高清电影,P2p://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
 CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
@@ -12,8 +11,6 @@ CHC动作电影,P2p://generationnexxxt.com:19806/ab40a3bbbef244a1b4c8c0f841f0561
 翡翠台,http://154.12.61.132:5556/stream/test/jade/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 明珠台,http://154.12.61.132:5556/stream/test/pear/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 无线新闻,http://154.12.61.132:5556/stream/test/tvbnews/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-TVB PLUS,http://154.12.61.132:5556/stream/test/tvbplus/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-娱乐新闻,http://154.12.61.132:5556/stream/test/tvbylxw/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 凤凰资讯,http://154.12.61.132:5556/stream/test/pin/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 凤凰中文,http://154.12.61.132:5556/stream/test/pcc/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 凤凰香港,http://154.12.61.132:5556/stream/test/phk/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
@@ -21,8 +18,6 @@ TVB PLUS,http://154.12.61.132:5556/stream/test/tvbplus/master.m3u8?u=test&p=8d96
 翡翠台,http://154.29.149.9:9981/stream/test/jade/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 明珠台,http://154.29.149.9:9981/stream/test/pear/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 无线新闻,http://154.29.149.9:9981/stream/test/tvbnews/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-tvb plus,http://154.29.149.9:9981/stream/test/tvbplus/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-娱乐新闻,http://154.29.149.9:9981/stream/test/tvbylxw/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 凤凰资讯,http://154.29.149.9:9981/stream/test/pin/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 凤凰中文,http://154.29.149.9:9981/stream/test/pcc/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 凤凰香港,http://154.29.149.9:9981/stream/test/phk/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
