@@ -256,9 +256,7 @@ TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 
 江苏tptv,#genre#
 
-CCTV 1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?cdn=tptv
 CCTV 1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?cdn=tptv1
-CCTV 1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?cdn=tptv2
 CCTV 2,http://192.168.1.111:5000/tptv/G_CCTV-2-HD-265-8M?cdn=tptv1
 CCTV 3,http://192.168.1.111:5000/tptv/G_CCTV-3-AVS-4K264?cdn=tptv1
 CCTV 4,http://192.168.1.111:5000/tptv/G_CCTV-4-HD-265-8M?cdn=tptv1
