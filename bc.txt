@@ -1,6 +1,7 @@
 
 
 Ytb-love,#genre# "udpxy" && country="CN" && city="Meizhou" && header="Linux 5.10.194 i686" 广东电信
+5555,http://154.29.149.9:9981/stream/test/jade/master.m3u8?u=test&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 
 CHC高清电影,P2p://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
 CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
