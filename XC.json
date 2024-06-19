@@ -13,7 +13,8 @@
 {"key":"PanSearch","name":"盘Se","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
 {"key":"米搜","name":"米搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
 
-{"key":"阿里合集","name":"阿里┃合集","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"indexs":0,"jar":"file://xc/json/ok.jar","ext":{"token":"file://TV/ali_token.txt","share":"file://xc/json.json"},"style":{"type":"list"},"timeout":30},
+{"key":"阿里合集","name":"阿里云｜合集","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","share":"file://xc/json/alishare.json"},"style":{"type":"list"},"jar":"file://xc/json/danmu.jar"},
+{"key":"Youtube","name":"Youtube","type":3,"api": "csp_Youtube","searchable": 1,"quickSearch": 0,"changeable": 0,"jar": "file://xc/json/pg.jar;md5;6e1d87747bd75b4084892cb5330e6c1d","ext":{"json":"file://xc/json/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary","proxy":"proxy","codecs":""},"style": {"type": "rect","ratio": 1.5}},
 
 {"key":"YGP","name":"荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"短剧","name":"短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":0},
