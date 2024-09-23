@@ -2,7 +2,7 @@
 //https://raw.githubusercontent.com/alantang1977/X/c1f674a9b20e8bb379d6bd3d05e8c5b8239c17a2/X.json
 //https://raw.githubusercontent.com/Guard-H/tv/main/fj.json_弹幕接口 & jar下载: https://raw.githubusercontent.com/Guard-H/tv/main/file/danmu.jar
 // http://vip.365cloud.me/api/v1/client/subscribe?token=36aeb7afff63507ed4e19d850a13a9ba
-"spider":"file://x/z/z.jar",
+"spider":"http://127.0.0.1:9978/file/x/z/z.jar",
 
 "sites":[{"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"file://x/z/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"file://x/z/js/douban.js"},
 {"key":"lf_js_lf_live","name":"直播","type":3,"api":"file://x/zlive/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"filterable":1,"ext":"file://x/zlive/lf_live.txt"},
@@ -20,8 +20,8 @@
 {"key":"易搜","name":"✨易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json"}},
 {"key":"盤搜","name":"✨盤搜","type":3,"api":"csp_PanSearch","searchable":1,"ext":{"commonConfig":"file://x/s/tok.json"}},
 {"key":"网盘","name":"✨转存","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json","share":"file://x/z/网盘集合.json"}},
-{"key":"Youtube","name":"✨YT","type":3,"api":"csp_Youtube","searchable":1,"style":{"type":"rect","ratio":1.433},"ext":{"commonConfig":"file://x/peizhi.json","json":"file://x/pg/lib/youtube.json","cookie":"CgtxLV9YVTk5SWNjbyjkgsG3BjIKCgJISxIEGgAgQw%3D%3D"}},
-{"key":"TgYunPa","name":"✨Tgs","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe,qixingzhenren","commonConfig":"file://x/s/tok.json"}},
+{"key":"Youtube","name":"✨YT","type":3,"api":"csp_Youtube","searchable":1,"style":{"type":"rect","ratio":1.433},"ext":{"commonConfig":"http://127.0.0.1:9978/file/x/z/peizhi.json","json":"http://127.0.0.1:9978/file/x/pg/lib/youtube.json","cookie":"CgtxLV9YVTk5SWNjbyjkgsG3BjIKCgJISxIEGgAgQw%3D%3D"}},
+{"key":"TgYunPa","name":"✨Tgs","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe,qixingzhenren","commonConfig":"http://127.0.0.1:9978/file/x/s/tok.json"}},
 {"key":"真心网盘","name":"✨网盘","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json","share":"file://x/s/真心.json"}},
 {"key":"真心夸克网盘","name":"✨夸克","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json","share":"file://x/s/夸克网盘.json"}},
 {"key":"真心115网盘","name":"✨115","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json","share":"file://x/s/115网盘.json"}},
@@ -120,3 +120,5 @@
 {"name":"zubo","type":0,"url":"https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo.txt","playerType":2,"ua":"okhttp/3.89","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"bo┃m3u","type":0,"url":"https://raw.githubusercontent.com/leeqys/x/main/bo.m3u","playerType":2,"boot":"true","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"XIUTAN","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"}]}
+
+
