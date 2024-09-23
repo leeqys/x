@@ -28,8 +28,8 @@
 {"key":"真心115网盘","name":"✨115","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json","share":"file://x/s/115网盘.json"}},
 {"key":"真心UC网盘","name":"✨UC","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json","share":"file://x/s/UC网盘.json"}},
 
-{"key":"AliSh","name":"ali.x","type":3,"api":"csp_AliShare","searchable":1,"filterable":0,"jar":"http://127.0.0.1:9978/file/x/pg/pg.jar","ext":"http://127.0.0.1:9978/file/x/s/tok.json$$$file://x/pg/lib/alishare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
-{"key":"115Sh","name":"115.x","type":3,"api":"csp_P115Share","searchable":1,"filterable":0,"jar":"http://127.0.0.1:9978/file/pg/pg.jar","ext":"http://127.0.0.1:9978/file/s/tok.json$$$file://x/pg/lib/115share.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
+{"key":"AliSh","name":"ali.x","type":3,"api":"csp_AliShare","searchable":1,"filterable":0,"jar":"file://x/pg/pg.jar","ext":"http://127.0.0.1:9978/file/x/s/tok.json$$$file://x/pg/lib/alishare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
+{"key":"115Sh","name":"115.x","type":3,"api":"csp_P115Share","searchable":1,"filterable":0,"jar":"file://pg/pg.jar","ext":"http://127.0.0.1:9978/file/s/tok.json$$$file://x/pg/lib/115share.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"UC云盘","name":"UC.x","type":3,"api":"csp_UCShare","searchable":0,"filterable":0,"jar":"file://x/pg/pg.jar","ext":"file://x/s/tok.json$$$file://x/s/ucshare.txt","style":{"type":"list","ratio":1.1}},
 {"key":"Quark","name":"夸.x","type":3,"api":"csp_QuarkShare","searchable":0,"filterable":0,"jar":"file://x/pg/pg.jar","ext":"file://x/s/tok.json$$$file://x/pg/lib/quarkshare.txt","style":{"type":"list","ratio":1.1}},
 
