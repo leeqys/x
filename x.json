@@ -20,16 +20,15 @@
 {"key":"易搜","name":"✨易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json"}},
 {"key":"盤搜","name":"✨盤搜","type":3,"api":"csp_PanSearch","searchable":1,"ext":{"commonConfig":"file://x/s/tok.json"}},
 {"key":"网盘","name":"✨转存","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json","share":"file://x/z/网盘集合.json"}},
-
-{"key":"Youtube","name":"✨YT","type":3,"api":"csp_Youtube","searchable":1,"style":{"type":"rect","ratio":1.433},"ext":{"commonConfig":"http://127.0.0.1:9978/file/z/peizhi.json","json":"http://127.0.0.1:9978/file/pg/lib/youtube.json","cookie":"CgtxLV9YVTk5SWNjbyjkgsG3BjIKCgJISxIEGgAgQw%3D%3D"}},
-{"key":"TgYunPa","name":"✨Tgs","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe,qixingzhenren","commonConfig":"http://127.0.0.1:9978/file/x/s/tok.json"}},
+{"key":"Youtube","name":"✨YT","type":3,"api":"csp_Youtube","searchable":1,"style":{"type":"rect","ratio":1.433},"ext":{"commonConfig":"./z/peizhi.json","json":"./pg/lib/youtube.json","cookie":"CgtxLV9YVTk5SWNjbyjkgsG3BjIKCgJISxIEGgAgQw%3D%3D"}},
+{"key":"TgYunPa","name":"✨Tgs","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe,qixingzhenren","commonConfig":"./s/tok.json"}},
 {"key":"真心网盘","name":"✨网盘","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json","share":"file://x/s/真心.json"}},
 {"key":"真心夸克网盘","name":"✨夸克","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json","share":"file://x/s/夸克网盘.json"}},
 {"key":"真心115网盘","name":"✨115","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json","share":"file://x/s/115网盘.json"}},
 {"key":"真心UC网盘","name":"✨UC","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json","share":"file://x/s/UC网盘.json"}},
 
 {"key":"AliSh","name":"ali.x","type":3,"api":"csp_AliShare","searchable":1,"filterable":0,"jar":"file://x/pg/pg.jar","ext":"file://x/s/tok.json$$$file://x/pg/lib/alishare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
-{"key":"115Sh","name":"115.x","type":3,"api":"csp_P115Share","searchable":1,"filterable":0,"jar":"file://pg/pg.jar","ext":"file://x/s/tok.json$$$file://x/pg/lib/115share.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
+{"key":"115Sh","name":"115.x","type":3,"api":"csp_P115Share","searchable":1,"filterable":0,"jar":"file://x/pg/pg.jar","ext":"file://x/s/tok.json$$$file://x/pg/lib/115share.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"UC云盘","name":"UC.x","type":3,"api":"csp_UCShare","searchable":0,"filterable":0,"jar":"file://x/pg/pg.jar","ext":"file://x/s/tok.json$$$file://x/s/ucshare.txt","style":{"type":"list","ratio":1.1}},
 {"key":"Quark","name":"夸.x","type":3,"api":"csp_QuarkShare","searchable":0,"filterable":0,"jar":"file://x/pg/pg.jar","ext":"file://x/s/tok.json$$$file://x/pg/lib/quarkshare.txt","style":{"type":"list","ratio":1.1}},
 
@@ -121,5 +120,3 @@
 {"name":"zubo","type":0,"url":"https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo.txt","playerType":2,"ua":"okhttp/3.89","boot":"false","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"bo┃m3u","type":0,"url":"https://raw.githubusercontent.com/leeqys/x/main/bo.m3u","playerType":2,"boot":"true","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"XIUTAN","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","type":0,"url":"https://xhdwc.tk/xiutan.m3u"}]}
-
-
