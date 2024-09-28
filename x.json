@@ -2,7 +2,7 @@
 //https://raw.githubusercontent.com/alantang1977/X/c1f674a9b20e8bb379d6bd3d05e8c5b8239c17a2/X.json
 //https://raw.githubusercontent.com/Guard-H/tv/main/fj.json_弹幕接口 & jar下载: https://raw.githubusercontent.com/Guard-H/tv/main/file/danmu.jar
 // http://vip.365cloud.me/api/v1/client/subscribe?token=36aeb7afff63507ed4e19d850a13a9ba
-"spider":"http://127.0.0.1:9978/file/x/z/custom_spider.jar",
+"spider":"file://x/z/custom_spider.jar",
 
 "sites":[{"key":"dr_豆瓣","name":"🔍豆瓣","type":3,"api":"file://x/z/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"file://x/z/js/douban.js"},
 {"key":"lf_js_lf_live","name":"直播","type":3,"api":"file://x/zlive/lf_live_min.js","style":{"type":"oval"},"searchable":1,"filterable":1,"ext":"file://x/zlive/lf_live.txt"},
