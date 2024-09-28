@@ -19,7 +19,7 @@
 {"key":"紙條","name":"✨紙條","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"ext":{"commonConfig":"file://x/s/tok.json"}},
 {"key":"易搜","name":"✨易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json"}},
 {"key":"盤搜","name":"✨盤搜","type":3,"api":"csp_PanSearch","searchable":1,"ext":{"commonConfig":"file://x/s/tok.json"}},
-{"key":"网盘","name":"✨盤.x","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/x/s/tok.json","share":"http://127.0.0.1:9978/file/x/z/网盘集合.json"}},
+{"key":"网盘","name":"✨盤.x","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"file://x/s/tok.json","share":"file://x/z/网盘集合.json"}},
 
 {"key":"Youtube","name":"✨YT","type":3,"api":"csp_Youtube","searchable":1,"style":{"type":"rect","ratio":1.433},"ext":{"commonConfig":"http://127.0.0.1:9978/file/x/z/peizhi.json","json":"file://x/z/youtube.json","cookie":"CgtxLV9YVTk5SWNjbyidp863BjIKCgJISxIEGgAgQw%3D%3D"}},
 
