@@ -1,7 +1,16 @@
 
 YT-广电,#genre#server="udpxy"&&region="Guangdong"&&city="Huizhou"&&org="Chinanet"[广东组播搜索]
 
-测试,https://test.ttvb.eu.org/stream/tvb/null-2/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea凤凰资讯,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=HFib76ySpbU
+咪咕体育,https://livednow.org/migu/list?id=62642503&token=nlps25392CED5202AD35B8BB
+News新闻台,http://live.digimon.us.kg:5500/stream/tvb/news/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+TVB Plus,http://live.digimon.us.kg:5500/stream/tvb/tvbplus/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+翡翠台22,http://live.digimon.us.kg:5500/stream/tvb/null/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+now新闻台,live.digimon.us.kg:5500/stream/tvb/nownews/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+621-英超1台,live.digimon.us.kg:5500/stream/tvb/now1/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+测试1,http://live.digimon.us.kg:5500/stream/tvb/null/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+测试2,https://test.ttvb.eu.org/stream/tvb/null-2/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
+
+凤凰资讯,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=HFib76ySpbU
 中天新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=oIgbl7t0S_w
 寰宇新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=6IquAgfvYmc
 TVBS新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=2mCSYvcfhtc
