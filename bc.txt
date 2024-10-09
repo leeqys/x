@@ -7,8 +7,6 @@ TVB Plus,http://live.digimon.us.kg:5500/stream/tvb/tvbplus/master.m3u8?u=admin&p
 翡翠台22,http://live.digimon.us.kg:5500/stream/tvb/null/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 now新闻台,live.digimon.us.kg:5500/stream/tvb/nownews/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
 621-英超1台,live.digimon.us.kg:5500/stream/tvb/now1/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-测试1,http://live.digimon.us.kg:5500/stream/tvb/null/master.m3u8?u=admin&p=8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-测试2,https://test.ttvb.eu.org/stream/tvb/null-2/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 
 凤凰资讯,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=HFib76ySpbU
 中天新聞,http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://www.youtube.com/watch?v=oIgbl7t0S_w
@@ -509,6 +507,9 @@ iHOT爱悬疑,http://gslbserv.itv.cmvideo.cn:80/6000000006000050630/1.m3u8?chann
 iHOT爱院线,http://gslbserv.itv.cmvideo.cn:80/6000000006000030630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 D-tptv,#genre#
+
+CTV1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?type=proxy
+CTV2,http://192.168.1.111:5000/tptv/G_CCTV-2-HD-265-8M?type=proxy
 
 CCTV1,http://192.168.1.111:5000/tptv/G_CCTV-1-AVS-4K264?type=origin
 CCTV2,http://192.168.1.111:5000/tptv/G_CCTV-2-HD-265-8M?type=origin
