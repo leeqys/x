@@ -73,7 +73,7 @@ proxy-groups:
   - {name: 韩国, type: select, use: [机场-cacapex], filter: "韩国|韩|KR|(?i)SouthKorea"}
   - {name: 美国, type: select, use: [机场-cacapex], filter: "美国|美|US|(?i)UnitedStates"}
   
-  - {name: 台湾专用, type: url-test, url: http://www.gstatic.com/generate_204, interval: 300, use: [机场-三陆伍], proxies: DIRECT}
+  - {name: 台湾专用, type: url-test, url: http://www.gstatic.com/generate_204, interval: 300, use: [机场-三陆伍]}
       
   - {name: 飞鸟云, type: select, use: [机场-feiniao], filter: "香港|台湾|日本|韩国|新加坡|美国"}
   - {name: 三陆伍, type: select, use: [机场-三陆伍], filter: "香港|台湾|日本|韩国|新加坡|美国"}
