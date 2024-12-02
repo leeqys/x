@@ -171,35 +171,45 @@ rule-providers:
     interval: 86400
     
 rules:
-  - DOMAIN-KEYWORD,realms,PROXY
-  - DOMAIN-KEYWORD,discord,PROXY
-  - DOMAIN-KEYWORD,bochk,PROXY
-  - DOMAIN-KEYWORD,cryptowesearch,PROXY
-  - DOMAIN-KEYWORD,bitget,PROXY
-  - DOMAIN-KEYWORD,defillama,PROXY
-  - DOMAIN-KEYWORD,mempool,PROXY
+  - DOMAIN-KEYWORD, realms,PROXY
+  - DOMAIN-KEYWORD, discord,PROXY
+  - DOMAIN-KEYWORD, bochk,PROXY
+  - DOMAIN-KEYWORD, cryptowesearch,PROXY
+  - DOMAIN-KEYWORD, defillama,PROXY
+  - DOMAIN-KEYWORD, mempool,PROXY
+  - DOMAIN-KEYWORD, mrc20,okx
+  - DOMAIN-KEYWORD, roidstation,okx
+  - DOMAIN-KEYWORD, kinza,okx
+  - DOMAIN-KEYWORD, dexscreener, PROXY
+  - DOMAIN-KEYWORD, logofacade, okx
+  - DOMAIN-KEYWORD, ave, PROXY
+  - DOMAIN-KEYWORD, aicoin, okx
+  - DOMAIN-KEYWORD, mexc, PROXY
+  - DOMAIN-KEYWORD, binance, okx
+  - DOMAIN-KEYWORD, bitget, okx
+  - DOMAIN-KEYWORD, okx, DIRECT
+  - DOMAIN-KEYWORD, umeng, DIRECT
+  - DOMAIN-KEYWORD, zohopublic, DIRECT
+  - DOMAIN-KEYWORD, gdtimg, DIRECT
+  - DOMAIN-KEYWORD, pixman, DIRECT
+  - DOMAIN-KEYWORD, ecword.cloudns.be, DIRECT
+  - DOMAIN-KEYWORD, qualcomm, 国际视频
+  - DOMAIN-KEYWORD, stream, 国际视频
+  - DOMAIN-KEYWORD, nivod4,国外视频
+  - DOMAIN-KEYWORD, youtube,国外视频
+  - DOMAIN-KEYWORD, berachain,国外视频
 
-  - DOMAIN-KEYWORD,mrc20,okx
-  - DOMAIN-KEYWORD,roidstation,okx
-  - DOMAIN-KEYWORD,kinza,okx
-  - DOMAIN-KEYWORD,binance,okx
-  - DOMAIN-KEYWORD,okx,okx
-
-  - DOMAIN-KEYWORD,nivod4,国外视频
-  - DOMAIN-KEYWORD,youtube,国外视频
-  - DOMAIN-KEYWORD,berachain,国外视频
-
-  - DOMAIN-KEYWORD,wynd,DIRECT
-  - DOMAIN-KEYWORD,getgrass,DIRECT
-  - DOMAIN-KEYWORD,gateway,DIRECT
-  - DOMAIN-KEYWORD,bigdatacloud,DIRECT
-  - DOMAIN-KEYWORD,163,DIRECT
+  - DOMAIN-KEYWORD, wynd,DIRECT
+  - DOMAIN-KEYWORD, getgrass,DIRECT
+  - DOMAIN-KEYWORD, gateway,DIRECT
+  - DOMAIN-KEYWORD, bigdatacloud,DIRECT
+  - DOMAIN-KEYWORD, 163,DIRECT
   
-  - DOMAIN-SUFFIX,cmvideo.cn,DIRECT
-  - DOMAIN-SUFFIX,dnsany.com,DIRECT
+  - DOMAIN-SUFFIX, cmvideo.cn,DIRECT
+  - DOMAIN-SUFFIX, dnsany.com,DIRECT
   - DOMAIN-KEYWORD, adobe, REJECT
-  - DOMAIN-SUFFIX,adobe.com,REJECT
-  - DOMAIN-SUFFIX,adobe.io,REJECT
+  - DOMAIN-SUFFIX, adobe.com,REJECT
+  - DOMAIN-SUFFIX, adobe.io,REJECT
 
   - RULE-SET,applications,DIRECT
   - DOMAIN,clash.razord.top,DIRECT
