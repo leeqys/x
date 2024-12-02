@@ -66,13 +66,14 @@ proxy-groups:
   - {name: 国外视频, type: select, proxies: [节点选择, DIRECT, 香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
   - {name: 漏网之鱼, type: select, proxies: [节点选择, DIRECT, 香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
   # 采用节点负载均衡策略，优点是更稳定，速度可能有提升；推荐在节点复用比较多的情况下使用
-  - {name: 香港, type: select, use: [机场-三陆伍], filter: "香港|港|HK|(?i)HongKong"}
-  - {name: 新加坡, type: select, use: [机场-三陆伍], filter: "新加坡|狮|SG|(?i)Singapore"}
-  - {name: 台湾, type: select, use: [机场-三陆伍], filter: "台湾|湾|TW|(?i)Taiwan"}
-  - {name: 日本, type: select, use: [机场-三陆伍], filter: "日本|日|JP|(?i)Japan"}
-  - {name: 韩国, type: select, use: [机场-三陆伍], filter: "韩国|韩|KR|(?i)SouthKorea"}
-  - {name: 美国, type: select, use: [机场-三陆伍], filter: "美国|美|US|(?i)UnitedStates"}
+  - {name: 香港, type: select, use: [机场-cacapex], filter: "香港|港|HK|(?i)HongKong"}
+  - {name: 新加坡, type: select, use: [机场-cacapex], filter: "新加坡|狮|SG|(?i)Singapore"}
+  - {name: 台湾, type: select, use: [机场-cacapex], filter: "台湾|湾|TW|(?i)Taiwan"}
+  - {name: 日本, type: select, use: [机场-cacapex], filter: "日本|日|JP|(?i)Japan"}
+  - {name: 韩国, type: select, use: [机场-cacapex], filter: "韩国|韩|KR|(?i)SouthKorea"}
+  - {name: 美国, type: select, use: [机场-cacapex], filter: "美国|美|US|(?i)UnitedStates"}
 
+  - {name: 台湾专用, type: select, use: [机场-三陆伍], filter: "台湾|湾|TW|(?i)Taiwan"}
   - {name: 飞鸟云, type: select, use: [机场-feiniao], filter: "香港|台湾|日本|韩国|新加坡|美国"}
   - {name: 三陆伍, type: select, use: [机场-三陆伍], filter: "香港|台湾|日本|韩国|新加坡|美国"}
   - {name: cacapex, type: select, use: [机场-cacapex], filter: "香港|台湾|日本|韩国|新加坡|美国"}
