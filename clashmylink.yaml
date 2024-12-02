@@ -188,17 +188,18 @@ rules:
   - DOMAIN-KEYWORD,nivod4,国外视频
   - DOMAIN-KEYWORD,youtube,国外视频
   - DOMAIN-KEYWORD,berachain,国外视频
-  - DOMAIN-SUFFIX,mi.com,国外视频
 
   - DOMAIN-KEYWORD,wynd,DIRECT
   - DOMAIN-KEYWORD,getgrass,DIRECT
   - DOMAIN-KEYWORD,gateway,DIRECT
   - DOMAIN-KEYWORD,bigdatacloud,DIRECT
   - DOMAIN-KEYWORD,163,DIRECT
-
+  
   - DOMAIN-SUFFIX,cmvideo.cn,DIRECT
   - DOMAIN-SUFFIX,dnsany.com,DIRECT
-
+  - DOMAIN-KEYWORD, adobe, REJECT
+  - DOMAIN-SUFFIX,adobe.com,REJECT
+  - DOMAIN-SUFFIX,adobe.io,REJECT
 
   - RULE-SET,applications,DIRECT
   - DOMAIN,clash.razord.top,DIRECT
