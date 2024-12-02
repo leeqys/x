@@ -193,8 +193,8 @@ rules:
   - DOMAIN-KEYWORD, gdtimg, DIRECT
   - DOMAIN-KEYWORD, pixman, DIRECT
   - DOMAIN-KEYWORD, ecword.cloudns.be, DIRECT
-  - DOMAIN-KEYWORD, qualcomm, 国际视频
-  - DOMAIN-KEYWORD, stream, 国际视频
+  - DOMAIN-KEYWORD, qualcomm, 国外视频
+  - DOMAIN-KEYWORD, stream, 国外视频
   - DOMAIN-KEYWORD, nivod4,国外视频
   - DOMAIN-KEYWORD, youtube,国外视频
   - DOMAIN-KEYWORD, berachain,国外视频
