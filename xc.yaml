@@ -62,7 +62,7 @@ tun:
 proxy-groups:
   - {name: 节点选择, type: select, proxies: [香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
   - {name: PROXY, type: select, proxies: [节点选择, DIRECT, 香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
-  - {name: okx, type: select, proxies: [节点选择, 香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
+  - {name: okx, type: select, proxies: [节点选择, 台湾专用, 香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
   - {name: 国外视频, type: select, proxies: [节点选择, DIRECT, 香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
   - {name: 漏网之鱼, type: select, proxies: [节点选择, DIRECT, 香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
   # 采用节点负载均衡策略，优点是更稳定，速度可能有提升；推荐在节点复用比较多的情况下使用
