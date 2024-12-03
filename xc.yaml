@@ -87,6 +87,10 @@ proxy-groups:
 
   - {name: 🇺🇸 美国, type: load-balance, strategy: consistent-hashing, lazy: true, use: [机场-三陆伍], filter: "美国"}
 
+  - {name: 飞鸟云, type: select, use: [机场-feiniao], filter: "香港|台湾|日本|韩国|新加坡|美国"}
+  - {name: 三陆伍, type: select, use: [机场-三陆伍], filter: "香港|台湾|日本|韩国|新加坡|美国"}
+  - {name: cacapex, type: select, use: [机场-cacapex], filter: "香港|台湾|日本|韩国|新加坡|美国"}
+
 
 rule-providers:
   reject:
