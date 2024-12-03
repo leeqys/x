@@ -75,6 +75,7 @@ proxy-groups:
   
   - {name: 台湾专用, type: url-test, tolerance: 50, include-all-providers: true, use: [机场-三陆伍], filter: "台湾|湾|TW|(?i)Taiwan"}
 
+ - { name: 自动选择, type: url-test, url: http://www.gstatic.com/generate_204, interval: 300, use: [机场-三陆伍], filter: "台湾|湾|TW|(?i)Taiwan", proxies: [] }
   - {name: 飞鸟云, type: select, use: [机场-feiniao], filter: "香港|台湾|日本|韩国|新加坡|美国"}
   - {name: 三陆伍, type: select, use: [机场-三陆伍], filter: "香港|台湾|日本|韩国|新加坡|美国"}
   - {name: cacapex, type: select, use: [机场-cacapex], filter: "香港|台湾|日本|韩国|新加坡|美国"}
