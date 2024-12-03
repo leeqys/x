@@ -73,10 +73,19 @@ proxy-groups:
   - {name: 韩国, type: select, use: [机场-cacapex], filter: "韩国|韩|KR|(?i)SouthKorea"}
   - {name: 美国, type: select, use: [机场-cacapex], filter: "美国|美|US|(?i)UnitedStates"}
   
-  - {name: 台湾专用, type: url-test, url: http://www.gstatic.com/generate_204, interval: 300, tolerance: 50, include-all-providers: true, use: [机场-三陆伍], filter: "台湾|湾|TW|(?i)Taiwan"}
-  - {name: 飞鸟云, type: select, use: [机场-feiniao], filter: "香港|台湾|日本|韩国|新加坡|美国"}
-  - {name: 三陆伍, type: select, use: [机场-三陆伍], filter: "香港|台湾|日本|韩国|新加坡|美国"}
-  - {name: cacapex, type: select, use: [机场-cacapex], filter: "香港|台湾|日本|韩国|新加坡|美国"}
+ 
+ # 采用节点负载均衡策略，优点是更稳定，速度可能有提升；推荐在节点复用比较多的情况下使用
+  - {name: 🇭🇰 香港, type: load-balance, strategy: consistent-hashing, lazy: true, use: [机场-三陆伍], filter: "香港"}
+
+  - {name: 🇹🇼 台湾, type: load-balance, strategy: consistent-hashing, lazy: true, use: [机场-三陆伍], filter: "台湾"}
+
+  - {name: 🇯🇵 日本, type: load-balance, strategy: consistent-hashing, lazy: true, use: [机场-三陆伍], filter: "日本"}
+
+  - {name: 🇰🇷 韩国, type: load-balance, strategy: consistent-hashing, lazy: true, use: [机场-三陆伍], filter: "韩国"}
+
+  - {name: 🇸🇬 新加坡, type: load-balance, strategy: consistent-hashing, lazy: true, use: [机场-三陆伍], filter: "新加坡"}
+
+  - {name: 🇺🇸 美国, type: load-balance, strategy: consistent-hashing, lazy: true, use: [机场-三陆伍], filter: "美国"}
 
 
 rule-providers:
