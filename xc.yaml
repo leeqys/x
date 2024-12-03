@@ -1,5 +1,5 @@
 proxy-providers:
-  机场-cacapex:
+  cacapex:
     type: http
     # 修改为你的 Clash 订阅链接
     url: "https://submit.xz61.cn:23443/api/v1/client/subscribe?token=0b1588a8967fa313fdcfcf6b07e91cb9"
@@ -10,7 +10,7 @@ proxy-providers:
       enable: true
       url: "https://www.gstatic.com/generate_204"
       interval: 600
-  机场-三陆伍:
+  三陆伍:
     type: http
     # 修改为你的 Clash 订阅链接
     url: "http://vip.365cloud.me/api/v1/client/subscribe?token=36aeb7afff63507ed4e19d850a13a9ba"
@@ -22,7 +22,7 @@ proxy-providers:
       url: "https://www.gstatic.com/generate_204"
       interval: 600
 
-  机场-feiniao:
+  feiniao:
     type: http
     # 修改为你的 Clash 订阅链接
     url: "https://feiniaoyun.xyz/api/v1/client/subscribe?token=45bff854bc3836e7e8bacb16142c950a"
@@ -60,24 +60,24 @@ tun:
   strict-route: true
 
 proxy-groups:
-  - {name: 节点选择, type: select, proxies: [香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
+  - {name: 节点选择, type: select, proxies: [香港, 新加坡, 台湾, 日本, 韩国, 美国, okxtw, 飞鸟云, 三陆伍, cacapex]}
   - {name: PROXY, type: select, proxies: [节点选择, DIRECT, 香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
-  - {name: okx, type: select, proxies: [节点选择, 台湾专用, 香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
+  - {name: okx, type: select, proxies: [节点选择, okxtw, 香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
   - {name: 国外视频, type: select, proxies: [节点选择, DIRECT, 香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
   - {name: 漏网之鱼, type: select, proxies: [节点选择, DIRECT, 香港, 新加坡, 台湾, 日本, 韩国, 美国, 飞鸟云, 三陆伍, cacapex]}
   # 采用节点负载均衡策略，优点是更稳定，速度可能有提升；推荐在节点复用比较多的情况下使用
-  - {name: 香港, type: select, use: [机场-cacapex], filter: "香港|港|HK|(?i)HongKong"}
-  - {name: 新加坡, type: select, use: [机场-cacapex], filter: "新加坡|狮|SG|(?i)Singapore"}
-  - {name: 台湾, type: select, use: [机场-cacapex], filter: "台湾|湾|TW|(?i)Taiwan"}
-  - {name: 日本, type: select, use: [机场-cacapex], filter: "日本|日|JP|(?i)Japan"}
-  - {name: 韩国, type: select, use: [机场-cacapex], filter: "韩国|韩|KR|(?i)SouthKorea"}
-  - {name: 美国, type: select, use: [机场-cacapex], filter: "美国|美|US|(?i)UnitedStates"}
+  - {name: 香港, type: load-balance, strategy: consistent-hashing, lazy: true, use: [cacapex], filter: "香港|港|HK|(?i)HongKong"}
+  - {name: 新加坡, type: load-balance, strategy: consistent-hashing, lazy: true, use: [cacapex], filter: "新加坡|狮|SG|(?i)Singapore"}
+  - {name: 台湾, type: load-balance, strategy: consistent-hashing, lazy: true, use: [cacapex], filter: "台湾|湾|TW|(?i)Taiwan"}
+  - {name: 日本, type: load-balance, strategy: consistent-hashing, lazy: true, use: [cacapex], filter: "日本|日|JP|(?i)Japan"}
+  - {name: 韩国, type: load-balance, strategy: consistent-hashing, lazy: true, use: [cacapex], filter: "韩国|韩|KR|(?i)SouthKorea"}
+  - {name: 美国, type: load-balance, strategy: consistent-hashing, lazy: true, use: [cacapex], filter: "美国|美|US|(?i)UnitedStates"}
   
-  - {name: 台湾专用, type: load-balance, strategy: consistent-hashing, lazy: true, use: [机场-三陆伍], filter: "台湾"}
-  - {name: 飞鸟云, type: select, use: [机场-feiniao], filter: "香港|台湾|日本|韩国|新加坡|美国"}
-  - {name: 三陆伍, type: select, use: [机场-三陆伍], filter: "香港|台湾|日本|韩国|新加坡|美国"}
-  - {name: cacapex, type: select, use: [机场-cacapex], filter: "香港|台湾|日本|韩国|新加坡|美国"}
-
+   # 采用节点负载均衡策略，优点是更稳定，速度可能有提升；推荐在节点复用比较多的情况下使用
+  - {name: okxtw, type: load-balance, strategy: consistent-hashing, lazy: true, use: [三陆伍], filter: "台湾"}
+  - {name: 飞鸟云, type: select, use: [feiniao], filter: "香港|台湾|日本|韩国|新加坡|美国"}
+  - {name: 三陆伍, type: select, use: [三陆伍], filter: "香港|台湾|日本|韩国|新加坡|美国"}
+  - {name: cacapex, type: select, use: [cacapex], filter: "香港|台湾|日本|韩国|新加坡|美国"}
 
 rule-providers:
   reject:
