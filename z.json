@@ -70,8 +70,9 @@
 
 "wallpaper":"https://bing.img.run/rand.php","lives":[
 
-{"name":"bc┃在线","type":0,"url":"https://d.kstore.dev/download/3333/bc.txt","playerType":2,"ua":"okhttp/3.89","boot":"false","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
-{"name":"bc┃本地","type":0,"url":"http://127.0.0.1:9978/file/x/Live/bc.txt","playerType":2,"ua":"okhttp/3.89","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"name":"bc┃Git","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/leeqys/x/refs/heads/main/bc.txt","playerType":2,"ua":"okhttp/3.89","boot":"false","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"name":"bc┃Lc","type":0,"url":"http://127.0.0.1:9978/file/x/Live/bc.txt","playerType":2,"ua":"okhttp/3.89","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"name":"bc┃Ks","type":0,"url":"https://d.kstore.dev/download/3333/bc.txt","playerType":2,"ua":"okhttp/3.89","boot":"false","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 //{"name":"肥羊国内","type":3,"api":"csp_Feiyang","url":"tv.m3u","ext":"https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/allinone;md5;https://raw.githubusercontent.com/lystv/fmapp/ok/apk/allinone/v7/md5","jar":"http://127.0.0.1:9978/file/z/tv/zip/fm.jar"},
 {"name":"now-free","type":0,"url":"http://192.168.1.111:8000/now-free.m3u","playerType":2,"ua":"okhttp/3.89","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"mtv","type":0,"url":"https://d.kstore.dev/download/3333/mytvsuper.m3u","playerType":2,"ua":"judy/5.2.1","boot":"false","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
