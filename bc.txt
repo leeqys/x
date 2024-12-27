@@ -1,6 +1,7 @@
 
 YT-viedo,#genre#server="udpxy"&&region="Guangdong"&&city="Huizhou"&&org="Chinanet"[广东组播搜索]
 
+腾讯体育,http://192.168.1.111:35455/txevent.m3u?main_login=qq&vqq_appid=101481799&vqq_openid=07E78B8E886CB6F6CB28D60CCE5926EE&vqq_access_token= B15B77164853924C5942D5F028C21CAC
 凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
