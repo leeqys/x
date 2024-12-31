@@ -21,6 +21,9 @@ CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 台視新聞,http://192.168.1.111:5000/youtube/xL0ch83RAK8
 中視新聞,http://192.168.1.111:5000/youtube/TCnaIE_SAtM
 
+
+肥羊测试,http://192.168.1.111:35455/youtube/HFib76ySpbU?quality=1080
+
 凤凰资讯,https://www.youtube.com/watch?v=HFib76ySpbU
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
