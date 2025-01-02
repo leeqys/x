@@ -359,7 +359,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="🐑|央视CCTV|4K",SiTV-欢笑剧场-4K
 http://192.168.1.111:35455/itv/5000000007000010001.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="🐑|央视CCTV|4K",cctv1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="🐑|央视CCTV|4K",CCTV1
 http://192.168.1.111:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="🐑|央视CCTV|4K",CCTV1
 http://192.168.1.111:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
@@ -367,7 +367,7 @@ http://192.168.1.111:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
 http://192.168.1.111:35455/itv/5000000004000002226.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="🐑|央视CCTV|4K",CCTV1
 http://192.168.1.111:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="🐑|央视CCTV|4K",cctv2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="🐑|央视CCTV|4K",CCTV2
 http://192.168.1.111:35455/gaoma/cctv2.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="🐑|央视CCTV|4K",CCTV2
 http://192.168.1.111:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
@@ -375,25 +375,25 @@ http://192.168.1.111:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
 http://192.168.1.111:35455/itv/6000000001000014161.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="🐑|央视CCTV|4K",CCTV2
 http://192.168.1.111:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="🐑|央视CCTV|4K",cctv3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="🐑|央视CCTV|4K",CCTV3
 http://192.168.1.111:35455/gaoma/cctv3.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="🐑|央视CCTV|4K",CCTV3
 http://192.168.1.111:35455/itv/6000000001000022313.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="🐑|央视CCTV|4K",CCTV3
 http://192.168.1.111:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="🐑|央视CCTV|4K",cctv4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="🐑|央视CCTV|4K",CCTV4
 http://192.168.1.111:35455/gaoma/cctv4.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="🐑|央视CCTV|4K",CCTV4
 http://192.168.1.111:35455/itv/5000000011000031102.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="🐑|央视CCTV|4K",CCTV4
 http://192.168.1.111:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="🐑|央视CCTV|4K",cctv5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="🐑|央视CCTV|4K",CCTV5
 http://192.168.1.111:35455/gaoma/cctv5.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="🐑|央视CCTV|4K",CCTV5
 http://192.168.1.111:35455/itv/1000000005000025222.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="🐑|央视CCTV|4K",CCTV5
 http://192.168.1.111:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="🐑|央视CCTV|4K",cctv5p
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="🐑|央视CCTV|4K",CCTV5p
 http://192.168.1.111:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="🐑|央视CCTV|4K",CCTV5+
 http://192.168.1.111:35455/itv/6000000001000015875.m3u8?cdn=wasusyt
@@ -405,7 +405,7 @@ http://192.168.1.111:35455/itv/1000000001000001737.m3u8?cdn=ystenlive
 http://192.168.1.111:35455/itv/6000000001000004574.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="🐑|央视CCTV|4K",CCTV6
 http://192.168.1.111:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="🐑|央视CCTV|4K",cctv7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="🐑|央视CCTV|4K",CCTV7
 http://192.168.1.111:35455/gaoma/cctv7.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="🐑|央视CCTV|4K",CCTV7
 http://192.168.1.111:35455/itv/1000000001000024341.m3u8?cdn=ystenlive
@@ -413,13 +413,13 @@ http://192.168.1.111:35455/itv/1000000001000024341.m3u8?cdn=ystenlive
 http://192.168.1.111:35455/itv/6000000001000009055.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="🐑|央视CCTV|4K",CCTV7
 http://192.168.1.111:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="🐑|央视CCTV|4K",cctv8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="🐑|央视CCTV|4K",CCTV8
 http://192.168.1.111:35455/gaoma/cctv8.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="🐑|央视CCTV|4K",CCTV8
 http://192.168.1.111:35455/itv/6000000001000001070.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="🐑|央视CCTV|4K",CCTV8
 http://192.168.1.111:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="🐑|央视CCTV|4K",cctv9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="🐑|央视CCTV|4K",CCTV9
 http://192.168.1.111:35455/gaoma/cctv9.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="🐑|央视CCTV|4K",CCTV9
 http://192.168.1.111:35455/itv/1000000001000014583.m3u8?cdn=ystenlive
@@ -427,7 +427,7 @@ http://192.168.1.111:35455/itv/1000000001000014583.m3u8?cdn=ystenlive
 http://192.168.1.111:35455/itv/6000000001000032162.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="🐑|央视CCTV|4K",CCTV9
 http://192.168.1.111:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="🐑|央视CCTV|4K",cctv10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="🐑|央视CCTV|4K",CCTV10
 http://192.168.1.111:35455/gaoma/cctv10.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="🐑|央视CCTV|4K",CCTV10
 http://192.168.1.111:35455/itv/1000000001000023734.m3u8?cdn=ystenlive
@@ -435,13 +435,13 @@ http://192.168.1.111:35455/itv/1000000001000023734.m3u8?cdn=ystenlive
 http://192.168.1.111:35455/itv/5000000004000012827.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="🐑|央视CCTV|4K",CCTV10
 http://192.168.1.111:35455/itv/1000000005000265010.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="🐑|央视CCTV|4K",cctv11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="🐑|央视CCTV|4K",CCTV11
 http://192.168.1.111:35455/gaoma/cctv11.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="🐑|央视CCTV|4K",CCTV11
 http://192.168.1.111:35455/itv/5000000011000031106.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="🐑|央视CCTV|4K",CCTV11
 http://192.168.1.111:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="🐑|央视CCTV|4K",cctv12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="🐑|央视CCTV|4K",CCTV12
 http://192.168.1.111:35455/gaoma/cctv12.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="🐑|央视CCTV|4K",CCTV12
 http://192.168.1.111:35455/itv/1000000001000032494.m3u8?cdn=ystenlive
@@ -449,11 +449,11 @@ http://192.168.1.111:35455/itv/1000000001000032494.m3u8?cdn=ystenlive
 http://192.168.1.111:35455/itv/6000000001000022586.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="🐑|央视CCTV|4K",CCTV12
 http://192.168.1.111:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="🐑|央视CCTV|4K",cctv13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="🐑|央视CCTV|4K",CCTV13
 http://192.168.1.111:35455/gaoma/cctv13.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="🐑|央视CCTV|4K",CCTV13
 http://192.168.1.111:35455/itv/5000000011000031108.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="🐑|央视CCTV|4K",cctv14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="🐑|央视CCTV|4K",CCTV14
 http://192.168.1.111:35455/gaoma/cctv14.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="🐑|央视CCTV|4K",CCTV14
 http://192.168.1.111:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
@@ -461,17 +461,17 @@ http://192.168.1.111:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
 http://192.168.1.111:35455/itv/5000000004000006673.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="🐑|央视CCTV|4K",CCTV14
 http://192.168.1.111:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="🐑|央视CCTV|4K",cctv15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="🐑|央视CCTV|4K",CCTV15
 http://192.168.1.111:35455/gaoma/cctv15.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="🐑|央视CCTV|4K",CCTV15
 http://192.168.1.111:35455/itv/5000000011000031109.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="🐑|央视CCTV|4K",CCTV15
 http://192.168.1.111:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="🐑|央视CCTV|4K",cctv16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="🐑|央视CCTV|4K",CCTV16
 http://192.168.1.111:35455/gaoma/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="🐑|央视CCTV|4K",CCTV16
 http://192.168.1.111:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="🐑|央视CCTV|4K",cctv17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="🐑|央视CCTV|4K",CCTV17
 http://192.168.1.111:35455/gaoma/cctv17.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="🐑|央视CCTV|4K",CCTV17
 http://192.168.1.111:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
@@ -685,9 +685,9 @@ http://192.168.1.111:5555/6000000003000004748/wasusyt/index.m3u8
 http://192.168.1.111:5555/2000000004000000014/hnbblive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="🐑|卫视频道",北京纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1 tvg-id="CCTV8k" tvg-name="CCTV8k" group-title="🐑|卫视频道",cctv8k_36m
+#EXTINF:-1 tvg-id="CCTV8k" tvg-name="CCTV8k" group-title="🐑|卫视频道",CCTV8k_36m
 http://192.168.1.111:35455/gaoma/cctv8k_36m.m3u8
-#EXTINF:-1 tvg-id="CCTV8k" tvg-name="CCTV8k" group-title="🐑|卫视频道",cctv8k_120m
+#EXTINF:-1 tvg-id="CCTV8k" tvg-name="CCTV8k" group-title="🐑|卫视频道",CCTV8k_120m
 http://192.168.1.111:35455/gaoma/cctv8k_120m.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="🐑|卫视频道",北京卫视
 http://192.168.1.111:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
