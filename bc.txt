@@ -1,32 +1,6 @@
 
 Judy「YT」,#genre#
 
-广东体育,https://iptv.vip-tptv.xyz/cao.php?id=mediacorp6
-TVB星河台,https://iptv.vip-tptv.xyz/cao.php?id=tvb-xinghe
-翡翠台(字幕版),https://iptv.vip-tptv.xyz/cao.php?id=feicui
-凤凰资讯,https://iptv.vip-tptv.xyz/cao.php?id=phtv-info
-凤凰中文,https://iptv.vip-tptv.xyz/cao.php?id=phtv-cn
-凤凰香港,https://iptv.vip-tptv.xyz/cao.php?id=phtv-hk
-美亚电影,https://iptv.vip-tptv.xyz/tv.php?id=1
-天映频道,https://iptv.vip-tptv.xyz/tv.php?id=2
-纬来电影,https://iptv.vip-tptv.xyz/tv.php?id=3
-东森电影,https://iptv.vip-tptv.xyz/tv.php?id=4
-纬来体育,https://iptv.vip-tptv.xyz/tv.php?id=7
-爱尔达影剧,https://iptv.vip-tptv.xyz/tv.php?id=9
-i-Fun 動漫台,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv15
-tvbs,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv073
-Now 新闻台,https://iptv.vip-tptv.xyz/cao.php?id=now-news
-Now 直播台,https://iptv.vip-tptv.xyz/cao.php?id=now-direct
-天映频道SG,https://iptv.vip-tptv.xyz/tv.php?id=11
-翡翠台(字幕版),https://www.livednow.us.kg/tvb/feicui/feicui.m3u8
-广东体育,https://www.livednow.us.kg/hami/guangdongtiyu/guangdongtiyu.m3u8
-TVB星河台 L-HL,https://iptv.vip-tptv.xyz/tv.php?id=14
-TVB星河台 HK-HL,https://iptv.vip-tptv.xyz/tv.php?id=21
-TVB星河台,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8
-Astro AOD,http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
-Astro iQIYI,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8
-Astro天映频道,https://www.livednow.us.kg/astro/tianying/tianying.m3u8
-
 凤凰资讯,https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 凤凰中文,https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
