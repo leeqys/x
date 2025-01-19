@@ -50,11 +50,10 @@
 {"key":"Bili","name":"🅱哔哔合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"ext":{"json":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/bilibili.json"}},
 {"key":"Biliych","name":"🅱哔哔演唱","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"ext":{"json":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/biliych.json"}},
 
-{"key":"drpy_js_木耳","name":"木耳","type":3,"api":"http://127.0.0.1:9978/file/z/tv/dr/drpy2.min.js","ext":"http://127.0.0.1:9978/file/z/s/黑木耳资源[资].js"},
-{"key":"drpy_js_饭团","name":"饭团","type":3,"api":"http://127.0.0.1:9978/file/z/tv/dr/drpy2.min.js","ext":"http://127.0.0.1:9978/file/z/s/饭团影视.js"},
-{"key":"drpy_js_爱迪","name":"爱迪","type":3,"api":"http://127.0.0.1:9978/file/z/tv/dr/drpy2.min.js","ext":"http://127.0.0.1:9978/file/z/s/爱迪影视.js"},
-{"key":"drpy_js_美剧","name":"六九","type":3,"api":"http://127.0.0.1:9978/file/z/tv/dr/drpy2.min.js","ext":"http://127.0.0.1:9978/file/z/s/69美剧.js"},
-{"key":"drpy_js_农民","name":"农民","type":3,"api":"http://127.0.0.1:9978/file/z/tv/dr/drpy2.min.js","ext":"http://127.0.0.1:9978/file/z/s/农民影视[优].js"},
+{"key":"hipy_js_木耳","name":"木耳","type":3,"api":"file://z/drpy_dzlive/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"file://z/drpy_dzlive/drpy_js/黑木耳资源[资].js"},
+{"key":"hipy_js_饭团","name":"饭团","type":3,"api":"file://z/drpy_dzlive/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"file://z/drpy_dzlive/drpy_js/饭团影视.js"},
+{"key":"hipy_js_爱迪","name":"爱迪","type":3,"api":"file://z/drpy_dzlive/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"file://z/drpy_dzlive/drpy_js/爱迪影视.js"},
+{"key":"hipy_js_农民","name":"农民","type":3,"api":"file://z/drpy_dzlive/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"file://z/drpy_dzlive/drpy_js/农民影视[优].js"},
 
 {"key":"hipy_js_360","name":"360","type":3,"api":"file://z/drpy_dzlive/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"file://z/drpy_dzlive/drpy_js/360影视[官].js"},
 {"key":"hipy_js_菜狗","name":"菜狗","type":3,"api":"file://z/drpy_dzlive/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"file://z/drpy_dzlive/drpy_js/菜狗[官].js"},
