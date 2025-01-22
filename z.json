@@ -69,7 +69,7 @@
 
 "wallpaper":"https://bing.img.run/rand.php","lives":[
 
-{"name":"bc┃Ks","type":0,"url":"https://d.kstore.dev/download/3333/bc.txt","playerType":2,"ua":"okhttp/3.89","boot":"false","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"name":"bc┃Ks","type":0,"url":"https://d.kstore.dev/download/3333/bc.txt","playerType":2,"ua":"okhttp/3.89","boot":"true","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"bc┃Git","type":0,"url":"https://raw.githubusercontent.com/leeqys/x/refs/heads/main/bc.txt","playerType":2,"ua":"okhttp/3.89","boot":"false","epg":"https://down.nigx.cn/diyp2.112114.xyz/?ch={name}&date={date}"},
 {"name":"bc┃M3U","type":0,"url":"https://raw.githubusercontent.com/leeqys/x/refs/heads/main/bc.m3u","playerType":2,"ua":"okhttp/3.89","boot":"false","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"name":"bc┃Lc","type":0,"url":"http://127.0.0.1:9978/file/x/z/tv/bc.txt","playerType":2,"ua":"okhttp/3.89","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
