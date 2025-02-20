@@ -122,5 +122,5 @@
 
 {"name":"bc┃M3U","type":0,"url":"https://raw.githubusercontent.com/leeqys/x/refs/heads/main/bc.m3u","ua":"okhttp/3.89","boot":"false","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}      ]
     
-    ]}
+    }
 
